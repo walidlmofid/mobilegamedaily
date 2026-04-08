@@ -1,0 +1,540 @@
+[
+  {
+    "id": "call-of-duty-mobile",
+    "title": "Call of Duty Mobile",
+    "developer": "Activision Publishing",
+    "genre": "Action/FPS",
+    "rating": 4.5,
+    "size": "2.4 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/7EYMGcOGJGmfJHHMnRAzEPqcprvTRHDh3RDljGbOBPsMKIWByKzO1IJpmXVG6lMnCUk=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/9kIgXaL1lq0iI-LuL-qMFXYHek2nprrCplzX5HCJoU1_dJ07voZkuLp37rcxNCGjXA=w1052-h592-rw",
+    "description": "Call of Duty Mobile brings console-quality FPS action to your phone with iconic maps, modes, and weapons from the franchise.",
+    "features": [
+      "Iconic multiplayer maps",
+      "Battle Royale mode",
+      "Ranked competitive play",
+      "Regular seasonal updates"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter",
+    "appStoreUrl": "https://apps.apple.com/app/call-of-duty-mobile/id1287282214",
+    "featured": true
+  },
+  {
+    "id": "fortnite",
+    "title": "Fortnite",
+    "developer": "Epic Games",
+    "genre": "Battle Royale",
+    "rating": 4.4,
+    "size": "2.9 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/BIheXwOzrUBmSJ1x_UGfeoO3v3N93r4t3WQhoTGHsFskZh0GXnppbc9-fWz4utWFNZddwuO356Xxkb0tnWCM6qI=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/sLBgtFISOq4LmdEdGCArBCkFk8IhRmFyodh2pm9d4_Ha0QQfBtul7ZpOPVzilk_5vtkPSyi9ZQfIxo65th0O=w1052-h592-rw",
+    "description": "Fortnite is the completely free online game where you and your friends fight to be the last one standing in Battle Royale.",
+    "features": [
+      "100-player Battle Royale",
+      "Creative mode",
+      "Cross-platform play",
+      "Frequent content updates"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.epicgames.fortnite",
+    "appStoreUrl": "https://apps.apple.com/app/fortnite/id1261357853",
+    "featured": true
+  },
+  {
+    "id": "roblox",
+    "title": "Roblox",
+    "developer": "Roblox Corporation",
+    "genre": "Sandbox/Adventure",
+    "rating": 4.3,
+    "size": "150 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/bTeiISUTvkwG2lgjVm1zcSKqhPyyRuYxoELc4MG1qRlidk5hS14iGFZnjMkSQhKqpr-vgnaKqhoXux639xY=w1052-h592-rw",
+    "description": "Roblox is the ultimate virtual universe that lets you create, share experiences, and be anything you can imagine.",
+    "features": [
+      "Millions of user-created games",
+      "Avatar customization",
+      "Social platform",
+      "Cross-platform support"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.roblox.client",
+    "appStoreUrl": "https://apps.apple.com/app/roblox/id431946152",
+    "featured": true
+  },
+  {
+    "id": "asphalt-9",
+    "title": "Asphalt 9: Legends",
+    "developer": "Gameloft",
+    "genre": "Racing",
+    "rating": 4.5,
+    "size": "3.1 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/C1O15FL45-ma-rfTgnWgIp_5reJDb3NX7Bk4T-Q8amjBYu_REDO-DQ6JSKIfWOa57u8=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/BJ-Lb_kL7F_RcKl2F1p9m3CdXryDgUQHd5C0dg8H7D0_nxoMpN702UrOX8GLhx-FC-lxT7FZ7L5f4ySLoxy2=w1052-h592-rw",
+    "description": "Asphalt 9: Legends features a top roster of real hypercars for you to drive unlike anything seen in other games.",
+    "features": [
+      "60+ real hypercars",
+      "Stunning console-quality graphics",
+      "Online multiplayer",
+      "Career mode with 800+ events"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM",
+    "appStoreUrl": "https://apps.apple.com/app/asphalt-9-legends/id805603214",
+    "featured": true
+  },
+  {
+    "id": "genshin-impact",
+    "title": "Genshin Impact",
+    "developer": "HoYoverse",
+    "genre": "Action RPG",
+    "rating": 4.6,
+    "size": "4.0 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/YQqyKaXX-63krqsfIzUEJWUWLINxcb5tbS6QVySdxbS7eZV7YB2dUjUvX27xA0TIGtfxQ5v-tQjwlT5tTB-O=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/TtNdqYDFjV8P_PlkFAWSJwpZQWcnhS8VMDqNOj226MPqYdJM_OkxB4dgNoVb1wflbM1lwNSO_GGmapSd504cxQ=w1052-h592-rw",
+    "description": "Step into Teyvat, a vast world teeming with life and flowing with elemental energy. You and your sibling arrived here from another world.",
+    "features": [
+      "Open-world exploration",
+      "Elemental combat system",
+      "Gacha character collection",
+      "Cross-platform co-op"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact",
+    "appStoreUrl": "https://apps.apple.com/app/genshin-impact/id1517783697",
+    "featured": false
+  },
+  {
+    "id": "pubg-mobile",
+    "title": "PUBG Mobile",
+    "developer": "Level Infinite",
+    "genre": "Battle Royale",
+    "rating": 4.2,
+    "size": "1.8 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/BXDFoab_szR5vLYqzbWI2v77iNS8Y2LcpV7SfSd8J-LfJihCTjMxPPd7hKKBirimm_-hUz41eWr9ZkDWcsTrQA=w1052-h592-rw",
+    "description": "PUBG Mobile is a battle royale game where 100 players parachute onto an island and fight to be the last one standing.",
+    "features": [
+      "Classic 100-player BR",
+      "Multiple maps",
+      "Team modes",
+      "Anti-cheat system"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.tencent.ig",
+    "appStoreUrl": "https://apps.apple.com/app/pubg-mobile/id1330123889",
+    "featured": false
+  },
+  {
+    "id": "clash-royale",
+    "title": "Clash Royale",
+    "developer": "Supercell",
+    "genre": "Strategy",
+    "rating": 4.3,
+    "size": "400 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/gnSC6s8-6Tjc4uhvDW7nfrSJxpbhllzYhgX8y374N1LYvWBStn2YhozS9XXaz1T_Pi2q=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/UOJ0N42bDu2lUbZIx4n9UCnHtnY5IEyG1jOLXByCbbCvi6wammxVR4XC9endWA5rAA=w1052-h592-rw",
+    "description": "Enter the Arena! Build your Battle Deck and outsmart the enemy in fast real-time battles.",
+    "features": [
+      "Real-time PvP battles",
+      "Clan wars",
+      "Collect and upgrade cards",
+      "Competitive ladder"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale",
+    "appStoreUrl": "https://apps.apple.com/app/clash-royale/id1053012308",
+    "featured": false
+  },
+  {
+    "id": "brawl-stars",
+    "title": "Brawl Stars",
+    "developer": "Supercell",
+    "genre": "Action/MOBA",
+    "rating": 4.4,
+    "size": "500 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/tYB_jWhdJuauLSPJ7LVj_5dUq6g_eQwj2wPNG9jFN78zKbDqMNfnEU2fUGiDQtYAy0yHn4SMnaF0lhanJpm0=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/4MFYmSvDebqTASeXUhskBqlmNlcab0gVpck6U1Mn0CJiAtry0vvwRRYtsgl38fU8EIvw=w1052-h592-rw",
+    "description": "Fast-paced 3v3 multiplayer and battle royale made for mobile. Unlock and upgrade dozens of Brawlers with powerful abilities.",
+    "features": [
+      "3v3 team battles",
+      "Battle Royale solo/duo",
+      "Dozens of unique Brawlers",
+      "Club leagues"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
+    "appStoreUrl": "https://apps.apple.com/app/brawl-stars/id1229016807",
+    "featured": false
+  },
+  {
+    "id": "black-strike",
+    "title": "Black Strike: War Shooter",
+    "developer": "Arcane Galaxy Games",
+    "genre": "Action/FPS",
+    "rating": 4.1,
+    "size": "500 MB",
+    "platforms": [
+      "Android"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/wrr87yAGgdeS8pmVGuIB13zuN6KrDDnNHwiu7EI9kf20yh6E5BUHBtDlEyQM_GDMkBVtZgundwBTsR1pSBZi1w=w512-h512-rw",
+    "coverImage": "https://i.ytimg.com/vi/35L8ww6bgv4/maxresdefault.jpg",
+    "description": "Offline FPS shooter with long story missions, intense gunfights, vehicle combat, sniper shots, and a Zombie survival mode.",
+    "features": [
+      "Offline single-player campaign",
+      "Varied mission gameplay",
+      "Vehicle & tank combat",
+      "Zombie survival mode"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ArcaneGalaxyGames.BlackStrike",
+    "featured": false
+  },
+  {
+    "id": "overwatch-rush",
+    "title": "Overwatch Rush",
+    "developer": "Blizzard Entertainment",
+    "genre": "Action/Shooter",
+    "rating": 4.3,
+    "size": "1.5 GB",
+    "platforms": [
+      "Android"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/nHm6yk6-k08BptfwqP1EWdMuepoL37fmbSIz5vB1ExbH_GTTf0OTrQLohjx4kgKao54SXd2pxwPm_Bz_jfPTWg=w512-h512-rw",
+    "coverImage": "https://i.ytimg.com/vi/vuAhNH2UL1Y/maxresdefault.jpg",
+    "description": "A 4v4 top-down mobile hero shooter built from the ground up for mobile, set in the Overwatch universe.",
+    "features": [
+      "4v4 hero shooter",
+      "Top-down mobile gameplay",
+      "Iconic Overwatch heroes",
+      "Free-to-play"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.blizzard.overwatch.rush",
+    "featured": true
+  },
+  {
+    "id": "parasite-z",
+    "title": "Parasite Z",
+    "developer": "fyberaxe",
+    "genre": "Survival Horror",
+    "rating": 4.0,
+    "size": "800 MB",
+    "platforms": [
+      "Android"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/2YjsQZpgR5KefFoJp6jD_f7d0SQRWYgdmOaXtRXYq40NGhAEsfhB5ExvuWVnhvYYiNxDinUsltOUya2tggor=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/53FE1sA_a3kU5ZM5U5VUNyAIZhVo_kvvsAVclYkLixHi57rCs_8zZZab4oizTHesT4xpK9-0avw3k1BmemN4=w1052-h592-rw",
+    "description": "Survival horror inspired by Resident Evil. Explore an abandoned prison complex overrun by a parasite outbreak using Unreal Engine 5.",
+    "features": [
+      "Resident Evil-style gameplay",
+      "Unreal Engine 5 visuals",
+      "Grid-based inventory",
+      "Resource management & crafting"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fyberaxe.parasytez",
+    "featured": false
+  },
+  {
+    "id": "katori-katana-masters",
+    "title": "Katori: Katana Masters",
+    "developer": "PlayStormRed",
+    "genre": "Action/Fighting",
+    "rating": 4.2,
+    "size": "600 MB",
+    "platforms": [
+      "Android"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/H6ZBH_xQWeXhFfjaIcUJmpGcsyISIKmri8LLPAs3iRJq7ex_FKn4XugOSXUAhreMXX2TcxJaH_Hsvmy7KVBP=w512-h512-rw",
+    "coverImage": "https://i.ytimg.com/vi/uVa0u0RBvHs/maxresdefault.jpg",
+    "description": "Brutal samurai action with dynamic duels, devastating combos, and an epic revenge story set in feudal Japan.",
+    "features": [
+      "Samurai combat system",
+      "PvP arena battles",
+      "Deep armor customization",
+      "Epic feudal Japan campaign"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.katori.samurai",
+    "featured": false
+  },
+  {
+    "id": "narin-secrets-of-dwarvenia",
+    "title": "Narin: Secrets of Dwarvenia",
+    "developer": "1DER Entertainment",
+    "genre": "Action/Adventure",
+    "rating": 4.2,
+    "size": "500 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/JitsUP8L7aiyOed7OhHlSZgRAYl6CN8-igw0Xd6iU0t0jyJP2DGI_J65yb9OYs7xSp4a_23FFgjrKoLApnNx=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/atv9kZc32aN7eR8iqglBXAm-xOV4dHY5vvwgzyKOLtUsuDvWQjtVdlRUk5kRD1TW09AmOQE8MBs-nOMmUPtI=w1052-h592-rw",
+    "description": "A 2.5D action game where you play as Narin, a dwarf warrior fighting to liberate Dwarvenia from invading goblins and monsters.",
+    "features": [
+      "Fast tactical melee combat",
+      "5 unique regions to explore",
+      "Gear upgrades & epic armor",
+      "Expands the Tiny Archers universe"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.OsOs.Narin",
+    "appStoreUrl": "https://apps.apple.com/us/app/narin/id6754609794",
+    "featured": false
+  },
+  {
+    "id": "barbie-horse-ride-rescue",
+    "title": "Barbie Horse Ride & Rescue",
+    "developer": "PikPok",
+    "genre": "Adventure",
+    "rating": 4.3,
+    "size": "400 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/TUFPWNh9G4EQZN_V76nMZOq-Vj1hOYO5lcZToI1zMiGeRl1WJ0PjS-0oPsykDtf8hsIkVd5W7T6iyrCZcwE5Fuw=w512-h512-rw",
+    "coverImage": "https://i.ytimg.com/vi/VbdjZfg55YI/maxresdefault.jpg",
+    "description": "Ride and rescue beautiful horses as you uncover the mysteries of Moonrise Valley with Barbie.",
+    "features": [
+      "Western horse riding adventure",
+      "Horse collection & care",
+      "Equestrian challenges",
+      "Avatar & horse customization"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pikpok.br.play",
+    "appStoreUrl": "https://apps.apple.com/us/app/barbie-horse-ride-rescue/id6736413272",
+    "featured": false
+  },
+  {
+    "id": "among-the-sleep",
+    "title": "Among the Sleep",
+    "developer": "Snapbreak",
+    "genre": "Horror/Adventure",
+    "rating": 4.4,
+    "size": "1.2 GB",
+    "platforms": [
+      "Android"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/26mdFMWcbqFB2fvlkda1gG1Yn3iMAmaTVg_YZTZYJ8bOKGRLlBXD8zzS7RELQKhqrCc=w512-h512-rw",
+    "coverImage": "https://i.ytimg.com/vi/_jRz7cOMMsQ/maxresdefault.jpg",
+    "description": "A first-person horror adventure where you play as a two-year-old child exploring surreal and frightening environments.",
+    "features": [
+      "Unique toddler perspective",
+      "Atmospheric horror",
+      "Puzzle-based exploration",
+      "Award-winning indie game"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.snapbreak.amongthesleep",
+    "featured": false
+  },
+  {
+    "id": "exhausted-man",
+    "title": "Exhausted Man",
+    "developer": "Spotlightor Interactive",
+    "genre": "Comedy/Adventure",
+    "rating": 4.5,
+    "size": "417 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/JuiLYbDznPnxReUii0MSjf7gba3mVN7nkG-SRK-jpfBefoeZbQjSXp0j0mEcz_yFPZt2W_mYurXqRmGHRRJuTQ=w512-h512-rw",
+    "coverImage": "https://i.ytimg.com/vi/WhhOpIgfBwY/maxresdefault.jpg",
+    "description": "A physics-comedy game where you help an exhausted person get through a crucial night, doing everything while lying down.",
+    "features": [
+      "Ragdoll physics comedy",
+      "Room decoration",
+      "Hilarious scenarios",
+      "Unique lying-down gameplay"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.spotlightor.exhaustedman",
+    "appStoreUrl": "https://apps.apple.com/us/app/exhausted-man/id6737322169",
+    "featured": false
+  },
+  {
+    "id": "construction-world-2",
+    "title": "Construction World 2: Puzzle",
+    "developer": "Magic Wand Studios",
+    "genre": "Puzzle/Simulation",
+    "rating": 4.2,
+    "size": "300 MB",
+    "platforms": [
+      "Android"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/_bsoWZPhkXr5lK_S_zS1NL7gq7-U3PGEkSErlhi5AW5GHcGFtKPC4EJz-ETSW6tL7m5FvRb6NIoRkP6_SoLW3A=w512-h512-rw",
+    "coverImage": "https://i.ytimg.com/vi/71Ne-E2O7dI/maxresdefault.jpg",
+    "description": "Build and construct in this puzzle-simulation game featuring heavy machinery and construction challenges.",
+    "features": [
+      "Construction puzzles",
+      "Heavy machinery",
+      "City building",
+      "Varied environments"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.MagicWandStudios.ConstructionWorld2",
+    "featured": false
+  },
+  {
+    "id": "go-ape-ship",
+    "title": "Go Ape Ship!",
+    "developer": "Sound Games",
+    "genre": "Co-op/Party",
+    "rating": 4.5,
+    "size": "350 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/hj5LSzCkFqMMP95l8_1G4EvuYpa8TV8FOzIB6xv8T__wR45Ixr4yjgKff8KpChU8BxCLVeIkYcU4tGWPjQM20i0=w512-h512-rw",
+    "coverImage": "https://i.ytimg.com/vi/6TRtnC60fOA/maxresdefault.jpg",
+    "description": "Co-op monkey mayhem in space! Work together with friends to keep your spaceship running in this chaotic party game.",
+    "features": [
+      "Co-op multiplayer",
+      "Space monkey chaos",
+      "Party game fun",
+      "Cross-platform play"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=games.sound.gouda",
+    "appStoreUrl": "https://apps.apple.com/us/app/go-ape-ship/id6751299685",
+    "featured": false
+  },
+  {
+    "id": "seven-deadly-sins-origin",
+    "title": "The Seven Deadly Sins: Origin",
+    "developer": "Netmarble",
+    "genre": "Action RPG",
+    "rating": 4.4,
+    "size": "3.5 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/dSO5yDCNRCzgBMkhFNzCbInuEsg-jpjFQq2rXR7JrqHxj1YvBV-nHiqNYPXiGpxU1Ix-5xSi94pnqSYhdrj7=w512-h512-rw",
+    "coverImage": "https://i.ytimg.com/vi/6A9gpJWMWG8/maxresdefault.jpg",
+    "description": "An open-world action RPG set in the world of The Seven Deadly Sins with stunning visuals and epic combat.",
+    "features": [
+      "Open-world exploration",
+      "Anime action combat",
+      "Character collection",
+      "Epic storyline"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.netmarble.nanaori",
+    "appStoreUrl": "https://apps.apple.com/us/app/the-seven-deadly-sins-origin/id6744205088",
+    "featured": true
+  },
+  {
+    "id": "rainbow-six-mobile",
+    "title": "Rainbow Six Mobile",
+    "developer": "Ubisoft Nova",
+    "genre": "Tactical Shooter",
+    "rating": 4.6,
+    "size": "2.0 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/yxPDEaITZFD8tTusjdlU1b1fJg4Ufk2tAbexZaZ4cHfHxg67e7zpskqc8OBeFSN-ZQrm9qIhRNHHLUYNxZAJYQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/2HdBRpldnay_l87ch2P2T50oHOUghuk8M2R7oftUmMuuQXBr6Y7tMfCWqmieKYUyXZANU7wkqbhQnZsy9qG_=w1052-h592-rw",
+    "description": "The iconic tactical shooter comes to mobile with 5v5 PvP, destructible environments, and a growing roster of Operators.",
+    "features": [
+      "5v5 tactical PvP",
+      "Destructible environments",
+      "Iconic Operators",
+      "Competitive ranked mode"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter",
+    "appStoreUrl": "https://apps.apple.com/us/app/rainbow-six-mobile/id1608916511",
+    "featured": true
+  },
+  {
+    "id": "oceanhorn-3",
+    "title": "Oceanhorn 3: Legend of the Shadow Sea",
+    "developer": "Cornfox & Brothers",
+    "genre": "Action/Adventure",
+    "rating": 4.5,
+    "size": "2.5 GB",
+    "platforms": [
+      "iOS"
+    ],
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/06/c5/1b06c5ea-e585-f1b5-53fe-37ed52f0dd14/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+    "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/06/c5/1b06c5ea-e585-f1b5-53fe-37ed52f0dd14/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1280x720bb.jpg",
+    "description": "An epic action-adventure in the spirit of classic console RPGs. Explore the seas, solve puzzles, and battle enemies.",
+    "features": [
+      "Apple Arcade exclusive",
+      "Console-quality RPG",
+      "Vast ocean exploration",
+      "Challenging puzzles & combat"
+    ],
+    "appStoreUrl": "https://apps.apple.com/us/app/oceanhorn-3/id1539411904",
+    "featured": false
+  },
+  {
+    "id": "subnautica-below-zero",
+    "title": "Subnautica: Below Zero",
+    "developer": "Unknown Worlds",
+    "genre": "Survival/Adventure",
+    "rating": 4.5,
+    "size": "3.0 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/yNRNX4CKTIGMZ23D3P0xwiEAhf-vCsZW9W9YZckeTflpnoU7MYAufdsfI15RDwcP1k96CNArzkPNdBey2kylwg=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/hLMbP37-Ac74a7Rg0bH8vJbM-AD1_7k2spwpA5xAeiIvz0y6T4cCIre3U_RaRrLKPr3PX_V_Hv9a9-JKoIfo=w1052-h592-rw",
+    "description": "Dive into a freezing underwater adventure on an alien planet. Build bases, craft equipment, and uncover hidden secrets.",
+    "features": [
+      "Open-world underwater exploration",
+      "Base building & crafting",
+      "Alien ocean biomes",
+      "Story-driven survival"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.unknownworlds.subnauticabelowzero",
+    "appStoreUrl": "https://apps.apple.com/us/app/subnautica-below-zero/id6749406060",
+    "featured": true
+  },
+  {
+    "id": "where-winds-meet",
+    "title": "Where Winds Meet",
+    "developer": "NetEase Games",
+    "genre": "Open World RPG",
+    "rating": 4.5,
+    "size": "4.0 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/C077FpQVnL7G5O6Mowj-sWKdTjUwEWAWxOVQUcBwhHY1yOZePOoIxtlOS5Tn9kIzLoI2eU8BWZ4Nh4ufS63zBg=w512-h512-rw",
+    "coverImage": "https://i.ytimg.com/vi/DS-J7j9kIf4/maxresdefault.jpg",
+    "description": "An epic open-world Wuxia action RPG set in 10th-century China. Master the sword and uncover forgotten truths.",
+    "features": [
+      "Open-world Wuxia adventure",
+      "Cross-platform play",
+      "Martial arts combat",
+      "Rich storyline & exploration"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.netease.yysls",
+    "appStoreUrl": "https://apps.apple.com/us/app/where-winds-meet/id6472396866",
+    "featured": true
+  }
+]
