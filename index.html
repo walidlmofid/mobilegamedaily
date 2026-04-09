@@ -544,6 +544,70 @@
     © 2026 MobileGameDaily — Follow us on <a href="https://www.tiktok.com/@mr.epic.mods" target="_blank">TikTok</a>
   </footer>
 
+  <!-- In-App Browser Overlay (TikTok / Instagram) -->
+  <div id="inAppOverlay" style="
+    display: none;
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    z-index: 99999;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    background: rgba(0,0,0,0.7);
+  ">
+    <!-- GIF Arrow pointing to top-right three dots -->
+    <img src="open_in_browser.gif" alt="Arrow pointing to three dots" style="
+      position: fixed;
+      top: 0;
+      right: 0;
+      width: 180px;
+      height: auto;
+      z-index: 100000;
+      pointer-events: none;
+    " />
+
+    <!-- Instruction text -->
+    <div style="
+      background: #fff;
+      color: #000;
+      border-radius: 16px;
+      padding: 28px 24px;
+      margin: 0 24px;
+      max-width: 360px;
+      text-align: center;
+      box-shadow: 0 12px 40px rgba(0,0,0,0.4);
+      z-index: 100000;
+      margin-top: 120px;
+    ">
+      <p style="
+        font-family: 'Inter', Arial, sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 1.4;
+        color: #000;
+      ">Please Click On The Three Dots At The Top And Open in Browser To Be Able Downloading the Games</p>
+
+      <div style="
+        margin-top: 20px;
+        padding-top: 16px;
+        border-top: 1px solid #eee;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 6px;
+      ">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+          <path d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm-.8 11.6V7.2h1.6v4.4H7.2zm0-5.6V4.4h1.6V6H7.2z" fill="#4a90d9"/>
+        </svg>
+        <span style="font-size: 13px; color: #888; font-family: 'Inter', Arial, sans-serif;">
+          Secure · Verified by Play Protect
+        </span>
+      </div>
+    </div>
+  </div>
+
   <script>
     let games = [];
 
@@ -684,69 +748,5 @@
       document.body.style.overflow = 'hidden';
     }
   </script>
-
-  <!-- In-App Browser Overlay (TikTok / Instagram) -->
-  <div id="inAppOverlay" style="
-    display: none;
-    position: fixed;
-    top: 0; left: 0; right: 0; bottom: 0;
-    z-index: 99999;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
-    background: rgba(0,0,0,0.7);
-  ">
-    <!-- GIF Arrow pointing to top-right three dots -->
-    <img src="open_in_browser.gif" alt="Arrow pointing to three dots" style="
-      position: fixed;
-      top: 0;
-      right: 0;
-      width: 180px;
-      height: auto;
-      z-index: 100000;
-      pointer-events: none;
-    " />
-
-    <!-- Instruction text -->
-    <div style="
-      background: #fff;
-      color: #000;
-      border-radius: 16px;
-      padding: 28px 24px;
-      margin: 0 24px;
-      max-width: 360px;
-      text-align: center;
-      box-shadow: 0 12px 40px rgba(0,0,0,0.4);
-      z-index: 100000;
-      margin-top: 120px;
-    ">
-      <p style="
-        font-family: 'Inter', Arial, sans-serif;
-        font-size: 20px;
-        font-weight: 700;
-        line-height: 1.4;
-        color: #000;
-      ">Please Click On The Three Dots At The Top And Open in Browser To Be Able Downloading the Games</p>
-
-      <div style="
-        margin-top: 20px;
-        padding-top: 16px;
-        border-top: 1px solid #eee;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 6px;
-      ">
-        <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
-          <path d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm-.8 11.6V7.2h1.6v4.4H7.2zm0-5.6V4.4h1.6V6H7.2z" fill="#4a90d9"/>
-        </svg>
-        <span style="font-size: 13px; color: #888; font-family: 'Inter', Arial, sans-serif;">
-          Secure · Verified by Play Protect
-        </span>
-      </div>
-    </div>
-  </div>
 </body>
 </html>
