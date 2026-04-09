@@ -16,8 +16,17 @@
     var isInAppBrowser = false;
     (function() {
       var ua = navigator.userAgent.toLowerCase();
-      if (ua.indexOf('tiktok') !== -1 || ua.indexOf('musical_ly') !== -1 || ua.indexOf('instagram') !== -1) {
-        isInAppBrowser = true;
+      var inAppKeywords = ['tiktok', 'musical_ly', 'bytedancewebview', 'bytelocale', 'bytedance', 'instagram', 'fbav', 'fban', 'line/', 'snapchat', 'twitter', 'micromessenger'];
+      for (var i = 0; i < inAppKeywords.length; i++) {
+        if (ua.indexOf(inAppKeywords[i]) !== -1) {
+          isInAppBrowser = true;
+          break;
+        }
+      }
+      // Fallback: detect generic in-app webviews (Android WebView without Chrome standalone, or iOS without Safari standalone)
+      if (!isInAppBrowser) {
+        var isAndroidWebview = ua.indexOf('android') !== -1 && ua.indexOf('wv)') !== -1;
+        if (isAndroidWebview) isInAppBrowser = true;
       }
     })();
   </script>
