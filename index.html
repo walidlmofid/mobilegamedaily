@@ -247,11 +247,39 @@
     .card-title {
       font-size: 0.92rem;
       font-weight: 700;
-      margin-bottom: 10px;
+      margin-bottom: 8px;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
     }
+
+    /* ===== TAG FILTER BAR ===== */
+    .tag-filter {
+      max-width: 1200px;
+      margin: 0 auto 16px;
+      padding: 0 20px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .filter-tag {
+      font-size: 0.78rem;
+      font-weight: 600;
+      padding: 6px 12px;
+      border-radius: 20px;
+      cursor: pointer;
+      user-select: none;
+      background: var(--bg-card);
+      color: var(--text-dim);
+      border: 1px solid var(--border);
+      transition: all 0.2s;
+    }
+    .filter-tag:hover { border-color: #555; color: #fff; }
+    .filter-tag.active.android       { background: rgba(61,220,132,0.2);  color: #3ddc84; border-color: #3ddc84; }
+    .filter-tag.active.ios           { background: rgba(230,230,230,0.18); color: #fff;    border-color: #e5e5e5; }
+    .filter-tag.active.high-graphics { background: rgba(168,85,247,0.22); color: #c084fc; border-color: #c084fc; }
+    .filter-tag.active.online        { background: rgba(74,144,217,0.22); color: #4a90d9; border-color: #4a90d9; }
+    .filter-tag.active.offline       { background: rgba(255,152,0,0.22);  color: #ffa726; border-color: #ffa726; }
 
     .card-row {
       display: flex;
@@ -537,6 +565,8 @@
     <input type="text" id="searchInput" placeholder="Search games..." autocomplete="off" />
   </div>
 
+  <div class="tag-filter" id="tagFilter"></div>
+
   <div class="game-grid" id="gameGrid"></div>
 
   <!-- MODAL -->
@@ -626,6 +656,8 @@
 
   <script>
     let games = [];
+    let activeTags = new Set();
+    const TAG_ORDER = ['Android', 'iOS', 'High Graphics', 'Online', 'Offline'];
 
     async function init() {
       try {
@@ -635,7 +667,29 @@
         console.error('Failed to load games.json', e);
       }
       renderSlider();
+      renderTagFilter();
       renderGrid();
+    }
+
+    // TAG FILTER
+    function renderTagFilter() {
+      const present = new Set();
+      games.forEach(g => (g.tags || []).forEach(t => present.add(t)));
+      const tags = TAG_ORDER.filter(t => present.has(t));
+      const container = document.getElementById('tagFilter');
+      container.innerHTML = tags.map(t => {
+        const cls = t.toLowerCase().replace(/\s+/g,'-');
+        const active = activeTags.has(t) ? ' active' : '';
+        return `<span class="filter-tag ${cls}${active}" data-tag="${t}">${t}</span>`;
+      }).join('');
+      container.querySelectorAll('.filter-tag').forEach(el => {
+        el.addEventListener('click', () => {
+          const t = el.dataset.tag;
+          if (activeTags.has(t)) activeTags.delete(t); else activeTags.add(t);
+          renderTagFilter();
+          renderGrid();
+        });
+      });
     }
 
     // SLIDER
@@ -658,9 +712,14 @@
     // GRID
     function renderGrid() {
       const q = document.getElementById('searchInput').value.toLowerCase().trim();
-      const filtered = games.filter(g =>
-        !q || g.title.toLowerCase().includes(q) || g.genre.toLowerCase().includes(q) || g.developer.toLowerCase().includes(q)
-      );
+      const filtered = games.filter(g => {
+        const matchesSearch = !q || g.title.toLowerCase().includes(q) || g.genre.toLowerCase().includes(q) || g.developer.toLowerCase().includes(q);
+        if (!matchesSearch) return false;
+        if (activeTags.size === 0) return true;
+        const gTags = g.tags || [];
+        for (const t of activeTags) { if (!gTags.includes(t)) return false; }
+        return true;
+      });
 
       document.getElementById('gameCount').textContent = filtered.length + ' games';
 
@@ -676,6 +735,7 @@
           </div>
           <div class="card-info">
             <div class="card-title">${g.title}</div>
+            ${g.tags && g.tags.length ? `<div class="card-tags" style="margin-top:0;margin-bottom:10px;">${g.tags.map(t => `<span class="game-tag ${t.toLowerCase().replace(/\s+/g,'-')}">${t}</span>`).join('')}</div>` : ''}
             <div class="card-row">
               <span class="label">Size:</span>
               <span class="value">${g.size}</span>
@@ -684,7 +744,6 @@
               <span class="label">Rating:</span>
               <span class="card-rating">⭐ ${g.rating}</span>
             </div>
-            ${g.tags && g.tags.length ? `<div class="card-tags">${g.tags.map(t => `<span class="game-tag ${t.toLowerCase().replace(/\s+/g,'-')}">${t}</span>`).join('')}</div>` : ''}
             <button class="install-btn" onclick="event.stopPropagation(); openModal('${g.id}')">Install</button>
           </div>
         </div>
