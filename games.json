@@ -674,7 +674,10 @@
     ],
     "playStoreUrl": "https://play.google.com/store/search?q=My+Hero+Academia+The+Strongest+Hero",
     "appStoreUrl": "https://apps.apple.com/search?term=My+Hero+Academia+The+Strongest+Hero",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "Anime"
+    ]
   },
   {
     "id": "bleach-soul-resonance",
@@ -696,7 +699,10 @@
       "Seamless character switching"
     ],
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.bladetw.bd",
-    "featured": true
+    "featured": true,
+    "tags": [
+      "Anime"
+    ]
   },
   {
     "id": "the-hidden-ones",
@@ -718,11 +724,14 @@
       "Combat-focused"
     ],
     "playStoreUrl": "https://www.taptap.io/jp/app/33640664",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "Anime"
+    ]
   },
   {
     "id": "hunter-x-hunter-nen-survivor",
-    "title": "HUNTER\u00d7HUNTER NEN\u00d7SURVIVOR",
+    "title": "HUNTER×HUNTER NEN×SURVIVOR",
     "developer": "Bushiroad / WonderPlanet",
     "genre": "Anime/Survivor Roguelike",
     "rating": 4.6,
@@ -742,7 +751,10 @@
     ],
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.hxh.survivor",
     "appStoreUrl": "https://apps.apple.com/us/app/hunter-hunter-nen-survivor/id6753738566",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "Anime"
+    ]
   },
   {
     "id": "wind-breaker-rebel-heroes",
@@ -764,7 +776,10 @@
       "Original storyline"
     ],
     "playStoreUrl": "https://play.google.com/store/apps/details?id=jp.co.kodansha.wb.rebelheroes",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "Anime"
+    ]
   },
   {
     "id": "fullmetal-alchemist-mobile",
@@ -786,7 +801,10 @@
       "Faithful adaptation"
     ],
     "playStoreUrl": "https://www.taptap.io/jp/app/219858",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "Anime"
+    ]
   },
   {
     "id": "kaiju-no-8-the-game",
@@ -810,7 +828,10 @@
     ],
     "playStoreUrl": "https://play.google.com/store/apps/details?id=jp.aktsk.games.kaiju_no8_the_game",
     "appStoreUrl": "https://apps.apple.com/us/app/kaiju-no-8-the-game/id6742088839",
-    "featured": true
+    "featured": true,
+    "tags": [
+      "Anime"
+    ]
   },
   {
     "id": "attack-on-titan-brave-order",
@@ -832,7 +853,10 @@
       "Customizable hideout"
     ],
     "playStoreUrl": "https://play.google.com/store/apps/details?id=jp.enish.shingekibo",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "Anime"
+    ]
   },
   {
     "id": "jujutsu-kaisen-phantom-parade",
@@ -856,7 +880,10 @@
     ],
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.bilibilihk.jujutsuphanparagp",
     "appStoreUrl": "https://apps.apple.com/us/app/jujutsu-kaisen-phantom-parade/id6475925341",
-    "featured": true
+    "featured": true,
+    "tags": [
+      "Anime"
+    ]
   },
   {
     "id": "lord-of-nazarick",
@@ -880,7 +907,10 @@
     ],
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.crunchyroll.crg.overlord",
     "appStoreUrl": "https://apps.apple.com/us/app/lord-of-nazarick/id6511215276",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "Anime"
+    ]
   },
   {
     "id": "black-clover-mobile",
@@ -903,7 +933,10 @@
     ],
     "playStoreUrl": "https://www.taptap.io/jp/app/228687",
     "featured": false,
-    "discontinued": true
+    "discontinued": true,
+    "tags": [
+      "Anime"
+    ]
   },
   {
     "id": "pocket-incoming",
@@ -925,7 +958,10 @@
       "Resource management"
     ],
     "playStoreUrl": "https://trainer-trials-saga.en.uptodown.com/android",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "Anime"
+    ]
   },
   {
     "id": "one-punch-man-world",
@@ -949,7 +985,10 @@
     ],
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.crunchyroll.opm",
     "appStoreUrl": "https://apps.apple.com/search?term=One+Punch+Man+World",
-    "featured": true
+    "featured": true,
+    "tags": [
+      "Anime"
+    ]
   },
   {
     "id": "blue-lock-blaze-battle",
@@ -971,7 +1010,10 @@
       "Team building"
     ],
     "playStoreUrl": "https://play.google.com/store/apps/details?id=jp.co.bael.bluelock.blazebattle",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "Anime"
+    ]
   },
   {
     "id": "naruto-ultimate-ninja-storm",
@@ -995,7 +1037,10 @@
     ],
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.bandainamcoent.ultimateninjastorm",
     "appStoreUrl": "https://apps.apple.com/us/app/naruto-ultimate-ninja-storm/id6479512734",
-    "featured": true
+    "featured": true,
+    "tags": [
+      "Anime"
+    ]
   },
   {
     "id": "one-piece-ambition",
@@ -1017,7 +1062,10 @@
       "Authentic character roster"
     ],
     "playStoreUrl": "https://en.uptodown.com/android/search?q=One+Piece+Ambition",
-    "featured": true
+    "featured": true,
+    "tags": [
+      "Anime"
+    ]
   },
   {
     "id": "dragon-ball-sparking-zero",
@@ -1039,7 +1087,10 @@
       "Plays via Winlator emulator"
     ],
     "playStoreUrl": "https://play.google.com/store/search?q=Dragon+Ball+Sparking+Zero",
-    "featured": true
+    "featured": true,
+    "tags": [
+      "Anime"
+    ]
   },
   {
     "id": "solo-leveling-arise",
@@ -1063,7 +1114,10 @@
     ],
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.netmarble.sololv",
     "appStoreUrl": "https://apps.apple.com/us/app/solo-leveling-arise/id1662742277",
-    "featured": true
+    "featured": true,
+    "tags": [
+      "Anime"
+    ]
   },
   {
     "id": "demon-slayer-mobile",
@@ -1085,6 +1139,9 @@
       "Plays via Winlator emulator"
     ],
     "playStoreUrl": "https://play.google.com/store/search?q=Demon+Slayer+Hinokami+Chronicles+2",
-    "featured": true
+    "featured": true,
+    "tags": [
+      "Anime"
+    ]
   }
 ]

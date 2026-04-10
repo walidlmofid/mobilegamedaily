@@ -280,6 +280,7 @@
     .filter-tag.active.high-graphics { background: rgba(168,85,247,0.22); color: #c084fc; border-color: #c084fc; }
     .filter-tag.active.online        { background: rgba(74,144,217,0.22); color: #4a90d9; border-color: #4a90d9; }
     .filter-tag.active.offline       { background: rgba(255,152,0,0.22);  color: #ffa726; border-color: #ffa726; }
+    .filter-tag.active.anime         { background: rgba(244,114,182,0.22); color: #f472b6; border-color: #f472b6; }
 
     .card-row {
       display: flex;
@@ -322,6 +323,7 @@
     .game-tag.high-graphics { background: rgba(168,85,247,0.14); color: #c084fc; border: 1px solid rgba(168,85,247,0.35); }
     .game-tag.online      { background: rgba(74,144,217,0.15);  color: #4a90d9; border: 1px solid rgba(74,144,217,0.35); }
     .game-tag.offline     { background: rgba(255,152,0,0.14);   color: #ffa726; border: 1px solid rgba(255,152,0,0.35); }
+    .game-tag.anime       { background: rgba(244,114,182,0.14); color: #f472b6; border: 1px solid rgba(244,114,182,0.35); }
 
     .status-badge {
       display: inline-block;
@@ -677,7 +679,7 @@
   <script>
     let games = [];
     let activeTags = new Set();
-    const TAG_ORDER = ['Android', 'iOS', 'High Graphics', 'Online', 'Offline'];
+    const TAG_ORDER = ['Android', 'iOS', 'High Graphics', 'Online', 'Offline', 'Anime'];
 
     async function init() {
       try {
