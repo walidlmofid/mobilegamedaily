@@ -1143,5 +1143,1191 @@
     "tags": [
       "Anime"
     ]
+  },
+  {
+    "id": "junkyard-rush-racing",
+    "title": "Junkyard Rush Racing",
+    "developer": "isTom Games Kft.",
+    "genre": "Racing/Arcade",
+    "rating": 4.0,
+    "size": "252 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/M1lBYLxcGBIfK8_4ddOo9zrjAISMJWjBn7tedicMi64pqg-X9h_YcyHV-CuOjS81Lj8nkAFaVU9q4f043ZYo=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/KqzpOgp-0USiOhaVOZZNVbfoNm9sXgeNpdcu9E97ooG9A0Gt2s43Gh9BTRk466qHHHfD9yAwBdRaEm_aVOoVsw=w1052-h592-rw",
+    "description": "An arcade racer inspired by southern US daredevil car culture with 16 upgradeable cars, 12 tracks, and local split-screen multiplayer support.",
+    "features": [
+      "Tournament, Race, and Time Trial modes",
+      "Hundreds of cosmetic customization options",
+      "Local split-screen multiplayer with controller support",
+      "Daily missions, leaderboards, and achievements"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.istomgames.motocross",
+    "appStoreUrl": "https://apps.apple.com/us/app/junkyard-rush-racing/id6689520947",
+    "featured": false
+  },
+  {
+    "id": "drift-racing-3v3",
+    "title": "Drift Racing 3v3",
+    "developer": "Nicety Games",
+    "genre": "Racing/Drift",
+    "rating": 4.1,
+    "size": "2.3 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/Etn1mmENg1rOCWgjcPgrfOI50AMkdbX3WPxgP4Fuyb8myoJHuxtECzAqjVVulfxhwBM=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/yjLAhU0nh0TmIg8VlZWSEOr5J0OBBaqj2y1WnBOfPgbGezrROdtpUuc3awLSP6kqlec4=w1052-h592-rw",
+    "description": "A competitive 3v3 team-based drift racing game with officially licensed vehicles from Porsche, Nissan GT-R, Bugatti, and more.",
+    "features": [
+      "Hundreds of officially licensed vehicles",
+      "Role-based gameplay (Attacker, Support, Strategist)",
+      "Tracks across Los Angeles, Paris, Antarctica, and Bali",
+      "Real-time translation chat for global multiplayer"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ncgames.race.anen",
+    "appStoreUrl": "https://apps.apple.com/us/app/drift-racing-3v3/id6741563375",
+    "featured": false
+  },
+  {
+    "id": "gran-velocita",
+    "title": "Gran Velocita",
+    "developer": "GameToTop",
+    "genre": "Racing/Simulation",
+    "rating": 3.8,
+    "size": "1.8 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/lbR5MqXaVMlr6s09cBmjRTQg5C8F2sF6IVlyYDNcIC8qVBUmPNhBv9W3wQmXCUwWUys=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/TYfGGl_MCGAxSUy0m0IKIvqUiLm9MhFNFxwHNSBpVhp7sJoZwBpqHRCGKzGjS2K4Pg=w1052-h592-rw",
+    "description": "A realistic racing simulator featuring real physics with tire wear, temperature, and grip loss, with classes from Street to F1.",
+    "features": [
+      "Real physics with tire wear, temperature, and pressure simulation",
+      "Multiple car classes (Street, GT4, GT3, LMP, F4, F1)",
+      "Online ranked multiplayer racing",
+      "Full car setup customization and telemetry"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mrhotlap.granvelocitaandroid",
+    "appStoreUrl": "https://apps.apple.com/us/app/gran-velocita-real-driving/id6747034830",
+    "featured": false
+  },
+  {
+    "id": "drive-csx",
+    "title": "Drive CSX",
+    "developer": "Studio WW Games",
+    "genre": "Racing/Simulation",
+    "rating": 4.2,
+    "size": "889 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/FoY6sxMbgKa8iLQwl6lAaZpkjjDRhd71YkMpj-InHj6WtLLET1W2Bv4tygsso92bcg=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/FoY6sxMbgKa8iLQwl6lAaZpkjjDRhd71YkMpj-InHj6WtLLET1W2Bv4tygsso92bcg=w1052-h592-rw",
+    "description": "A realistic car crash simulator with advanced soft-body physics, over 60 vehicles, and open-world sandbox driving with detailed damage deformation.",
+    "features": [
+      "Advanced soft-body physics with real-time collision deformation",
+      "Over 60 vehicles including trucks, SUVs, and racing cars",
+      "Open-world sandbox for free driving and crash scenarios",
+      "Environmental effects with mud, water, and rain physics"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.honanStudio.driveX",
+    "appStoreUrl": "https://apps.apple.com/us/app/drivecsx-car-crash-simulator/id6736580540",
+    "featured": false
+  },
+  {
+    "id": "highway-racer-pro",
+    "title": "Highway Racer Pro",
+    "developer": "Spektra Games",
+    "genre": "Racing/Traffic",
+    "rating": 4.6,
+    "size": "1.4 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/jW79FoXH3pHq0uxKlgBZh2sG15xF0zEBpf9_xHEoqe9f05mVFhujpP58s02ZqAwj6zc=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/affPZqJJt7ltILKwSd2eMlEqdNAaQq62jpsbDq5fZbfMjP8KpPDad3zFnvJtI3mVTQ=w1052-h592-rw",
+    "description": "The most realistic highway traffic racing game on mobile, featuring real car physics, highways inspired by Japan, Germany, Brazil, and the USA.",
+    "features": [
+      "Real highways inspired by Japan, Germany, Brazil, and the USA",
+      "Dynamic weather (snow, fog, rain, clear skies)",
+      "Online multiplayer racing",
+      "Deep car customization with body kits, paint, and rims"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.SpektraGames.HighwayRacerPro.traffic.car.racing.game",
+    "appStoreUrl": "https://apps.apple.com/us/app/highway-racer-pro/id6741471925",
+    "featured": false
+  },
+  {
+    "id": "desert-safari-hajwala",
+    "title": "Desert Safari Hajwala",
+    "developer": "FUNCONNECT PTE. LTD.",
+    "genre": "Racing/Drift",
+    "rating": 3.4,
+    "size": "800 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/gBSjsWjaTu8Wd99_mfDXghrCEbwqI6zqL-2yu3iUf7Q9tBaUvtyTfp4KhoBDNtFAJSv-ZPRNe_dVDi3oS3HA6w=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/PjVKuSMT2hQwxrr6byiZKB6sowtxtLMlbFGOBO2yZ1kwVteSoD2D1xeyijxUdojOq9jo7vtMPeKpkiOEJfqpAPk=w1052-h592-rw",
+    "description": "A drifting and desert racing game featuring realistic vehicle dynamics, SUVs and sports cars, with multiplayer voice chat and destructible environments.",
+    "features": [
+      "Premium drifting with realistic vehicle dynamics",
+      "Huge collection of customizable SUVs and sports cars",
+      "Unique football match mode and desert exploration",
+      "Real-time voice chat and multiplayer meetups"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rulaistudio.desertsafari",
+    "appStoreUrl": "https://apps.apple.com/us/app/desert-safari-hajwala/id6503329582",
+    "featured": false
+  },
+  {
+    "id": "real-driving-school",
+    "title": "Real Driving School",
+    "developer": "Qizz",
+    "genre": "Racing/Simulation",
+    "rating": 4.4,
+    "size": "905 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/5pz4LGNXkRZRuC9nVlldSleQpShY_uAcPA_o66CMiqNmCo7QXDlZR4fDj_l89A_qxw=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/Wqc08gWLVOMgl_VlMR1rRpcN3NJY2d8lTAQDFNN4PR9NXKWvPSpngUiKUmHox-S81g=w1052-h592-rw",
+    "description": "A driving and car parking simulation with stunning graphics, realistic physics, open world map, and three modes: Career, Free Play, and Online multiplayer.",
+    "features": [
+      "Realistic car handling and damage system",
+      "Open world map with traffic",
+      "Career mode with traffic rule enforcement",
+      "Online multiplayer with monetary rewards"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.qizz.rds",
+    "appStoreUrl": "https://apps.apple.com/us/app/real-driving-school/id1499207656",
+    "featured": false
+  },
+  {
+    "id": "touchgrind-bmx-3",
+    "title": "Touchgrind BMX 3",
+    "developer": "Illusion Labs AB",
+    "genre": "Sports/BMX",
+    "rating": 4.1,
+    "size": "390 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/SUsaVIhnKF4OeX63DLeuIfqPxfS86XwG5MisqAtF0kxeihRbHBE-5iLE3vA20mMkSQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/R__hIwtzwkVdgkCogMpxTwpfXV94VbiHFPIwyDuBjyIFMDP9V2A9IeNx9Xz2Pppq7rfR=w1052-h592-rw",
+    "description": "An extreme BMX sports game with real-time 12-player multiplayer trick battles, elimination races, and a single-player Freestyle mode.",
+    "features": [
+      "12-player Trick Royal multiplayer mode",
+      "Bomb Rush elimination racing",
+      "Endless single-player Freestyle mode",
+      "Customizable riders and bike skins"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=se.illusionlabs.tgx",
+    "appStoreUrl": "https://apps.apple.com/us/app/touchgrind-bmx-3-rivals/id6449250454",
+    "featured": false
+  },
+  {
+    "id": "racing-zone",
+    "title": "Racing Zone: Car & Moto",
+    "developer": "Z Game Studios",
+    "genre": "Racing/Traffic",
+    "rating": 4.0,
+    "size": "150 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/1FZRK-PcNqg-V0cD-UBB3PQcUPjiX_6_cQ4bA3offj-67Id6RdrVqIHXG6RKhZYhtt3Iv99tpm08ev3UUpCpMg=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/1FZRK-PcNqg-V0cD-UBB3PQcUPjiX_6_cQ4bA3offj-67Id6RdrVqIHXG6RKhZYhtt3Iv99tpm08ev3UUpCpMg=w1052-h592-rw",
+    "description": "A high-speed traffic racer with swipe-to-steer controls, nitro boosts, and multiple modes including Career, Endless, Time Attack, and Reverse Traffic.",
+    "features": [
+      "Precision swipe steering and nitro boost system",
+      "Career, Endless, Time Attack, and Reverse Traffic modes",
+      "Deep vehicle customization (engines, turbos, rims, wraps)",
+      "Dynamic day/night cycles and weather effects"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ZGameStudios.RacerZone",
+    "featured": false
+  },
+  {
+    "id": "lego-hill-climb-adventures",
+    "title": "Lego Hill Climb Adventures",
+    "developer": "Fingersoft Oy",
+    "genre": "Racing/Adventure",
+    "rating": 4.1,
+    "size": "857 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/_cQtA1nIP6jk0rNmAiNf_qijaqnD0BAM1hn-MJbOFMhh23UgT3Sibdn5hyj-QOI-DJI=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/BfO5K-UMz3MKcLz_oHVKRKzVZdqYmW_GDxH7j8NkuYlCJTNOqKQ5gU5E2QNPtKk6rQ=w1052-h592-rw",
+    "description": "A LEGO-themed hill climb racing adventure blending classic Hill Climb Racing gameplay with LEGO worlds, vehicle customization, and collectible minifigures.",
+    "features": [
+      "Head-to-head Rivals multiplayer mode",
+      "LEGO vehicle customization with collectible bricks and minifigures",
+      "Story-driven missions from LEGO characters",
+      "Multiple unlockable locations with hidden secrets"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fingersoft.legohillclimbadventures",
+    "appStoreUrl": "https://apps.apple.com/us/app/lego-hill-climb-adventures/id6443582961",
+    "featured": false
+  },
+  {
+    "id": "car-driving-multiplayer",
+    "title": "Car Driving Multiplayer",
+    "developer": "Appsoleut Coders LLP",
+    "genre": "Racing/Open World",
+    "rating": 4.2,
+    "size": "500 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/5PHG6keTv_RIFPXMIV3mJ-UPUMuJiu4qMtQbwpOcu--QvhOq1de40uJZcwhLSsdgGso=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/a3A92x-67rtffs8N5bXqxQLt1YZupMsgvBtbBTFJVQabCx4sfwdUAWLDdYXDa-eLSe3rZD0qGXdhTNc5IdHJ=w1052-h592-rw",
+    "description": "Open-world driving experience with customizable vehicles, realistic physics, and multiplayer racing across a detailed open-world map.",
+    "features": [
+      "Online multiplayer racing with friends",
+      "Extensive car customization and tuning",
+      "Open-world exploration with police chases",
+      "Realistic driving physics"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.appsoleut.car.driving.multiplayer",
+    "appStoreUrl": "https://apps.apple.com/us/app/car-driving-multiplayer/id6479641114",
+    "featured": false
+  },
+  {
+    "id": "rebel-racing",
+    "title": "Rebel Racing",
+    "developer": "Hutch Games Ltd",
+    "genre": "Racing/Arcade",
+    "rating": 4.2,
+    "size": "789 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/qoF0of2etd7vmNTA2aeRNO6i25elwDpCVfrmx3pEXg2Wu2QnIAIutD37VGoe2HjMYRrW=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/KPKQrn5asjOf94hzlYW7T4B_q74h5mIJ1MnKGWwftZt20qlXgPRMBw6yZQ2RHK29eJDN=w1052-h592-rw",
+    "description": "Collect and customize real licensed supercars and classics, then race head-to-head against rivals across stunning West Coast locations.",
+    "features": [
+      "Licensed real-world supercars",
+      "Head-to-head multiplayer competition",
+      "Stunning West Coast racing locations",
+      "Deep car customization with turbos and add-ons"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.hutchgames.rebelracing",
+    "appStoreUrl": "https://apps.apple.com/us/app/rebel-racing/id1321463207",
+    "featured": false
+  },
+  {
+    "id": "turbo-tornado",
+    "title": "Turbo Tornado",
+    "developer": "GRAYPOW",
+    "genre": "Racing/Open World",
+    "rating": 4.1,
+    "size": "79 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/Lrl6v4Ci26aIJIhiApCuxjx1aPDqxHjwSPO2RDiIJlODaG-YIVasOiSGveqqH-mBG90=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/IHw3NgWTJKttiZxT7EoDvEQTtWjYQhlzx1tHxAoCVqXLt14kFpLEtshRGYUPbEvSdWvm6XMgXTu6ejfvs5uP=w1052-h592-rw",
+    "description": "An open-world racing game set in San Lurito featuring drift, drag, and police chase modes with multiple vehicle types.",
+    "features": [
+      "Open world with day/night cycle",
+      "Multiple vehicle types (cars, trucks, helicopters, motorcycles)",
+      "Animated customization with LED spoilers and wraps",
+      "Fully playable offline"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.Graypow.TurboTornado",
+    "appStoreUrl": "https://apps.apple.com/us/app/turbo-tornado-open-world-race/id6471108882",
+    "featured": false
+  },
+  {
+    "id": "stock-car-racing",
+    "title": "Stock Car Racing",
+    "developer": "Minicades Mobile PTY LTD",
+    "genre": "Racing/Stock Car",
+    "rating": 4.4,
+    "size": "300 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/HwUJyag5GHbcVt3TMjeFIztEKjaTjYN5Ae6jeauqyIZ2llM3lT5X03mo30JBqCT6f4U=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/a3A92x-67rtffs8N5bXqxQLt1YZupMsgvBtbBTFJVQabCx4sfwdUAWLDdYXDa-eLSe3r=w1052-h592-rw",
+    "description": "Professional oval track racing with close to 300 unique cars, 6 tracks, and realistic crash physics with detachable panels and damage simulation.",
+    "features": [
+      "Realtime multiplayer oval racing",
+      "Nearly 300 unique stock cars",
+      "Advanced crash physics with damage simulation",
+      "Full car customization with paintshop and upgrades"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.minicades.stockcars",
+    "appStoreUrl": "https://apps.apple.com/us/app/stock-car-racing/id575849081",
+    "featured": false
+  },
+  {
+    "id": "road-redemption",
+    "title": "Road Redemption",
+    "developer": "Pixel Dash Studios LLC",
+    "genre": "Racing/Combat",
+    "rating": 3.5,
+    "size": "1.2 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/nCLfN7HWMwTvSFw2voVfSu4Puhv6kyRxhcWYOl7ZA7F7eAZMLwvlo8nBibCZbYLWvT30=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/JdkeUzrAaJK5jnJCUVUEkRdNVGoarVRG_98-2Cu9dTnxUDp-E6RrcUSLA-yMS7cMw_338EUEkRiQSqR4C4v5CcI=w1052-h592-rw",
+    "description": "Post-apocalyptic motorcycle combat racing with roguelite progression. A spiritual successor to Road Rash with melee weapons and brutal road rage action.",
+    "features": [
+      "Motorcycle combat with melee weapons",
+      "Roguelite progression with skill tree",
+      "Bike and character upgrades between runs",
+      "Gamepad and customizable touch controls"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.PixelDashStudios.RoadRedemption",
+    "appStoreUrl": "https://apps.apple.com/us/app/road-redemption-mobile/id1593882843",
+    "featured": false
+  },
+  {
+    "id": "racing-xperience",
+    "title": "Racing Xperience",
+    "developer": "BMZ Games",
+    "genre": "Racing/Simulation",
+    "rating": 4.8,
+    "size": "1.5 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/aIUv7uauQZ9Jz3WzRPABH3isabKTRWhrfJXMRyt_WELl6B2lLmAUkACGslDgQVkHSoZqgzeYndIkiwPXBGb3bQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/IHw3NgWTJKttiZxT7EoDvEQTtWjYQhlzx1tHxAoCVqXLt14kFpLEtshRGYUPbEvSdWvm6XMgXTu6ejfvs5uP=w1052-h592-rw",
+    "description": "The most comprehensive mobile driving simulator with 230+ customizable vehicles, multiple racing modes, open-world maps, and dynamic weather.",
+    "features": [
+      "230+ customizable vehicles",
+      "Manual transmission with clutch support",
+      "Multiplayer lobbies and competitive modes",
+      "Cinematic replay recorder"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.BMZGames.RaceXperience",
+    "appStoreUrl": "https://apps.apple.com/us/app/racing-xperience-driving-sim/id1530351754",
+    "featured": false
+  },
+  {
+    "id": "offroad-league",
+    "title": "Offroad League",
+    "developer": "Rooster Games",
+    "genre": "Racing/Offroad",
+    "rating": 4.5,
+    "size": "2.95 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/qDFXMSVDAiA5V-RPK8qzdS0qw5_bDUNwZE3Pd9wKkR70SUylA6A1LsI0eSGsPwC2y4E=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/KPKQrn5asjOf94hzlYW7T4B_q74h5mIJ1MnKGWwftZt20qlXgPRMBw6yZQ2RHK29eJDN=w1052-h592-rw",
+    "description": "Console-quality offroad racing with a massive 4 km squared open-world map, ultra-realistic vehicle physics, and user-created tracks.",
+    "features": [
+      "Massive 4 km squared open-world map",
+      "Console/PC-level graphics",
+      "Vehicle customization and trading",
+      "User-created maps and tracks"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.RoosterGames.OffroadLeague",
+    "appStoreUrl": "https://apps.apple.com/us/app/offroad-league-online/id6451036687",
+    "featured": false
+  },
+  {
+    "id": "riptide-gp-renegade",
+    "title": "Riptide GP: Renegade",
+    "developer": "Vector Unit Inc.",
+    "genre": "Racing/Water",
+    "rating": 4.4,
+    "size": "116 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/8yswc2V9Si1EmpSCKmAkG7qzXMKmjYAiJDl6ukhGDcgi9jMtBmqnOBRJHYTDbxKBAAdC=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/JdkeUzrAaJK5jnJCUVUEkRdNVGoarVRG_98-2Cu9dTnxUDp-E6RrcUSLA-yMS7cMw_338EUEkRiQSqR4C4v5CcI=w1052-h592-rw",
+    "description": "Arcade-style hydrojet racing through dynamic water environments. Perform stunts and compete in illegal races to reclaim your reputation.",
+    "features": [
+      "Online multiplayer up to 8 players",
+      "Local split-screen for up to 4 players",
+      "Career mode with boss races",
+      "Dynamic water physics and interactive tracks"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.vectorunit.silver.googleplay",
+    "appStoreUrl": "https://apps.apple.com/us/app/riptide-gp-renegade/id1090577736",
+    "featured": false
+  },
+  {
+    "id": "rally-horizon",
+    "title": "Rally Horizon",
+    "developer": "GRAYPOW",
+    "genre": "Racing/Rally",
+    "rating": 4.5,
+    "size": "502 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/NFTKJsXIoh2CSxP77C_mrphziRG0MobZNL7sXqEdCuJlHBTUs-5NGBxn53d6S3iIvg=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/IHw3NgWTJKttiZxT7EoDvEQTtWjYQhlzx1tHxAoCVqXLt14kFpLEtshRGYUPbEvSdWvm6XMgXTu6ejfvs5uP=w1052-h592-rw",
+    "description": "Open-world rally racing with ultra-detailed supercars, diverse environments from deserts to snow, and a walkable garage.",
+    "features": [
+      "80+ career levels",
+      "Fully playable offline",
+      "Walkable garage with car interaction",
+      "Diverse environments (desert, snow, and more)"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.Graypow.RallyHorizon",
+    "appStoreUrl": "https://apps.apple.com/us/app/rally-horizon/id6448262022",
+    "featured": false
+  },
+  {
+    "id": "carx-rally",
+    "title": "CarX Rally",
+    "developer": "CarX Technologies",
+    "genre": "Racing/Rally",
+    "rating": 4.3,
+    "size": "816 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/ZwNO1GvaCds0HXD7nSagcvkcxKl3ZWAvRb1n5bSfhJuHMtfzIokcsNGHam9BiQkq_x0=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/KPKQrn5asjOf94hzlYW7T4B_q74h5mIJ1MnKGWwftZt20qlXgPRMBw6yZQ2RHK29eJDN=w1052-h592-rw",
+    "description": "Realistic rally racing simulator with detailed physics, car damage, dynamic weather, and multiple championship modes across varied terrain.",
+    "features": [
+      "Realistic physics and collision damage",
+      "Multiple championships with difficulty levels",
+      "Diverse tracks with varied terrain and weather",
+      "Detailed car configuration and tire selection"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.carxtech.rally",
+    "appStoreUrl": "https://apps.apple.com/us/app/carx-rally/id1332286428",
+    "featured": false
+  },
+  {
+    "id": "static-shift-racing",
+    "title": "Static Shift Racing",
+    "developer": "Timbo Jimbo Pty Ltd",
+    "genre": "Racing/Street",
+    "rating": 4.6,
+    "size": "80 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/x5ky34FkqlDdvErKlQo4QVFkaym-iIDFwW3QQREW8t1tQSqfiHmCMY9881-6f-D5a2c=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/Q8t8ZAkcU5vRc5gXpZPeo4p9DeR0CetEw175dGdJxJbIm5L_13TQ7gjQ6pBYb5_7vp4=w1052-h592-rw",
+    "description": "An open-world street racing game set in Static Nation featuring 80s and 90s legendary cars with deep customization and competitive multiplayer.",
+    "features": [
+      "Extensive car customization (cosmetic and performance)",
+      "Open world with urban highways, industrial zones, and mountain passes",
+      "Multiple race types: circuit, sprint, drift attack, marker hunt",
+      "Controller support and multiplayer racing"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.timbojimbo.ssr",
+    "appStoreUrl": "https://apps.apple.com/us/app/static-shift-racing/id1618130846",
+    "featured": false
+  },
+  {
+    "id": "horizon-chase-2",
+    "title": "Horizon Chase 2",
+    "developer": "Aquiris Game Studio",
+    "genre": "Racing/Arcade",
+    "rating": 4.7,
+    "size": "1.5 GB",
+    "platforms": [
+      "iOS"
+    ],
+    "tags": [
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/Pj76q8t4kjONk0sa1KafpiC5pWqSBh3AK1Amu9w0S_h21VMgI-GJWFh2RnIICFHT5tE=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/R4Tu-I75nNmf5W7v2JTqc6CYGvJBgroAlkDcbTKAQV7PKyY36Nd5MRah1NSVzrBnyQ0=w1052-h592-rw",
+    "description": "A retro-inspired arcade racer paying tribute to classic 90s racing with vibrant visuals, 55+ tracks with dynamic weather, and split-screen multiplayer.",
+    "features": [
+      "55+ tracks with weather conditions affecting gameplay",
+      "Split-screen and online crew multiplayer",
+      "Car customization and stat upgrades throughout World Tour",
+      "Original soundtrack by Barry Leitch"
+    ],
+    "appStoreUrl": "https://apps.apple.com/us/app/horizon-chase-2/id1534920947",
+    "featured": false
+  },
+  {
+    "id": "rocket-racing",
+    "title": "Rocket Racing",
+    "developer": "Psyonix / Epic Games",
+    "genre": "Racing/Arcade",
+    "rating": 4.2,
+    "size": "2.9 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/BIheXwOzrUBmSJ1x_UGfeoO3v3N93r4t3WQhoTGHsFskZh0GXnppbc9-fWz4utWFNZddwuO356Xxkb0tnWCM6qI=w512-h512-rw",
+    "coverImage": "https://cdn2.unrealengine.com/rocket-racing-key-art-16x9-3840x2160-c5f01c3b4bb4.jpg",
+    "description": "A supersonic arcade racer within Fortnite where up to 12 players drift, fly, and boost through wild tracks. Built by Rocket League creators Psyonix.",
+    "features": [
+      "Up to 12-player online racing with ranked and casual modes",
+      "Boost meter mechanics with wall/ceiling driving",
+      "Speed Run leaderboard mode",
+      "Touch, controller, and keyboard support"
+    ],
+    "playStoreUrl": "https://play.google.com/store/search?q=Fortnite",
+    "appStoreUrl": "https://apps.apple.com/us/app/fortnite/id6483539426",
+    "featured": false
+  },
+  {
+    "id": "car-parking-multiplayer-2",
+    "title": "Car Parking Multiplayer 2",
+    "developer": "olzhass",
+    "genre": "Racing/Simulation",
+    "rating": 4.5,
+    "size": "3.0 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/1DhZDejbhLxExB4o4WyhtcIrpO5s4BaWqbk3nsjl64TM9nwO3iCQqpV18ZO3PyklnA=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/DZiFcf3kh0c40RFSk-lCgkKBeefAtvd_rnu1jVMWznRMGkp7kTgOimH-79YkmXcdYg0=w1052-h592-rw",
+    "description": "A massive driving simulator with 160+ cars featuring real interiors, open-world multiplayer with free walking, and 82 real-life parking and driving challenges.",
+    "features": [
+      "160+ cars with real interiors and mechanical transmission",
+      "Open-world multiplayer with voice chat and friend lists",
+      "Multiple modes: Police, Drone, Taxi, Drag Racing",
+      "Engine tuning with swappable engines, turbos, and gearboxes"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer2",
+    "appStoreUrl": "https://apps.apple.com/us/app/car-parking-multiplayer-2/id6514315118",
+    "featured": false
+  },
+  {
+    "id": "car-parking-multiplayer",
+    "title": "Car Parking Multiplayer",
+    "developer": "olzhass",
+    "genre": "Racing/Simulation",
+    "rating": 4.5,
+    "size": "2.1 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/86cQqI_vflAIckhMPWltYthLFh4YnemCi5hXm0VCQe4Lbj346-jH3r6uy3lsQtpO9A=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/Gtq3-k_EByT2U3AeVEOXkemgwwfx9MLJR2k0Y-_X7Yvj4pD0idrUjINevdN0kehMyYg=w1052-h592-rw",
+    "description": "A hugely popular car parking and driving simulator with 100+ cars, open-world multiplayer with free walking, and extensive car tuning.",
+    "features": [
+      "100+ cars with real interiors and adjustable suspension",
+      "Open-world multiplayer with voice chat and gas stations",
+      "Engine swaps, turbo tuning, gearbox, and exhaust customization",
+      "CPM Editor for creating custom worlds"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer",
+    "appStoreUrl": "https://apps.apple.com/us/app/car-parking-multiplayer/id1374868881",
+    "featured": false
+  },
+  {
+    "id": "gear-club-stradale",
+    "title": "Gear.Club Stradale",
+    "developer": "Eden Games S.A.S.",
+    "genre": "Racing/Simulation",
+    "rating": 4.1,
+    "size": "2.0 GB",
+    "platforms": [
+      "iOS"
+    ],
+    "tags": [
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/c5/a8/33c5a872-24a5-46c2-3fa2-0c25d8e5e2c4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+    "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/52/b9/2c52b9f7-78f5-fbb2-e7f1-e2f3e999a3e1/d16c5f25-e66d-4be6-9e1e-e18db2ad9e8f_GCS_screenshot_02.png/626x0w.webp",
+    "description": "A premium racing simulation set in Tuscany, Italy where you build clubs with friends, collect and customize dream cars, and compete in exclusive events.",
+    "features": [
+      "Club-based multiplayer set in Tuscany, Italy",
+      "Licensed real-world cars with detailed customization",
+      "Daily, weekly, and monthly exclusive content and events",
+      "Workshop-based car upgrades and tuning"
+    ],
+    "appStoreUrl": "https://apps.apple.com/us/app/gear-club-stradale/id1544427904",
+    "featured": false
+  },
+  {
+    "id": "wreckfest",
+    "title": "Wreckfest",
+    "developer": "HandyGames",
+    "genre": "Racing/Demolition",
+    "rating": 4.0,
+    "size": "5.7 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline",
+      "Cars",
+      "High Graphics"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/lV-Dvy-N8cAdzFDYFZJh4shHtwAx-NuwcDP20TqyA4k8GDbAiOyxeSCbDaoLNHBwdRw=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/n3YURJArZ4fDyioNOs10uFYdoWSpDaXvePr03f8-kS9qHOzyqb4JvMEY1fKY0_0jeUo=w1052-h592-rw",
+    "description": "A physics-based demolition derby and racing game with no-rules carnage, realistic vehicle damage, and deep car customization.",
+    "features": [
+      "Realistic physics-based vehicle destruction and damage",
+      "Career mode with unlockable content and challenge modes",
+      "Vehicle customization: defensive and performance parts",
+      "Local multiplayer across iOS and Android with 120hz support"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.hg.wreckfest",
+    "appStoreUrl": "https://apps.apple.com/us/app/wreckfest/id1592505377",
+    "featured": false
+  },
+  {
+    "id": "ace-racer",
+    "title": "Ace Racer",
+    "developer": "NetEase Games",
+    "genre": "Racing/Arcade",
+    "rating": 4.6,
+    "size": "1.6 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/tmTk1vNc6Nkl8wctgd_oXcp1Dl_xTYL4f1ECntGCmMNSQCfGUtvhSoNHCF9N9ATi8T4g=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/U6NTzeyiJmfoMT1TEQ1FCbQerrnUeMqn6oOEsGT0bZgb511eU_nFSX8YIsNP5bXNeQ=w1052-h592-rw",
+    "description": "A high-speed arcade racer by NetEase featuring 100+ licensed vehicles from 25+ manufacturers with unique ultimate skills for each car.",
+    "features": [
+      "Unique ultimate skill for each vehicle",
+      "100+ licensed cars from 25+ manufacturers",
+      "3v3 cooperative multiplayer with fast-paced rounds",
+      "Extensive customization: paint, decals, rims, lights"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.netease.racerna",
+    "appStoreUrl": "https://apps.apple.com/us/app/ace-racer/id1593356371",
+    "featured": false
+  },
+  {
+    "id": "owrc",
+    "title": "OWRC: Open World Racing Cars",
+    "developer": "Free Square Games",
+    "genre": "Racing/Open World",
+    "rating": 3.9,
+    "size": "500 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/OOkfwIh1GKd2eLYaP1C7DBXuYWV1Am3swAzCQoEEklUCjDFFDo0958UGfxRg4cElA8Q=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/KIgXT3NgoD7SqP9Xp2fYIny8F7XsFMzP6uc8LJdqX91WnB_YmJ5B88DuW9-bE6aXjvc=w1052-h592-rw",
+    "description": "A realistic open-world street racing simulator set on a 7x7 mile Hawaiian island featuring 74 cars with 3D cockpits and realistic driving physics.",
+    "features": [
+      "Massive 7x7 mile open world island",
+      "74 cars with 3D cockpit views and realistic physics",
+      "Fully offline -- no internet required",
+      "Free-roam mode and competitive races against 54 AI racers"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.freesquaregames.owrc",
+    "appStoreUrl": "https://apps.apple.com/us/app/owrc-open-world-racing-cars/id1639767925",
+    "featured": false
+  },
+  {
+    "id": "beach-buggy-racing-2",
+    "title": "Beach Buggy Racing 2",
+    "developer": "Vector Unit",
+    "genre": "Racing/Kart",
+    "rating": 4.2,
+    "size": "400 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/aAcv6ZjWYfH3QgzD5q6tWQmeh_DDT4AQcnds-9dRMZnAaG7jesS_MX0Tue95L0P_EVqE=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/kDeIUEBEgmrNPNG66rEagZ5Zjvc7KPe94gbOb_CSNRqZFL37nvUqCd09Lx3u6e8XInhY=w1052-h592-rw",
+    "description": "A fun-filled 3D kart racing game with 55+ collectible cars, 45+ upgradeable powerups, and online multiplayer tournaments.",
+    "features": [
+      "55+ collectible cars and multiple unique drivers",
+      "45+ powerups with strategic deck-building element",
+      "Online multiplayer tournaments and competitions",
+      "Fantastical themed tracks: pyramids, castles, pirate ships"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.vectorunit.cobalt.googleplay",
+    "appStoreUrl": "https://apps.apple.com/us/app/beach-buggy-racing-2/id1399253988",
+    "featured": false
+  },
+  {
+    "id": "drive-zone-online",
+    "title": "Drive Zone Online",
+    "developer": "Jet Games FZ-LLC",
+    "genre": "Racing/Open World",
+    "rating": 4.1,
+    "size": "394 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/6XtTMwY47KMK-dqMxAkhmSzVy3PSVZLnolmecn6PlhSU8bK6ZDLx4bg2zyxKWB8lmFPNtaDgJTWKqLt0UMk_UQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/56e5_K7JguCLJZjcFzTX5rByBFj7CJ8AM6pm5XU2bVDPoUoj4hBUTZn2ZWT-3DQleA=w1052-h592-rw",
+    "description": "An open-world car driving simulator featuring street racing, drift racing, and drag racing with extensive car customization and multiplayer for up to 32 players.",
+    "features": [
+      "Open-world exploration with massive map",
+      "50+ customizable cars with detailed tuning",
+      "Online multiplayer with up to 32 players",
+      "Multiple racing modes (street, drift, drag)"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.drivezone.car.race.game",
+    "appStoreUrl": "https://apps.apple.com/us/app/drive-zone-car-simulator-game/id6458189799",
+    "featured": false
+  },
+  {
+    "id": "race-max-pro",
+    "title": "Race Max Pro",
+    "developer": "Revani Limited",
+    "genre": "Racing/Street",
+    "rating": 4.6,
+    "size": "127 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/6ih-frpIPhe8kr1SD8zPvR_an-VGNR4bhysvlWMwNbPm7Hzg9DBONpOeH9vX3vim2cQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/TQT8LbEtEq35a1aQukQTuetj1L2nlLuiZdWMmVAC-Bnh3TTi8PxmYJrGSXKHo803SqY=w1052-h592-rw",
+    "description": "A mobile racing simulator featuring street racing, drifting, and drag racing with licensed supercars from top manufacturers.",
+    "features": [
+      "Licensed supercars from real manufacturers",
+      "Three racing disciplines (street, drift, drag)",
+      "215+ offline career races",
+      "Extensive car customization and upgrades"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=game.revani.racemaxpro",
+    "appStoreUrl": "https://apps.apple.com/us/app/race-max-pro-car-racing-game/id6446577300",
+    "featured": false
+  },
+  {
+    "id": "assetto-corsa-mobile",
+    "title": "Assetto Corsa Mobile",
+    "developer": "Digital Tales / 505 Games",
+    "genre": "Racing/Simulation",
+    "rating": 4.3,
+    "size": "2.4 GB",
+    "platforms": [
+      "iOS"
+    ],
+    "tags": [
+      "iOS",
+      "Offline",
+      "Cars",
+      "High Graphics"
+    ],
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1d/4e/09/1d4e0969-04e1-dce8-c229-2e4a1e793be8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+    "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b0/69/b6/b069b6b3-de96-2c3e-e657-8cc38ea45881/d93f1f43-c1f0-47d1-9e19-2a8fdd0e87eb_AC_screenshot_02.jpg/643x0w.jpg",
+    "description": "A premium racing simulation featuring 59 officially licensed cars from 18 manufacturers and 9 laser-scanned real-world circuits.",
+    "features": [
+      "59 licensed cars from Ferrari, Porsche, Lamborghini, etc.",
+      "9 laser-scanned real circuits (Brands Hatch, Laguna Seca, Imola)",
+      "Multiple game modes (Career, Time Attack, Free Practice)",
+      "No microtransactions - premium one-time purchase"
+    ],
+    "appStoreUrl": "https://apps.apple.com/us/app/assetto-corsa-mobile/id1479452716",
+    "featured": false
+  },
+  {
+    "id": "racing-master",
+    "title": "Racing Master",
+    "developer": "NetEase Games / Codemasters",
+    "genre": "Racing/Simulation",
+    "rating": 4.8,
+    "size": "3.1 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Cars",
+      "High Graphics"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/do3AIhCZM6R_bICaKjVTyHgH17L9vzis1aC_uZIh7iGu7TghoK-cr3pbhI5vKem79w=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/QLz8UypQwpG0pmE4ch1CSvt3axVmVwWQOaYTdd0o6xIPZL2f-er0to59UUMeJhoZYmgi1rQW9N9GI47n6ioh=w1052-h592-rw",
+    "description": "A high-fidelity racing simulation by NetEase and Codemasters featuring 100+ officially licensed vehicles with realistic visuals and real-time multiplayer.",
+    "features": [
+      "100+ officially licensed vehicles from top brands",
+      "Real-time competitive multiplayer racing",
+      "Open-world exploration and story mode",
+      "Detailed vehicle customization and tuning"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.netease.dfjssea",
+    "appStoreUrl": "https://apps.apple.com/app/racing-master/id6736940411",
+    "featured": false
+  },
+  {
+    "id": "carx-street",
+    "title": "CarX Street Racing",
+    "developer": "CarX Technologies",
+    "genre": "Racing/Street",
+    "rating": 4.6,
+    "size": "2.5 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars",
+      "High Graphics"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/B8INYkehIFue2QH_RoTQ6Rs5VndWrgUaKdscFCMWQwOQW13jwQE1YyBryuQA00XAshc=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/YTk9dlqqAWLwI34dz70ayVnKHRZcs5261nnvoN9cX3zSu0x53qQgUIk4HHrqVYAsFA=w1052-h592-rw",
+    "description": "An open-world street racing game set in Sunset City with realistic physics, extensive vehicle customization, and a full career mode.",
+    "features": [
+      "Open-world city with day/night cycle",
+      "Realistic physics-based driving mechanics",
+      "Deep car customization and tuning",
+      "Career mode with story progression"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.carxtech.sr",
+    "appStoreUrl": "https://apps.apple.com/us/app/carx-street/id1458863319",
+    "featured": false
+  },
+  {
+    "id": "disney-speedstorm",
+    "title": "Disney Speedstorm",
+    "developer": "Gameloft SE",
+    "genre": "Racing/Kart",
+    "rating": 4.5,
+    "size": "3.5 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/0hOgbmWCJfW_E51xQpn5-kiilbwxNzDEhtwpCqZePClM1fKh66yX7-IuWS1q0m5e6D_F6BglIMNI2Ih-Zq2X=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/64g4DiAN5zGcIHjgZHSQP8YcsE2cV5tfiMJckk1maqNAthMVorP-__jhIksx5XI5O_oHFq_cAtHAN97kDBqgwA=w1052-h592-rw",
+    "description": "A hero-based combat kart racer featuring Disney and Pixar characters with arcade-style racing, nitro boosts, and tracks inspired by iconic Disney worlds.",
+    "features": [
+      "Playable Disney and Pixar characters (Mickey, Buzz, Jack Sparrow, etc.)",
+      "Combat racing with power-ups and abilities",
+      "Tracks inspired by Disney/Pixar worlds",
+      "Online multiplayer and seasonal events"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gameloft.anmp.disney.speedstorm",
+    "appStoreUrl": "https://apps.apple.com/us/app/disney-speedstorm/id6449708682",
+    "featured": false
+  },
+  {
+    "id": "grid-legends",
+    "title": "GRID Legends",
+    "developer": "Feral Interactive",
+    "genre": "Racing/Simulation",
+    "rating": 4.5,
+    "size": "15 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline",
+      "Cars",
+      "High Graphics"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/e7r0faBloqcNixIiHxMkhUTED1RvuHWZKy_miONjldi2Qy7QHw7-tex9k4RBuhtNbg=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/MnJfHGEHbLGG8i9M4Aqnt0FJtEkP4BsYBW0lD8VrSqTOywhcInHF9UYoQgRiTtehoc8=w1052-h592-rw",
+    "description": "A premium racing game combining arcade thrills with simulation handling, featuring a cinematic story mode and 10 racing disciplines with all DLC included.",
+    "features": [
+      "Cinematic story mode with live-action sequences",
+      "10 racing disciplines (circuit, elimination, time trials, etc.)",
+      "All DLC content included (Deluxe Edition)",
+      "Multiple control options (touch, tilt, gamepad)"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.feralinteractive.gridlegends_android",
+    "appStoreUrl": "https://apps.apple.com/us/app/grid-legends-deluxe-edition/id6444311205",
+    "featured": false
+  },
+  {
+    "id": "nfs-most-wanted",
+    "title": "Need for Speed: Most Wanted",
+    "developer": "Electronic Arts",
+    "genre": "Racing/Open World",
+    "rating": 4.2,
+    "size": "1.9 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/E0yjOHksPFKkjALyEth4SzpWE_ynsCj5o9w9kIP5zm7QBzbVjF4pUOifiU_q2ecWZplU=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/59zYhJsE3XhzzvQQRSOnIoMssQ6kPJbGaW6fzCC5LgHmmo9K5DXVGJnWWZg6-QV3bg=w1052-h592-rw",
+    "description": "The iconic open-world racing experience on mobile with 40+ customizable cars, intense police chases, and full car damage mechanics.",
+    "features": [
+      "40+ customizable cars to unlock and race",
+      "Intense police chase and evasion gameplay",
+      "Open-world racing with full car damage",
+      "Multiplayer challenges and leaderboards"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ea.games.nfs13_na",
+    "appStoreUrl": "https://apps.apple.com/us/app/need-for-speed-most-wanted/id540925164",
+    "featured": false
+  },
+  {
+    "id": "asphalt-legends",
+    "title": "Asphalt Legends (Asphalt 9)",
+    "developer": "Gameloft SE",
+    "genre": "Racing/Arcade",
+    "rating": 4.3,
+    "size": "3.5 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars",
+      "High Graphics"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/C1O15FL45-ma-rfTgnWgIp_5reJDb3NX7Bk4T-Q8amjBYu_REDO-DQ6JSKIfWOa57u8=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/BJ-Lb_kL7F_RcKl2F1p9m3CdXryDgUQHd5C0dg8H7D0_nxoMpN702UrOX8GLhx-FC-lxT7FZ7L5f4ySLoxy2=w1052-h592-rw",
+    "description": "An arcade racing game featuring 300+ licensed cars from elite manufacturers like Ferrari, Porsche, and Lamborghini with cross-platform multiplayer racing.",
+    "features": [
+      "300+ licensed cars from elite manufacturers",
+      "Cross-platform online multiplayer (up to 8 players)",
+      "Extensive career mode with seasonal content",
+      "Club system with cooperative multiplayer modes"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM",
+    "appStoreUrl": "https://apps.apple.com/us/app/asphalt-legends-racing-game/id805603214",
+    "featured": false
   }
 ]
