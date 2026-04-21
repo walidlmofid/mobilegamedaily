@@ -618,10 +618,11 @@
       <img class="modal-icon" id="mIcon" src="" alt="" />
       <div class="modal-body">
         <div class="modal-title" id="mTitle"></div>
+        <div id="mTags"></div>
+        <div class="modal-buttons" id="mButtons"></div>
         <div id="mDetails"></div>
         <div class="modal-desc" id="mDesc"></div>
         <div class="modal-features" id="mFeatures"></div>
-        <div class="modal-buttons" id="mButtons"></div>
       </div>
     </div>
   </div>
@@ -701,11 +702,28 @@
     async function init() {
       try {
         const res = await fetch('/games.json');
-        games = await res.json();
-        for (let i = games.length - 1; i > 0; i--) {
-          const j = Math.floor(Math.random() * (i + 1));
-          [games[i], games[j]] = [games[j], games[i]];
+        const raw = await res.json();
+        const shuffle = arr => {
+          for (let i = arr.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [arr[i], arr[j]] = [arr[j], arr[i]];
+          }
+          return arr;
+        };
+        const buckets = {};
+        for (const g of raw) {
+          const key = (g.genre && g.genre.split('/')[0].trim()) || 'Other';
+          (buckets[key] = buckets[key] || []).push(g);
         }
+        for (const k in buckets) shuffle(buckets[k]);
+        const interleaved = [];
+        let keys = Object.keys(buckets);
+        while (keys.length) {
+          shuffle(keys);
+          for (const k of keys) interleaved.push(buckets[k].shift());
+          keys = keys.filter(k => buckets[k].length);
+        }
+        games = interleaved;
       } catch(e) {
         console.error('Failed to load games.json', e);
       }
@@ -846,13 +864,16 @@
       ].filter(Boolean).join(' ');
       const tagsHtmlModal = g.tags && g.tags.length ? g.tags.map(t => `<span class="game-tag ${t.toLowerCase().replace(/\s+/g,'-')}">${t}</span>`).join('') : '';
 
+      document.getElementById('mTags').innerHTML = (tagsHtmlModal || statusBadgesModal)
+        ? `<div class="card-tags" style="margin-bottom:4px;">${tagsHtmlModal}${statusBadgesModal}</div>`
+        : '';
+
       document.getElementById('mDetails').innerHTML = `
         <div class="modal-detail-row"><span class="dlabel">Category:</span><span class="dvalue">${g.genre}</span></div>
         <div class="modal-detail-row"><span class="dlabel">Developer:</span><span class="dvalue">${g.developer}</span></div>
         <div class="modal-detail-row"><span class="dlabel">Size:</span><span class="dvalue">${g.size}</span></div>
         <div class="modal-detail-row"><span class="dlabel">Rating:</span><span class="dvalue">⭐ ${g.rating}</span></div>
         <div class="modal-detail-row"><span class="dlabel">Supported OS:</span><span class="dvalue">${platformsHtml}</span></div>
-        ${(tagsHtmlModal || statusBadgesModal) ? `<div class="card-tags" style="margin-top:12px;">${tagsHtmlModal}${statusBadgesModal}</div>` : ''}
       `;
 
       document.getElementById('mFeatures').innerHTML = g.features && g.features.length ? `
