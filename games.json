@@ -2329,5 +2329,1316 @@
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM",
     "appStoreUrl": "https://apps.apple.com/us/app/asphalt-legends-racing-game/id805603214",
     "featured": false
+  },
+  {
+    "id": "battleground-survival-shooter",
+    "title": "Battleground Survival Shooter",
+    "developer": "ProGames3D",
+    "genre": "Action/Shooter",
+    "rating": 4.3,
+    "size": "250 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/MKB-QEp0ZXL2ixpTTJ4D9CX6vB8VDS011Yit513Os13p07rcOt8FyZ1yQYeHG_OqHqz-=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/8_rlN73tchbG3ghifefVndPtU4uFx7YHF1tg8tiNcGpRXg_pGCQ1wfXRAJtSYWedVgY=w1052-h592-rw",
+    "description": "An offline tactical shooter featuring realistic graphics, smart AI enemies, and intense survival combat across diverse battleground environments with vehicles and customizable single-player gameplay.",
+    "features": [
+      "Offline single-player survival combat",
+      "Advanced AI opponents",
+      "Drivable vehicles across maps",
+      "Realistic 3D graphics"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pro.game.BattlegroundSurvival",
+    "featured": false
+  },
+  {
+    "id": "schoolboy-runaway",
+    "title": "Schoolboy Runaway",
+    "developer": "Linked Squad",
+    "genre": "Puzzle/Stealth",
+    "rating": 4.2,
+    "size": "350 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/aeQ9le0YHrdLlPODSyYW9BnSZVR8gaQZH8hlRz9ksMX_hnzzMdw95Fo1zta4Lc726vQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/F3mLHysIUIHYRsWQ1zmSt-sKrMaccBaDCGIYNlsf6b444TB9xyi53vOPlPUWw-ccwfY=w1052-h592-rw",
+    "description": "A first-person stealth puzzle game where a punished student must outsmart his strict parents, sneak past detection, and escape the house to meet his friends.",
+    "features": [
+      "First-person stealth gameplay",
+      "Smart parent AI that notices clues",
+      "Puzzle-solving and item discovery",
+      "Multiple escape routes"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.LinkedSquad.SchoolBoyRunaway",
+    "featured": false
+  },
+  {
+    "id": "blades-of-deceron",
+    "title": "Blades of Deceron",
+    "developer": "Dreamon Studios",
+    "genre": "Action/RPG",
+    "rating": 4.5,
+    "size": "600 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/W-eKFD8g53yZJC_vbHiI4Y4Yoi-ruYTIEd83t1BZOPmek2fLnqBF_u14oCCVyWcuog=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/Ua7M1LbrMIvaHhqsUfgElP3iym9VJuGNBQtwDiWqYpTdN0BWBx-TrBuK_lg444ifghQ=w1052-h592-rw",
+    "description": "An epic medieval fantasy RPG where four warring factions clash across the valley of Brar in fast-paced 10v10 battles, conquering castles and recruiting troops.",
+    "features": [
+      "Massive 10v10 battle combat",
+      "Conquer towns and castles",
+      "Multiple races and weapon classes",
+      "Deep equipment customization"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.DreamonStudios.BladesofDeceron",
+    "featured": false
+  },
+  {
+    "id": "reckless-getaway-2",
+    "title": "Reckless Getaway 2",
+    "developer": "Miniclip.com",
+    "genre": "Racing/Action",
+    "rating": 4.2,
+    "size": "150 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/3aHL3xbbQBkiz2z3bf7EidcRxvWFTBPbEtBRLGHlrha4Z3UsTDM850RdK14HAAMaS-QjcxCVa9jOcTNbuGGDeQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/EZyN_P4O46l6lspPDk4HaNqSRC5MQ5Q9yVuBdobm635p8w8PbMcGc2CCUobFAixWSA=w1052-h592-rw",
+    "description": "A high-octane arcade racer where you drift, slide, and dodge through urban streets and off-road trails to escape police, SWAT, helicopters, and military vehicles.",
+    "features": [
+      "High-speed police chase action",
+      "Numerous unlockable vehicles",
+      "Free-roaming open levels",
+      "Simple intuitive controls"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pixelbite.ga2",
+    "featured": false
+  },
+  {
+    "id": "shark-ravage",
+    "title": "Shark Ravage",
+    "developer": "R-USER Games",
+    "genre": "Action/Simulation",
+    "rating": 4.6,
+    "size": "200 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/T3tMJnPz0qOZ_ROf4UMCzTuYOf_kNGOuaxcWqFet6KCPe1xKgbXGgh9SEzjVAkhs0OKbkeln49cb6O49RDyhWQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/Cp9uK4V4JLVYc-UwZ18CGrpbJAorlmNbFMOC8gvEK3f38eFpfh4rTDT904EU-5Iykk0=w1052-h592-rw",
+    "description": "A 3D shark simulator where you wreak havoc on beaches and pools using physics-based animations, jetpacks, and skins across free-roam, rampage, and challenge modes.",
+    "features": [
+      "Physics-based shark animations",
+      "Three distinct gameplay modes",
+      "Customizable jetpacks and skins",
+      "Predator evolution progression"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rusergames.sharkrage",
+    "featured": false
+  },
+  {
+    "id": "nostalgia-open-village",
+    "title": "Nostalgia Open Village",
+    "developer": "Glubinka Studio",
+    "genre": "Simulation/Open World",
+    "rating": 4.1,
+    "size": "200 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/W3uUZJ1g01YTzNjC0cRtrX4Lj8mBVlTPdxVAoCiWd-1YNTRajvJTG9mP5EWByfkbcRA=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/qs9aEcw3SpXI26n-v4DR6YtCgvE_OTtWD94Y_gKJ1MmRd3vIaK1E3OpJx4cWeI7mSvQ=w1052-h592-rw",
+    "description": "A relaxing open-world village simulator where you wander endless landscapes, drive classic cars, complete quests, and meet film-inspired characters with realistic physics.",
+    "features": [
+      "Open-world village exploration",
+      "Drivable classic vehicles",
+      "Realistic physics engine",
+      "Quests and character interactions"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.VMGames.Nostalgia",
+    "featured": false
+  },
+  {
+    "id": "dig-it-up",
+    "title": "Dig it UP",
+    "developer": "Dalak Games",
+    "genre": "Simulation/Casual",
+    "rating": 4.3,
+    "size": "150 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/MJPPnAaD8HraZEJRPBiYe8HFP4a0tDYvWA1TUdkH5bRINSivLI7sQW7n3OQvnbZqcqraPXf_JcpQEt9THwX6WQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/lBn4leU5L-fQerr-zFFERk6i_b1njeOagea_acDrKNQoIy58pOGmk5isAEOp-xOjlzeHHRMuKn4Gs5zodl7q=w1052-h592-rw",
+    "description": "A mining adventure where you grab pickaxe and shovel to dig deep, mine valuable ores, upgrade gear, and uncover ancient artifacts buried beneath mysterious underground worlds.",
+    "features": [
+      "Deep mining and excavation",
+      "Tool and gear upgrades",
+      "Discover ancient artifacts",
+      "Explore underground biomes"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dalakgames.digitup",
+    "featured": false
+  },
+  {
+    "id": "grand-truck-simulator-2",
+    "title": "Grand Truck Simulator 2",
+    "developer": "Pulsar GameSoft",
+    "genre": "Simulation/Truck",
+    "rating": 4.3,
+    "size": "400 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/3TStUPqbUvT_lZaXR6VPXeBDD4tsTpOsQFDawB-OJyIyCXZQbD97h1pnNRkqIXXTWc8=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/nD6kWetaowb6nvhG-d8xuZ-JbQPlBBoY6w6aJwgDFrBaD7Ox2vQjsGONZlWVJdmPOuE=w1052-h592-rw",
+    "description": "A deep mobile logistics simulator where you maintain trucks, swap engines and gearboxes, manage tire pressure, and haul cargo across new maps with dynamic weather.",
+    "features": [
+      "Realistic truck management mechanics",
+      "Engine and gearbox swapping",
+      "Dynamic weather systems",
+      "Damage and consumption physics"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.Pulsar.GrandTruckSimulator2",
+    "featured": false
+  },
+  {
+    "id": "frontline-ww2-war-heroes",
+    "title": "Frontline WW2: War Heroes",
+    "developer": "Cooking Game Global",
+    "genre": "Action/Shooter",
+    "rating": 4.2,
+    "size": "300 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/BMCS_Dax0tWdS_ERc8b4kH4FI_RIc6ffwubRV-Fr4DGs856kVj56Y2Jvyh79l6iPkjxYqrQIfVNGFLlb3EJ5GQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/Dn0KvbnS3TK1mL5TImahOOb-VbhBTxU531XsBid1QacED17cgwWKlFfRnI71EQwsffd_xTIcAFFPZrlTkeZw=w1052-h592-rw",
+    "description": "Step into the boots of a WWII soldier in this fast-paced action shooter featuring intense missions, weapon upgrades, and survival across war-torn historical battlefields.",
+    "features": [
+      "WWII-themed combat missions",
+      "Weapon upgrades and progression",
+      "Realistic battlefield environments",
+      "Wave-based survival action"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.frontline.war.heroes",
+    "featured": false
+  },
+  {
+    "id": "zombie-safari-offroad",
+    "title": "Zombie Safari Offroad",
+    "developer": "DogByte Games",
+    "genre": "Action/Vehicle Combat",
+    "rating": 3.9,
+    "size": "250 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/93FtgUWKDCYg2LOgS3G5rOBm467dz0l0O08IL7glXNiauPDWTAvjlBLxbY-LeWnK=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/fOaFV2J_46BRacaTFd_bxa3D5uxpyczCnNgCPltWgSWs4f1VMHGalGFV3EbNt4OEWkM=w1052-h592-rw",
+    "description": "An open-world offroad sandbox where you explore six regions, mow down zombies with 12 unlockable vehicles, hunt boss enemies, and discover hidden treasures including a low-gravity moon map.",
+    "features": [
+      "Open-world sandbox with 6 regions",
+      "12 unlockable vehicles",
+      "Multiple weapons and power-ups",
+      "Special low-gravity moon map"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dogbytegames.zombiesafari",
+    "featured": false
+  },
+  {
+    "id": "ocean-is-home-survival-island",
+    "title": "Ocean Is Home: Survival Island",
+    "developer": "RAVEDOG GAMES",
+    "genre": "Action/Survival",
+    "rating": 4.6,
+    "size": "95 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/ODHtYi8Lc8sVle-Fxc1PBt5oDGoElyHOhOHIEhw2hd7ekZdw0dcF2x_-K8B_dzD6zO3e=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/taJEPjFFznlhEa-AJUWEcuqh90yhis2zWWMgYHbYyucL6axSpAQZgp649GsUYN_rlDeu=w1052-h592-rw",
+    "description": "Stranded on a tropical island, gather resources, craft tools and weapons, build shelters, and develop survival skills to endure the wilderness.",
+    "features": [
+      "Open-island exploration with full freedom",
+      "Build and customize your own house",
+      "Craft weapons and tools for hunting",
+      "Deep character progression"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.birdydogstudio.oceanishome",
+    "featured": false
+  },
+  {
+    "id": "heat-gear",
+    "title": "Heat Gear",
+    "developer": "GRAYPOW",
+    "genre": "Racing/Open-World",
+    "rating": 4.1,
+    "size": "350 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/v4aRMtPdYsCFmoOplvloOwxbwKZOC9torrivqxej7Nqulr2_0DOG3GPRB2CgFiFQhyfzB3FRq0K9pCL8o3qZ4YI=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/xgemlXxQKaIwcc6B-U0Q3NOV0Ost_BSUbpY8CnH-DIeMiQfejMzIkEcA9cAU6dKKganSYHT0fZMuThLY_M1Oow=w1052-h592-rw",
+    "description": "Cruise an open-world night city, drift through illegal street races, customize your ride, and outrun police to build your driver reputation.",
+    "features": [
+      "Open-world night city street racing",
+      "Deep car customization and tuning",
+      "Police chase and evasion mechanics",
+      "Fully offline gameplay"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.Graypow.HeatGear",
+    "featured": false
+  },
+  {
+    "id": "frag-pro-shooter",
+    "title": "Frag Pro Shooter",
+    "developer": "Oh BiBi",
+    "genre": "Action/Hero Shooter",
+    "rating": 4.4,
+    "size": "130 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/W5oPv_F0Z-wAwZdbxQEBjNduvGjq8rDgdZ58bC7QpKX2fhvdUrQaZSCRLPCO1PiYW7g=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/M9nhcjU4_z1Kigxf2Lc6bEWcBV2__Tow6ZJbhYW9PFN3YH2SWiZ6m16jL7Kw6SqU7w=w1052-h592-rw",
+    "description": "Pick your hero, build a dream team, and battle worldwide in fast-paced 1v1 and 2v2 PvP matches mixing FPS and TPS gameplay.",
+    "features": [
+      "150+ weapons and 150+ heroes",
+      "1v1 duels and 2v2 PvP battles",
+      "Switch between five characters mid-match",
+      "Adjustable FPS and TPS controls"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ohbibi.fps",
+    "featured": false
+  },
+  {
+    "id": "misguided-remastered-demo",
+    "title": "Misguided Remastered Demo",
+    "developer": "JEVO Games",
+    "genre": "Action/Horror Adventure",
+    "rating": 4.5,
+    "size": "800 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/qufMa6TEMrshd-SiqtPb2CavUT-bWYkE6m2CsYS8-7L1ofX9RfqMEhvz3mrzop3Oi0sI=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/nwAk9k0SqOZqFhtdtxjgvsGShhvmlXTvvuF04FV-1h6vIDVHW2Y7xKe4Ob6b9_XzoqoYBzgWDl6WwpfvF_jG=w1052-h592-rw",
+    "description": "A third-person survival-horror adventure following Silvia through an Indonesian-folklore nightmare as she searches for her missing best friend.",
+    "features": [
+      "Indonesian folklore-inspired horror",
+      "Survival-horror combat with limited resources",
+      "Choice-driven non-linear storyline",
+      "Cinematic 3D environments"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.JEVOGames.MisguidedR",
+    "featured": false
+  },
+  {
+    "id": "project-jazzgame",
+    "title": "Project Jazzgame",
+    "developer": "VEETEE Games",
+    "genre": "Action/Adventure",
+    "rating": 4.6,
+    "size": "700 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/Vc4_JpvbIuo5X3mczfalBsovV_IyPe4MXp-oTe85a6oNS1MqD44AtsEvaUcbjGw6_NcXfkwfoHtWud2il_QQUA=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/4Syveoz0L42jecj_P7Z_qZ7zcS-zdbL-B4Gac8KDLdoKkueoQyFYR-lDCyFOLzfwne6zFDcWWFfJdOqEumor-g=w1052-h592-rw",
+    "description": "An open-world action adventure mixing fluid parkour and free-flow combat across dynamic rooftops and gritty urban environments.",
+    "features": [
+      "Fluid parkour and acrobatic traversal",
+      "Free-flow combat with brutal combos",
+      "Open city with reactive NPCs",
+      "Deep character customization"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.VEETEEGames.JazzGame",
+    "featured": false
+  },
+  {
+    "id": "farming-sim-18",
+    "title": "Farming Sim 18",
+    "developer": "GIANTS Software",
+    "genre": "Simulation/Farming",
+    "rating": 4.4,
+    "size": "350 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/fBrh0fhnDn4_ClaeY9JW3d18hhYq8KtZiKPCWhpdD1_LNcZ85siuWIoiW8hEaS8b7A=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/Xzx_6O93CzPCL5hEIQCyF9ft713ZQCLaaH6aA_unq_Mb0tdPIOycXIU8fOm-9TBgKg=w1052-h592-rw",
+    "description": "Step into a modern farmer's boots, manage crops, livestock, and machinery in an open world full of authentic, brand-name farming vehicles.",
+    "features": [
+      "Six harvestable crops",
+      "Raise cows, sheep, and pigs",
+      "50+ authentic vehicles from major brands",
+      "Local WiFi and Bluetooth multiplayer"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.giantssoftware.fs18.google",
+    "featured": false
+  },
+  {
+    "id": "burst-to-power",
+    "title": "Burst to Power",
+    "developer": "BOOLit Game Studio",
+    "genre": "Action/Anime Fighting",
+    "rating": 4.6,
+    "size": "250 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/8oBlZcOpSzNJa6ZsXBV5w4e5I1yFpr3r61_f93QdcBnvhV3wR6BDfCLmhAirqEd4mwo=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/o7V-Skz3RHhksQYjps2f61tm0_JhM7iqUQR1klokB3xLaiP-HTkMbfoFFT7RtVVck_yi=w1052-h592-rw",
+    "description": "An anime fighting RPG where you unlock heroes, train them, battle enemies, and awaken powerful new transformations across a story-driven campaign.",
+    "features": [
+      "Fast-paced anime-inspired combat",
+      "Unlockable characters with unique powers",
+      "3D anime visuals with fluid animations",
+      "Story-driven campaign"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.boolit.bursttopowerlite",
+    "featured": false
+  },
+  {
+    "id": "project-breach-2",
+    "title": "Project Breach 2",
+    "developer": "1Car2Wills Games",
+    "genre": "Action/Tactical Shooter",
+    "rating": 4.7,
+    "size": "500 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/lQK1IaoSXYTxqx7EKBOpRz1MD6FSxHb7RcFLbOrz2mDz3GDhXWLEFpGhfCdSX6NXsw=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/qQnx7nFjnkBI_htjrO0u5mLHjp7j4JMwLXUjmtj-4VR1cuO0WTLXLhz39_3jTDHJlC-A=w1052-h592-rw",
+    "description": "A tactical first-person CQB shooter built around gadgets and strategy, playable solo offline or co-op online with friends.",
+    "features": [
+      "Seven levels with randomized traps",
+      "Loadout and class customization",
+      "Tactical leaning, rappelling, breaching",
+      "Online co-op and offline AI commands"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.willdev.projectbreachremastered",
+    "featured": false
+  },
+  {
+    "id": "rush-xtreme",
+    "title": "Rush: Xtreme",
+    "developer": "SayGames Ltd",
+    "genre": "Racing/Sports",
+    "rating": 4.4,
+    "size": "180 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/bBFvBjosQOZF9vM2l5LPyDyoIbTUta1ZdqeCzq0jxyLWbFWoEYKy-WUjuG6mrZbZMw=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/PqzEkb1FRRvJmaMT5Tuhg-Jnz9KqnIvkhUYjI6ltXW9G0077GVVT3QsHCvlBH1aCDg=w1052-h592-rw",
+    "description": "Fast-paced dirt-bike racing across mountain trails and deserts, where you out-ride rivals and upgrade your character and bikes to climb the ranks.",
+    "features": [
+      "Realistic graphics and downhill perspective",
+      "Customizable looks and bike types",
+      "Progressive difficulty",
+      "Bite-sized levels for quick sessions"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rush.xtreme.sports",
+    "featured": false
+  },
+  {
+    "id": "battlefront-europe-ww2-heroes",
+    "title": "Battlefront Europe: WW2 Heroes",
+    "developer": "DNS Studio",
+    "genre": "Strategy/Shooter",
+    "rating": 4.8,
+    "size": "600 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/mWob96S0n4_fGELLK2Zt_aVQQdw4yfLQGX4yzZ5J1FNGNVQ8Sye8IyeTzkUoV_oXvGDIeYSUN4Sh42xA71dyOLI=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/pDDsFzNouMn3iVi5-v74S2ztkwcu-C1L2masBXk_JNWTiQRZ_DhICIFfOXnPi1SH_4lFM1jA1gMebfoQlMTC=w1052-h592-rw",
+    "description": "A hybrid RTS-FPS WW2 game letting you command troops from above and drop into first-person combat across full Allied and Axis campaigns.",
+    "features": [
+      "Switch between RTS command and FPS",
+      "Allied and Axis full campaigns",
+      "Built-in map editor",
+      "Authentic WW2 weapons and vehicles"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.DNSstudio.BattlefrontEuropeWW2",
+    "featured": false
+  },
+  {
+    "id": "atss-2",
+    "title": "ATSS 2: TPS/FPS Gun Shooter",
+    "developer": "Techouse Games",
+    "genre": "Action/Shooter",
+    "rating": 4.3,
+    "size": "350 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/WoeThP_GmVoUJMT5360PdvwWb8GwLU_WO98_PQrKrTinvqER9fmsnW5oX0QaioIRU6g=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/kf_vMI98Nxtx4ll08R7AXNURR1xBVVlESNEY2jjYEfwDGa8VQvsIrQRYqYYQ9cyraw=w1052-h592-rw",
+    "description": "A tactical TPS/FPS shooter with offline campaign, multiplayer, and zombie modes featuring customizable weapons and animal companions that gather resources during combat.",
+    "features": [
+      "Offline story-driven campaign",
+      "Specialized weapons (AK47, M416, snipers)",
+      "Animal companion system",
+      "Full character and weapon customization"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.thg.atss2.shooting.offline.games",
+    "featured": false
+  },
+  {
+    "id": "thronefall",
+    "title": "Thronefall",
+    "developer": "Doghowl Games",
+    "genre": "Strategy/Tower Defense",
+    "rating": 4.5,
+    "size": "280 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/X9pQOSmAEeFQ8Lg-zT_CBE4yF84fgtYLuIkbWl7GkUi2BXRpPmcXAoO42vshCHAB1g=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/ds6AByad9gIPkg0paPbFMKsx2e9Cu1Nm5Fi43qgYJROwnwQiB6cPXbQBbwM-SYgE6A=w1052-h592-rw",
+    "description": "A minimalist medieval kingdom-builder where you build by day and defend your throne against waves of enemies by night through fast-paced hack-and-slash combat.",
+    "features": [
+      "Day/night cycle gameplay loop",
+      "Build economy and defenses",
+      "Mounted combat with sword and longbow",
+      "Award-winning streamlined design"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.doghowlgames.thronefall",
+    "featured": false
+  },
+  {
+    "id": "planet-protect-squad",
+    "title": "Planet Protect Squad",
+    "developer": "Decakisunjarum Shooting Games",
+    "genre": "Action/Shooter",
+    "rating": 4.4,
+    "size": "400 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/2_afolyDuM9ralQVAxkC2T99oWAU3c3TsasNFFxZsjwuoeeDd37u3d_F1SLLQXSi_CY=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/e-_xmxkHKJQHZU2i8cXBbu2lWsZlZsqF3gV5I1U9uXPzamPfkfnpouDLgbL5w79U6rA=w1052-h592-rw",
+    "description": "A sci-fi shooter where you join Earth's defense force against alien invaders using futuristic weapons, drones, and turrets across single-player campaigns and bot battles.",
+    "features": [
+      "Modern and futuristic weapons",
+      "Drone, turret, and grenade support",
+      "Multiple character classes",
+      "RPG progression system"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.lb4business.tpsgame",
+    "featured": false
+  },
+  {
+    "id": "real-offroad-4x4-mud-trucks",
+    "title": "Real Offroad 4x4 Mud Trucks",
+    "developer": "Real Games srls",
+    "genre": "Racing/Simulation",
+    "rating": 4.0,
+    "size": "320 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/n-Ai-NVFwahSdN27N8l3-oYBPmQYkCU3kqlxROtTrYc_J80Ai_Px8ZNbpdqhBvczUg=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/mIr8Wxrtp7UPJyd3hyI6Mnn6j925oB-_bkT4wg2f-DzvaWZOxmyQsTOBEJqMc9_irA=w1052-h592-rw",
+    "description": "A realistic 4x4 offroad driving sim with mud trucks and SUVs tackling rugged terrain, time trials, and adventure modes with lifelike physics and crashes.",
+    "features": [
+      "Realistic physics and damage",
+      "Dynamic mud, dirt, and rocky terrain",
+      "Multiple SUVs, 4x4s, mud trucks",
+      "Race, time trial, and free-roam"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.RealGames.RealOffroadRacing",
+    "featured": false
+  },
+  {
+    "id": "dead-wasteland",
+    "title": "Dead Wasteland: Survival RPG",
+    "developer": "JustForFunGames",
+    "genre": "RPG/Survival",
+    "rating": 4.2,
+    "size": "500 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/C0xZFgzUfVD2OEBmhLljGRSFGsp8iF4J8ScV_8VXHmuOtJXsM7TkF6UIJAXyIr2X0mM=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/9VT-DY1DfBH3spgys7YMClMzt9W7Opl2WnrygeT-pyqO8IjmFghRKxrQ6B01ra13L-s=w1052-h592-rw",
+    "description": "A Fallout-inspired post-apocalyptic survival RPG with procedurally generated world, ragdoll physics combat, crafting, and an arsenal ranging from sniper rifles to lightsabers.",
+    "features": [
+      "Procedural open-world locations",
+      "Physics-based ragdoll combat",
+      "First-, third-person, and top-down views",
+      "Crafting, day/night cycle, weather"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.JustForFunGames.Wasteland",
+    "featured": false
+  },
+  {
+    "id": "carrion",
+    "title": "Carrion",
+    "developer": "Devolver Digital",
+    "genre": "Action/Horror",
+    "rating": 4.2,
+    "size": "600 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/Z9pjZyh94fm6-S0dtsnEL26ewvKPYsaf80ZLfyu84Ul2ESc30jAaND9cMCSofNgvrVML=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/MRr6LCO4dz31Ec6oSNLaaZ5D8I568DrMCogIG90ksd2XfgF9kXLwUfZZ--6MLCSXc_A=w1052-h592-rw",
+    "description": "A reverse horror game where you play as an amorphous monster escaping captivity, devouring scientists and soldiers while evolving terrifying new abilities.",
+    "features": [
+      "Play as the monster, not the victim",
+      "Evolve devastating new abilities",
+      "Single-purchase full game + DLC",
+      "Environmental puzzle-solving"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.devolverdigital.carrion",
+    "featured": false
+  },
+  {
+    "id": "alternate-world",
+    "title": "Alternate World",
+    "developer": "Petr Nagel Games",
+    "genre": "Adventure/Puzzle",
+    "rating": 4.0,
+    "size": "250 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/8G96B5-aBWxk4HvuZUn-uJVIJVY4aBEJVB4uHeGbbi67SJCqVPK0Rkpnyd1ceYgW1F1ZBMNkh5aD28QqxxaM=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/qt82BOUVT2lAh0qv0RHTe-D9wvhzOtLdrV7fLTyph3I2NIxLiukhGO4dwrQVbFb8uF3q=w1052-h592-rw",
+    "description": "A narrative survival adventure with DOS-inspired interfaces where you explore a collapsed civilization, repair systems, and make tough decisions to keep the signal of hope alive.",
+    "features": [
+      "Retro DOS-style interfaces",
+      "Puzzle-solving and terminal repair",
+      "Branching decision-driven narrative",
+      "Resource gathering and survival"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=pn.games.exsignal",
+    "featured": false
+  },
+  {
+    "id": "worldbox",
+    "title": "WorldBox - Sandbox God Sim",
+    "developer": "Maxim Karpenko",
+    "genre": "Simulation/Sandbox",
+    "rating": 4.6,
+    "size": "150 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/XD7-X-5qk_37o2OyLeOPuPjuY1rD0O4COKX-TOh_efoHoVQkmSzk00fSUB6a7FU7a_E=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/Km4zZ8YTZbnVJpxpQzKM3x2feICC21kzzO88K190TSuG1NbEj0V1Fr0m9rqFOvsBpBo=w1052-h592-rw",
+    "description": "A pixel-art god sandbox where you create civilizations of orcs, elves, and humans, then unleash tornadoes, meteors, and atomic bombs to watch them fall.",
+    "features": [
+      "Spawn races (orcs, elves, dwarves)",
+      "Disaster tools (meteors, volcanoes)",
+      "Watch civilizations evolve and war",
+      "Pixel-art world creation tools"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mkarpenko.worldbox",
+    "featured": false
+  },
+  {
+    "id": "outbreak-dead-city",
+    "title": "Outbreak: Dead City",
+    "developer": "ScrapGearStudio",
+    "genre": "Action/Zombie Shooter",
+    "rating": 4.1,
+    "size": "450 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/5c_84mmam5U4Wv4Ihqzh5LcryDjH8c0Xe6pIfPYQ2W-9oTic3gYhERIHqqPjkUyGtbQkt-xJKGhAsjMiU577rA=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/mqmqqLjS18pE2Pb4D-ncTDmAv94xFAyTHz7nllxEdhMpOVoPFAGcdwOxP1JP6CWpE-FBdLQR_f5C1qkrPH0V=w1052-h592-rw",
+    "description": "A brutal zombie survival shooter set in a ruined city where every bullet matters as you scavenge resources, fight infected hordes, and uncover the outbreak's secrets.",
+    "features": [
+      "Realistic ammo and resource scarcity",
+      "Pistols, shotguns, rifles, melee",
+      "Dynamic exploration missions",
+      "Horror-inspired atmosphere"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ScrapGearStudio.OutbreakDeadCity",
+    "featured": false
+  },
+  {
+    "id": "farmout",
+    "title": "Farmout - Farming Sim",
+    "developer": "Mankrik",
+    "genre": "Simulation/Farming",
+    "rating": 4.7,
+    "size": "380 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/rlqvhepaYMoBd4w2WT33qqxlw17zWYg_IVpTv3FOTmM5x7ve99wPkd89TT0aXNyD_Q=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/ZyilPXsfC3iJMdlrfeYaXXlZghmiFRIVNm2MmPwbyu7jO0j-fLXF2yugwsfwXZlT5iI=w1052-h592-rw",
+    "description": "A relaxing first-person farming sim with two-handed controls where you grow crops, raise animals, craft goods, and turn a small plot into a thriving countryside business.",
+    "features": [
+      "First-person immersive farming",
+      "Mini-games (milking, shearing, mowing)",
+      "Product crafting (milk to cheese)",
+      "Progressive tool and building upgrades"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=farm.sim.games",
+    "featured": false
+  },
+  {
+    "id": "re-play-tactical-shooter",
+    "title": "RE-PLAY: A Tactical Shooter",
+    "developer": "Mahen Sanketh Malwatte",
+    "genre": "Action/Shooter",
+    "rating": 4.0,
+    "size": "450 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/swB-FFNkqW953KXWYDhKghqPEYAQ31vLWdLV19GrCubuZzEuxFaLJDZq5TPKzAQbZ5Tjauho0wA3dgCrIlOPoQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/3NdHdp3O2aqXtvtQ5Hx9NFI5Sw3xPDV-7vc0vGJPZyl07-miqFfLSW_s8jPM9h3T-tVtfNhBQ-6vfgsZLDbT=w1052-h592-rw",
+    "description": "A realistic, grounded tactical first-person shooter built for mobile, delivering authentic gunplay and methodical combat scenarios designed for serious shooter fans.",
+    "features": [
+      "Realistic, grounded tactical gunplay",
+      "Mobile-optimized FPS performance",
+      "Authentic weapon handling",
+      "Mature combat experience"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gamedevme.replay",
+    "featured": false
+  },
+  {
+    "id": "rooftop-run",
+    "title": "Rooftop Run",
+    "developer": "Mad Hook",
+    "genre": "Action/Parkour Runner",
+    "rating": 4.5,
+    "size": "120 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/14i-gdQAh6DGzhcFutUbgcwn0WGZyg_gzsIT-XaKAPkLt3dpJyFIUhqMZpiR1a3Y7A=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/_BDc1yfsdMe9j_wtTG8LnHI-Cs7wSFumUpgn4OesTLbhRCJnIgLE0l2zfyL_OxXihEg=w1052-h592-rw",
+    "description": "A thrilling 3D parkour runner where you sprint, jump, roll, and slide across urban rooftops through hundreds of intense freestyle running levels.",
+    "features": [
+      "Epic parkour and freestyle moves",
+      "Hundreds of well-designed levels",
+      "Stunning 3D urban visuals",
+      "Intuitive offline controls"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=io.madhook.parkour",
+    "featured": false
+  },
+  {
+    "id": "takashi-ninja-warrior-remake",
+    "title": "Takashi Ninja Warrior Remake",
+    "developer": "Horizon Games",
+    "genre": "Action RPG",
+    "rating": 4.6,
+    "size": "700 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/IPCPpff-scQZTRKropcEphheFoyudemr_aeQFAazxlkwCNVV3QT4yMhePpNNJeuNgGYzodvn16ja-NjFp1RVxg=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/2Mq1BNAcgJhbIB2GeZ9WBeqQ1MH-CvrOouGXDCcS4pnH1deVdfqmqXHVdt6XrJ51tQ=w1052-h592-rw",
+    "description": "A dark open-world action RPG following shadow ninja Takashi through the fallen kingdom of Kurome with brutal melee combat, stealth, and epic boss battles.",
+    "features": [
+      "Deadly melee ninja combat",
+      "Open-world 3D exploration",
+      "Fully offline gameplay",
+      "Intense samurai boss battles"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.hg.takashi.ninjagames",
+    "featured": false
+  },
+  {
+    "id": "counter-offensive-strike",
+    "title": "Counter Offensive Strike",
+    "developer": "It's Necessary Games",
+    "genre": "Action/FPS",
+    "rating": 5.0,
+    "size": "350 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/ztgIt0EJ2kKgW5ENU7dV42S2FSq7qZWq5uw65tpVOE6efUQKWUTGeAKVzr_NDS2d9Q=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/fVT9wBaqENoMePEu37kElpVT1ZbRZg3KIrwcmneBUPng6IR0QeWEnnXIGJwUY8Ou2g=w1052-h592-rw",
+    "description": "A Counter-Strike-inspired tactical multiplayer shooter with up to 16 players, featuring around 30 weapons, classic bomb defusal, and team deathmatch modes.",
+    "features": [
+      "Plant and Defuse bomb mode",
+      "30+ weapons across all classes",
+      "16-player real-time multiplayer",
+      "Optimized for low-end devices"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.offensive.strike",
+    "featured": false
+  },
+  {
+    "id": "horizon-driving-simulator",
+    "title": "Horizon Driving Simulator",
+    "developer": "JM Game Studios",
+    "genre": "Racing/Driving Sim",
+    "rating": 4.2,
+    "size": "500 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/8oMQQhdDuyZBB1iIL8Y62ly2Moop0C2nrB8N_4VeF7xEsYbMNbnHv_2DFLgqvzqMO9E=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/xxRHIaq0EPD0AL9y8pTVaDqIabatRRlVMB8Og-P6zIJIseadS942oyuKDOM_Blx4wI8=w1052-h592-rw",
+    "description": "An open-world driving simulator featuring stunning landscapes, deep car tuning, visual customization, and high-speed races across diverse circuits and terrains.",
+    "features": [
+      "Open-world dynamic environments",
+      "Deep performance and visual tuning",
+      "Diverse race circuits and terrains",
+      "Gravity-defying stunts and drifts"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.jmgamestudios.horizon.driving.simulator",
+    "featured": false
+  },
+  {
+    "id": "payback-2",
+    "title": "Payback 2",
+    "developer": "Apex Designs Games",
+    "genre": "Action/Open-World Sandbox",
+    "rating": 4.2,
+    "size": "60 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/Vs9TKwfqe_kZ7oKyB0VfjHgVilGI241YEnxwfn-02VD3n56V0KDaWZOKamr14nUTZaW8=w1052-h592-rw",
+    "description": "A chaotic battle sandbox packing tank battles, helicopter races, gang brawls, and rocket cars across 50 wild campaign events with deep multiplayer.",
+    "features": [
+      "50-event chaotic campaign",
+      "Online multiplayer with leaderboards",
+      "Custom mode with seven cities",
+      "Hourly, daily, and weekly challenges"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2",
+    "featured": false
+  },
+  {
+    "id": "easy-delivery-co",
+    "title": "Easy Delivery Co.",
+    "developer": "Doghowl Games",
+    "genre": "Adventure/Driving",
+    "rating": 4.5,
+    "size": "400 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/f-bhGYDTDTXmEfjLZg-TbPZhYQzFJMxNA_FUgDmmohQv8W6PsqeyxpkPZIRYbw_ZWVMO=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/dx0JpCGyHdoTP9YNMbf159Z2qN8lN33bDn5KOLRLnp6DGqR4AZ_p9yZ6AgFjg0XmU3ZsQF1llcyqyZ2W_xY4=w1052-h592-rw",
+    "description": "A cozy driving adventure where you deliver packages through a strange mountain town in a kei truck, uncovering quirky secrets along scenic atmospheric roads.",
+    "features": [
+      "Relaxing kei truck delivery",
+      "Atmospheric mountain town",
+      "Truck upgrades and route unlocks",
+      "Cozy retro visuals and pacing"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.doghowlgames.EasyDeliveryCo",
+    "featured": false
+  },
+  {
+    "id": "zworld",
+    "title": "ZWorld",
+    "developer": "Mrinmoy Debbarma",
+    "genre": "Action/Zombie Survival",
+    "rating": 3.9,
+    "size": "350 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/XcE-Ix189TG3_cyDngN1s-XuKYmy_KAfEVZs50HSpyh10ECC-dd6jFA6h5cG-5sboLEC60SQ_2yIL0mbeL-o=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/pe8-G2WLo8FY8sGedv9h78LMVeGOCT6veECvRCp_gs_R0LPlEDMEdpvATd_kZaxxcC7bd9bYlTvIxqrJVwdc=w1052-h592-rw",
+    "description": "A free third-person open-world zombie survival game where you loot, craft, drive, and fight hordes across snowy forests, abandoned cities, and radiated zones.",
+    "features": [
+      "Vast open-world biome variety",
+      "Crafting weapons, ammo, and gear",
+      "Drivable vehicles and survivor NPCs",
+      "Fully offline survival gameplay"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.angrywolfgames.zworldsimulator",
+    "featured": false
+  },
+  {
+    "id": "melon-sandbox",
+    "title": "Melon Sandbox",
+    "developer": "playducky.com",
+    "genre": "Simulation/Sandbox",
+    "rating": 4.4,
+    "size": "250 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/9KgS1cF6vWMF9Fl25S36bKr8zDh0ddkTOeN7WpBcQAE-pKfahG2DjUxbQ8sespNoe3KW3qbcaVD8H6DfNys6=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/BpqzdYsGTzG9FfNSxDL4tbm5MUrX4XJN8nyvOxnzbMf6BvkYThtq7Yd1D8Hqjesg_w=w1052-h592-rw",
+    "description": "A creative ragdoll physics sandbox letting you experiment, smash, and destroy across open maps with a huge arsenal of weapons, vehicles, and explosives.",
+    "features": [
+      "Realistic ragdoll physics destruction",
+      "Vast weapon, vehicle, explosive arsenal",
+      "Open sandbox maps to explore",
+      "Customizable devices and tools"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.studio27.MelonPlayground",
+    "featured": false
+  },
+  {
+    "id": "american-marksman",
+    "title": "American Marksman",
+    "developer": "Battle Creek Games",
+    "genre": "Shooter/Hunting Sim",
+    "rating": 4.2,
+    "size": "800 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/nvQKlIY4g77GdjZQP2OEe4VL2JqO66Y1ZxQyRS93VYdYglu2xQgctYI830lQds80UVk=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/SB-olHBHQmF6OVlnOwiNTSRRtVxCJVIlGerasNi2PhyDKSp8a-htUvCjDrf-DKaw-SA=w1052-h592-rw",
+    "description": "An immersive open-terrain hunting simulator with customizable land, multiplayer co-op camps, and detailed wilderness environments across multiple U.S. regions.",
+    "features": [
+      "Customizable open-terrain maps",
+      "Multiplayer co-op and roleplay",
+      "Purchasable land across U.S. regions",
+      "Realistic graphics and gameplay"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.battlecreek.americanmarksman",
+    "featured": false
+  },
+  {
+    "id": "ojol-life",
+    "title": "Ojol Life",
+    "developer": "Maleo",
+    "genre": "Simulation/Open-World",
+    "rating": 3.4,
+    "size": "350 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/VgV4_pif6IP6kYdH3O3ydK_1mL9atpp5S7kV_TUv1Uc1Lecps2vyJu43w_n5oegd2P_GNltUMLho0ZgMW8j31OQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/5T9L76o8CBH1touggVAWaAOqg2Lkd0ESaqDVt-80pvXTQkmp_YEy2Rz5TD1oMYPar0w=w1052-h592-rw",
+    "description": "A life-simulator where you start as a struggling ojol driver in an Indonesian city, completing deliveries and quests to upgrade your bike and home.",
+    "features": [
+      "Open-world Indonesian city",
+      "Story quests and daily work",
+      "Passenger, food, and package orders",
+      "Motorbike and home customization"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.maleo.ojollife",
+    "featured": false
+  },
+  {
+    "id": "steel-and-flesh",
+    "title": "Steel and Flesh",
+    "developer": "Virtual Studio Team",
+    "genre": "Action/Strategy",
+    "rating": 4.4,
+    "size": "250 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/BVhn4GTqLLKlBFB29Mkk87bglPPAFE0Dk_uEkG6RxWfLJruRwLE_Z1Zc0dPEWe1cog4=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/ay0bNUv7vkud9pPusQIuejEL4QrlSwr1o57Qy_Dnur9AMHWlE2L9s3aNLbpkskurvKQw=w1052-h592-rw",
+    "description": "A medieval 3D action-strategy game where you battle 12 rival clans across continents, leading sieges, raiding settlements, or building your own dynasty.",
+    "features": [
+      "Large-scale medieval siege battles",
+      "Multiple paths: bandit, vassal, lord",
+      "Trade and economy systems",
+      "Deep equipment and horse customization"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.VS.SteelAndFlesh",
+    "featured": false
+  },
+  {
+    "id": "carslp",
+    "title": "CarsLp",
+    "developer": "Ionut Maris",
+    "genre": "Racing/Simulation",
+    "rating": 4.3,
+    "size": "200 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/8ZxtsBINPf6h3MClSIrIqlatDMWI-mMVEGL-P7upgHzZ8D1tRaI879pjdGrrDEJpiXg=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/OXUb8WdL3kKSfzuyJ94Eaj9hCPS05NMSDR1j0McwK3OU2lli0cr6xJCWcWR7ExBsoK1sVKixxjW5EeXGEOy-gA=w1052-h592-rw",
+    "description": "A stylized low-poly open-world driving sim with 100+ vehicles, multiple cities, on-foot exploration, and racing modes including drift, drag, and time trials.",
+    "features": [
+      "100+ detailed vehicles",
+      "Drift, drag, and time-trial modes",
+      "On-foot exploration and property buying",
+      "Realistic physics and customization"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.MarisSoftware.CarsLP",
+    "featured": false
+  },
+  {
+    "id": "discovery-2",
+    "title": "Discovery 2",
+    "developer": "noowanda",
+    "genre": "Adventure/Sandbox",
+    "rating": 4.3,
+    "size": "150 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/_wJylQ3y-5rhQgcVFv16EjwERreO4NoWXQR4sxXf13UZLGGA4FzHkxX4YmPnYX5xCqSx=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/KCi66KGjJAZ_sWF_QsFfM89tSs4OT8lkL2ogG8RqmWZWJpcnhuPLgSwtyA4Delc3Cqn_CVv9GDU5b12B0rHK=w1052-h592-rw",
+    "description": "A creative voxel sandbox where you build houses, villages, and cities using 220+ blocks, design electrical circuits, and explore caves with 120 FPS rendering.",
+    "features": [
+      "220+ unique blocks and materials",
+      "Electrical circuits with switches",
+      "16-color block painting",
+      "120 FPS HDR rendering"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.noowanda.discovery2",
+    "featured": false
+  },
+  {
+    "id": "polyfield",
+    "title": "Polyfield",
+    "developer": "Mohammad Alizadeh",
+    "genre": "Action/Shooter",
+    "rating": 4.6,
+    "size": "180 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/ciblv6tOSwvD76a0sWmTrLz4oWHbM3qSis0LtoRFNdl91xKV3yGttmfOYUzD7HfOuylw=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/ejqUBdJeOe234J5kbzqSnQaU4wB5MWq6hjzAbo5VnNG-JEQKK6TFYEoK6-MwxvOcuEE=w1052-h592-rw",
+    "description": "A WW2-themed stylized first-person shooter playable offline against bots, with custom map creation and a thriving community-built map library.",
+    "features": [
+      "Offline play vs. AI bots",
+      "Custom map and scenario builder",
+      "Community map downloads",
+      "Stylized WW2 combat"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.MA.Polyfield",
+    "featured": false
+  },
+  {
+    "id": "terraria",
+    "title": "Terraria",
+    "developer": "505 Games",
+    "genre": "Action-Adventure/Sandbox",
+    "rating": 4.9,
+    "size": "200 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/BoAvMI_6JGNRBp_3gFaVuLuqW_4J-rjtbR_giKFoJRvZmDiPtDlnLMur9cT7sTTfeos=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/YfiglfYh-8JT1bO9tvck6pUE7JGXx4seo5HOqJnaGFlo5ysGEgs43NJSTQUwHeBTpDhudLRkxsPvbA8WuOHw=w1052-h592-rw",
+    "description": "The legendary 2D sandbox adventure with 5,000+ items, 400+ enemies, and 20+ biomes where you fight, explore, and dig your way through endless worlds.",
+    "features": [
+      "5,000+ craftable items",
+      "400+ enemies across 20+ biomes",
+      "7-player local and online multiplayer",
+      "Full gamepad and remappable controls"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid",
+    "featured": false
+  },
+  {
+    "id": "rush-rally-3",
+    "title": "Rush Rally 3",
+    "developer": "Brownmonster",
+    "genre": "Racing/Simulation",
+    "rating": 4.5,
+    "size": "250 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/1bOANnWi4k4GMnXqxsW5lN8Xg3k4eJhndrgRXWG5mJwFIdF6Bd5RMruEi44JaGdDgQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/vhhplve_1B7mdf6j7q3CsBuEBVAWk8XSVb-VnliskEy22y-PF-uXfkMLphbO4AmQ6ys=w1052-h592-rw",
+    "description": "A console-quality 60fps rally simulation with 72+ stages, dynamic weather, real-time multiplayer, career mode, and a deep livery editor for vehicle customization.",
+    "features": [
+      "72+ unique rally stages",
+      "60fps with dynamic weather",
+      "Real-time multiplayer and ghosts",
+      "Livery editor and garage customization"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=brownmonster.app.game.rushrally3demo",
+    "featured": false
+  },
+  {
+    "id": "dead-trigger",
+    "title": "Dead Trigger",
+    "developer": "Deca Games",
+    "genre": "Action/Shooter",
+    "rating": 4.2,
+    "size": "600 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/dXNRVSz6qFGfv5Z4a_uu_4H4vFgVLRjipF7uCnzQgnSj_gR7y_WdwfIrCF13sng_gwpZ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/oIfjVVxUpMbf0lPZ6QgcX1N0giPaMACZSU7e3hwm4_yRJol4J5qUa8ojGrpOT43c0SU=w1052-h592-rw",
+    "description": "A console-quality first-person zombie shooter where you smash hordes, rescue survivors, and defend your Safe Haven with realistic guns, melee weapons, and gadgets.",
+    "features": [
+      "Realistic guns and melee weapons",
+      "13 character upgrades",
+      "Cloud save backup",
+      "Offline zombie campaign"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger",
+    "featured": false
+  },
+  {
+    "id": "driving-zone-germany",
+    "title": "Driving Zone Germany",
+    "developer": "AveCreation",
+    "genre": "Racing/Simulation",
+    "rating": 4.2,
+    "size": "300 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/QPbfaOBbZZ6RcDzPJ2TBFBPEtUho43HbSZD2rTMry6MOVAkjRJIowBkOfaNdUUEAaqY=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/MIALD8UanpQ1o4Y0PnWDpmnVPk0UQLDlIb99KGM2H4GJwhA5Zqrpj3K3kL5dwZVYceI=w1052-h592-rw",
+    "description": "A street-racing simulator featuring legendary German vehicles, realistic physics, six tracks, dynamic weather, and modes spanning career, drift, and drag racing.",
+    "features": [
+      "Authentic German sports cars",
+      "Career, drift, drag modes",
+      "Dynamic day-night and weather",
+      "Vehicle tuning and customization"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.avecreation.drivingzonegermany",
+    "featured": false
+  },
+  {
+    "id": "dune-barrens",
+    "title": "Dune Barrens",
+    "developer": "Protopop Games",
+    "genre": "Simulation/Exploration",
+    "rating": 4.0,
+    "size": "150 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/W_15Yicpm5LHL_x5TgAU8DK9IrRzKN4v7-twAFXyaiJpfJ1uTEPnCeFTzsbwfzrsuHwyA-l1e0tqdv6i1zjUPQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/zqTjNfGZxj9UOLkAwtRfUzKuBiPW2WA5XQMzvWA9PV8-TbnugoT7s7IxQHqaDyOtwwWxKluLgIGWateuKsfZ8w=w1052-h592-rw",
+    "description": "A peaceful open-world desert exploration game with no combat, missions, or timers, offering meditative gameplay across endless dunes with day-night cycles.",
+    "features": [
+      "No enemies, quests, or pressure",
+      "Day-night cycle with atmospheric visuals",
+      "Advanced photo mode",
+      "Fully offline, no ads or tracking"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.protopop.dunebarrens",
+    "featured": false
   }
 ]
