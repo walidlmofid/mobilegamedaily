@@ -14,19 +14,34 @@
   <!-- In-app browser detection: show overlay instead of redirecting -->
   <script>
     var isInAppBrowser = false;
+    var inAppSource = null;
     (function() {
       var ua = navigator.userAgent.toLowerCase();
-      var inAppKeywords = ['tiktok', 'musical_ly', 'bytedancewebview', 'bytelocale', 'bytedance', 'instagram', 'fbav', 'fban', 'line/', 'snapchat', 'twitter', 'micromessenger'];
+      var inAppKeywords = [
+        { kw: 'tiktok',           src: 'tiktok'   },
+        { kw: 'musical_ly',       src: 'tiktok'   },
+        { kw: 'bytedancewebview', src: 'tiktok'   },
+        { kw: 'bytelocale',       src: 'tiktok'   },
+        { kw: 'bytedance',        src: 'tiktok'   },
+        { kw: 'instagram',        src: 'instagram'},
+        { kw: 'fbav',             src: 'facebook' },
+        { kw: 'fban',             src: 'facebook' },
+        { kw: 'line/',            src: 'line'     },
+        { kw: 'snapchat',         src: 'snapchat' },
+        { kw: 'twitter',          src: 'twitter'  },
+        { kw: 'micromessenger',   src: 'wechat'   }
+      ];
       for (var i = 0; i < inAppKeywords.length; i++) {
-        if (ua.indexOf(inAppKeywords[i]) !== -1) {
+        if (ua.indexOf(inAppKeywords[i].kw) !== -1) {
           isInAppBrowser = true;
+          inAppSource = inAppKeywords[i].src;
           break;
         }
       }
       // Fallback: detect generic in-app webviews (Android WebView without Chrome standalone, or iOS without Safari standalone)
       if (!isInAppBrowser) {
         var isAndroidWebview = ua.indexOf('android') !== -1 && ua.indexOf('wv)') !== -1;
-        if (isAndroidWebview) isInAppBrowser = true;
+        if (isAndroidWebview) { isInAppBrowser = true; inAppSource = 'android_webview'; }
       }
     })();
   </script>
@@ -687,6 +702,10 @@
       try {
         const res = await fetch('/games.json');
         games = await res.json();
+        for (let i = games.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [games[i], games[j]] = [games[j], games[i]];
+        }
       } catch(e) {
         console.error('Failed to load games.json', e);
       }
@@ -709,7 +728,15 @@
       container.querySelectorAll('.filter-tag').forEach(el => {
         el.addEventListener('click', () => {
           const t = el.dataset.tag;
-          if (activeTags.has(t)) activeTags.delete(t); else activeTags.add(t);
+          const adding = !activeTags.has(t);
+          if (adding) activeTags.add(t); else activeTags.delete(t);
+          if (typeof gtag === 'function') {
+            gtag('event', 'filter_apply', {
+              filter_tag: t,
+              filter_action: adding ? 'add' : 'remove',
+              active_filters: Array.from(activeTags).sort().join(',') || '(none)'
+            });
+          }
           renderTagFilter();
           renderGrid();
         });
@@ -796,6 +823,15 @@
       const g = games.find(x => x.id === id);
       if (!g) return;
 
+      if (typeof gtag === 'function') {
+        gtag('event', 'view_item', {
+          item_id: g.id,
+          item_name: g.title,
+          item_category: g.genre,
+          item_brand: g.developer
+        });
+      }
+
       document.getElementById('mCover').src = g.coverImage;
       document.getElementById('mIcon').src = g.icon;
       document.getElementById('mTitle').textContent = g.title;
@@ -839,6 +875,22 @@
       }
       document.getElementById('mButtons').innerHTML = btns;
 
+      // Fire conversion event on store link clicks — this is the CPA moment
+      document.querySelectorAll('#mButtons .store-link').forEach(link => {
+        link.addEventListener('click', () => {
+          if (typeof gtag !== 'function') return;
+          const store = link.classList.contains('gplay') ? 'google_play' : 'app_store';
+          gtag('event', 'click_store_link', {
+            item_id: g.id,
+            item_name: g.title,
+            item_category: g.genre,
+            item_brand: g.developer,
+            store: store,
+            destination_url: link.href
+          });
+        });
+      });
+
       document.getElementById('modalBg').classList.add('open');
       document.body.style.overflow = 'hidden';
     }
@@ -856,9 +908,17 @@
 
     // SEARCH
     let debounce;
+    let lastTrackedSearch = '';
     document.getElementById('searchInput').addEventListener('input', () => {
       clearTimeout(debounce);
-      debounce = setTimeout(renderGrid, 200);
+      debounce = setTimeout(() => {
+        const term = document.getElementById('searchInput').value.trim();
+        if (term && term !== lastTrackedSearch && typeof gtag === 'function') {
+          gtag('event', 'search', { search_term: term });
+          lastTrackedSearch = term;
+        }
+        renderGrid();
+      }, 500);
     });
 
     init();
@@ -867,6 +927,11 @@
     if (typeof isInAppBrowser !== 'undefined' && isInAppBrowser) {
       document.getElementById('inAppOverlay').style.display = 'flex';
       document.body.style.overflow = 'hidden';
+      if (typeof gtag === 'function') {
+        gtag('event', 'in_app_overlay_shown', {
+          in_app_source: (typeof inAppSource === 'string' && inAppSource) ? inAppSource : 'unknown'
+        });
+      }
     }
   </script>
 </body>

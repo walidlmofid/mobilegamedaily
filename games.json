@@ -3640,5 +3640,1744 @@
     ],
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.protopop.dunebarrens",
     "featured": false
+  },
+  {
+    "id": "hitman-blood-money-reprisal",
+    "title": "Hitman: Blood Money - Reprisal",
+    "developer": "Feral Interactive",
+    "genre": "Action/Stealth",
+    "rating": 4.1,
+    "size": "3.9 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/OzMl1qrhj-N_WTvBnPzSpRcco2TyQVYdRpruj7-2QNautqvV9HbsKTvnUFXBWAz6tgw=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/jUOrplmaA9q90p2c8jcFEoc8vnYUSlfeIMhR9dYAESSL_wTqHFj6lI0Uhos8K6Tc6w=w1052-h592-rw",
+    "description": "Reimagined mobile port of the iconic stealth assassination classic, featuring Agent 47 hunting down a shadowy conspiracy with creative kills.",
+    "features": [
+      "Fully customizable touchscreen controls and gamepad support",
+      "Instinct Mode highlights targets and guards",
+      "Complete original campaign with all missions",
+      "First mission free, single IAP unlocks full game"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.feralinteractive.hitmanbloodmoney_android",
+    "appStoreUrl": "https://apps.apple.com/us/app/hitman-blood-money-reprisal/id1631331207",
+    "featured": false
+  },
+  {
+    "id": "obsession-erythros",
+    "title": "Obsession: Erythros",
+    "developer": "keyneed studio",
+    "genre": "Survival/Sandbox",
+    "rating": 4.0,
+    "size": "800 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/pNjEKfNVUJGg5zmdyLZKpQhGnVO73apx31BVtX3K63wRgnVp3s-ELuy9lPTzdX-DcanF=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/Z4RJMDw7cMsm7CgOf64aysAhnh44XiQVsefkOLThf9rVxrKjUNAcsRNIHGgo_M4sJQ=w1052-h592-rw",
+    "description": "Post-apocalyptic open-world survival game inspired by DayZ and Stalker, where players battle zombies and hostile factions while gathering resources.",
+    "features": [
+      "Open-world post-apocalyptic exploration",
+      "Crafting weapons, building shelters, resource gathering",
+      "Single-player and multiplayer modes",
+      "Hostile zombies and rival factions"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.keyneed.obsession",
+    "appStoreUrl": "https://apps.apple.com/us/app/erythros-lite/id6740181005",
+    "featured": false
+  },
+  {
+    "id": "academy-first-riddle",
+    "title": "The Academy: The First Riddle",
+    "developer": "Pine Studio",
+    "genre": "Puzzle/Adventure",
+    "rating": 3.3,
+    "size": "600 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/zG1i5lZu-zgELRa9eP9vOs9p5Azg6jPeOXYC9yaiuvcyZGKATxlCihZq50jkAMqgiQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/tItHqRhDjZx4X8kXKSsbCno6sG3kTjYof4eJIO61FIPHEZv-Rs0ygGzrpCx0kD2tXsE=w1052-h592-rw",
+    "description": "Puzzle-adventure inspired by Professor Layton and Harry Potter where freshman Sam uncovers a mystery in a magical school filled with riddles.",
+    "features": [
+      "Over 200 unique puzzles and riddles",
+      "Magical school setting with rich narrative",
+      "First chapter free to try",
+      "Hand-painted environments and atmospheric story"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.snapbreak.theacademy",
+    "appStoreUrl": "https://apps.apple.com/us/app/the-academy-the-first-riddle/id1470125745",
+    "featured": false
+  },
+  {
+    "id": "brothers-tale-of-two-sons",
+    "title": "Brothers: A Tale of Two Sons",
+    "developer": "505 Games",
+    "genre": "Adventure/Puzzle",
+    "rating": 4.1,
+    "size": "1.9 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/uFXsMwsMzTYNBwamX3Iy4x133u95LL0y6-rHESq2CEG6KMhLhr9dbVFDrNjyX7lZaQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/xUUI9vGlTteRzJjXMcDO3nx8wSGX3djBrO-XyhWsF7UWuhbHH8fCqRdHc-MmwkZiuSQ=w1052-h592-rw",
+    "description": "Award-winning emotional fairy-tale adventure where two brothers journey to save their dying father by retrieving the legendary Water of Life.",
+    "features": [
+      "Dual-stick co-op control of both brothers solo",
+      "Award-winning narrative (BAFTA, Game of the Year)",
+      "Beautiful fairy-tale aesthetic and world design",
+      "Approximately 3-4 hours of emotional gameplay"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.and.games505.brothers",
+    "appStoreUrl": "https://apps.apple.com/us/app/brothers-a-tale-of-two-sons/id1029588869",
+    "featured": false
+  },
+  {
+    "id": "bullet-force",
+    "title": "Bullet Force",
+    "developer": "Blayze Games",
+    "genre": "Action/Shooter",
+    "rating": 4.0,
+    "size": "700 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/TGutKZy5JkPsQzFhFoqLBQMrpKkpHNaLk_kosXUQ9S_PCNpE4BXRbVgZwDOR67KcnM9P=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/oC8iTgwFXT0-7GMjxFnXzzLtyK2nifZ0DiPjpPEJM1ukoUQV4eHfR45kDMm55jiwp3w=w1052-h592-rw",
+    "description": "Fast-action 3D first-person shooter offering massive 20-player online multiplayer battles plus offline skirmish modes against AI bots.",
+    "features": [
+      "20-player online multiplayer combat",
+      "Offline bot skirmish and campaign modes",
+      "20+ weapons with extensive customization",
+      "4 game modes: Team Deathmatch, Conquest, FFA, Gun Game"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.blayzegames.iosfps",
+    "appStoreUrl": "https://apps.apple.com/us/app/bullet-force/id1009134067",
+    "featured": false
+  },
+  {
+    "id": "mhst-adventure-begins",
+    "title": "MHST: The Adventure Begins",
+    "developer": "CAPCOM",
+    "genre": "RPG/Turn-Based",
+    "rating": 4.3,
+    "size": "3.3 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/2MJXc6d7iC7A6r0hZxDxXG2bYAUAo2hzz8MhGRLegYYpPbstRykBb-r7uRJzKHCLSA=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/dbvJdYc3glz6KvLcs0qEaGS_QYcgcRYHL3ILeuJ4AWAYH_l1cVV86YkX9LxI5_cSolM=w1052-h592-rw",
+    "description": "Free demo of Capcom's turn-based RPG where Monster Riders bond with creatures called Monsties to explore vast environments and battle the Black Blight.",
+    "features": [
+      "Recruit and bond with countless Monsties",
+      "Hatch eggs found in monster dens",
+      "High-resolution graphics with auto-save",
+      "Save data transfers to paid full version"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=jp.co.capcom.mhssfen",
+    "appStoreUrl": "https://apps.apple.com/us/app/mhst-the-adventure-begins/id1339054474",
+    "featured": false
+  },
+  {
+    "id": "wintercraft-survival-forest",
+    "title": "WinterCraft: Survival Forest",
+    "developer": "Go Dreams",
+    "genre": "Simulation/Survival",
+    "rating": 3.9,
+    "size": "250 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/jpxilBlg6CNY0unUOE65qDtcs9Wnf1Wr4UofdgKIPawS9iJQysbCF07v9M88pjDgWg=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/nVe4aQ6Ttj7hD1i5_xlxBcEFM4bsVkdzPNv8p7gm49BZze12Mv-06ohOF1pNcuHXiDw=w1052-h592-rw",
+    "description": "Offline winter survival simulator set in an open forest world where players gather resources, hunt animals, and search for a missing father.",
+    "features": [
+      "Open world winter forest exploration",
+      "Build houses with bed, workbench, furnace",
+      "Hunt with bow, pistol, shotgun, rifle",
+      "Day/night cycle and changing weather"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.WinterCraft.ForestSurvival",
+    "appStoreUrl": "https://apps.apple.com/us/app/wintercraft-forest-survival/id1671418039",
+    "featured": false
+  },
+  {
+    "id": "monoposto",
+    "title": "Monoposto",
+    "developer": "GABAMA SRL",
+    "genre": "Racing/Simulation",
+    "rating": 4.2,
+    "size": "654 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/OXDfcG00jAGMeNSFn-lWvXhMSEVTBvEH_GCwMyvc6ePlZJ6D2Lv0BEcnt8Gyk9_uym38TMkws1OrTe2UeNAc5GU=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/BMY94ufSsVfGw89ZNzyS6ApLB-0h5Tn5NQwEaWmpfGcNIQ5SczAXZNnhNQkJgOaQWNY=w1052-h592-rw",
+    "description": "Independent open-wheel formula racing simulator featuring the 2026 season with 34 tracks, championship modes, and deep car customization options.",
+    "features": [
+      "34 tracks with full 2026 season",
+      "Quick race, single race, championship modes",
+      "Up to 24-car races with pit stops and qualifying",
+      "Custom liveries, helmets, and team logos"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gabama.monopostolite",
+    "appStoreUrl": "https://apps.apple.com/us/app/monoposto/id1262474519",
+    "featured": false
+  },
+  {
+    "id": "building-destruction",
+    "title": "Building Destruction",
+    "developer": "180 Degree",
+    "genre": "Simulation/Sandbox",
+    "rating": 4.2,
+    "size": "264 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/yI53j3LTpd4TO80jVL4RO3UpZ5dmBnAWThTKisMzFcDfATcKk1LLVbbVUUkCOB0iIg=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/1ejcrXg-d_EcmdfY-lVij4A_VaFScoZ6x1pcE872QMTliRQdvX0Q2BwrtlYsJhCXpX0C=w1052-h592-rw",
+    "description": "Voxel-based sandbox where players demolish destructible environments, build their own maps, and play offline or online with friends.",
+    "features": [
+      "Demolition mode for free-form destruction",
+      "Build mode to create custom maps",
+      "Siege mode with combat objectives",
+      "Offline single-player and online multiplayer"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.hunderdeightydegree.VoxelDestructionPrototype",
+    "appStoreUrl": "https://apps.apple.com/us/app/building-destruction/id1614295104",
+    "featured": false
+  },
+  {
+    "id": "life-is-strange",
+    "title": "Life is Strange",
+    "developer": "SQUARE ENIX",
+    "genre": "Adventure/Narrative",
+    "rating": 4.1,
+    "size": "4.2 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/V7N6oSYnBMAl5mE_4-h7Ve9ou3wLmQ8-X7wVthYhhF7OdjtnWhgcXoUREd3Lepn7DQw=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/thYk_XE_DADiKDTxzPg2Gi2xTjzjngM2z-qVRtlCDRKZG17Kwf_p9Y8h6z7pfqkw624=w1052-h592-rw",
+    "description": "Award-winning episodic adventure following Max Caulfield, a photography student who discovers she can rewind time to alter events.",
+    "features": [
+      "Five-episode story with branching choices",
+      "Time-rewind gameplay mechanic",
+      "Full controller support",
+      "Episode 1 free; season pass $8.99"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.squareenix.lis",
+    "appStoreUrl": "https://apps.apple.com/us/app/life-is-strange/id1180058859",
+    "featured": false
+  },
+  {
+    "id": "carx-highway-racing",
+    "title": "CarX Highway Racing",
+    "developer": "CarX Technologies",
+    "genre": "Racing/Simulation",
+    "rating": 4.7,
+    "size": "1.2 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/VVJhk3wIL28JBmKHultwBUlINxx-_hCCHQw13-4EH7o1AelwqaEcTj4yFGEcWSonTl82=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/VXaifIX2FOyLKh4CuFhqXa0yd8JpXuLJaV_UlxNrUxnhw6c9vBQyvO5LZfhVnTL4h9Q=w1052-h592-rw",
+    "description": "Realistic highway racing across the world's roads with traffic, police chases, and 40 tunable cars from CarX's physics engine.",
+    "features": [
+      "40 detailed cars with realistic physics",
+      "Globe-spanning campaign mode (Texas, Australia, France, Russia)",
+      "Police chase mode",
+      "Offline single-player campaign"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.CarXTech.highWay",
+    "appStoreUrl": "https://apps.apple.com/us/app/carx-highway-racing/id1236730191",
+    "featured": false
+  },
+  {
+    "id": "spider-fighter-3",
+    "title": "Spider Fighter 3",
+    "developer": "HGames-ArtWorks",
+    "genre": "Action/Open-World",
+    "rating": 4.4,
+    "size": "850 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/HGJGoIR7ZpHDMhRuaYJz_M5k8L0DCwXPcSBDGt217ye4o40LSaXTPHI-XIyiPbRw7g=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/8hBYPJdasdpggUJw3lqUjRkv5YfkHYLiN83nFR6lFBLchZoNK-W7jLBUeklUPP9ZDWIC=w1052-h592-rw",
+    "description": "Open-world spider hero action where you swing through a city sandbox, fight gangs, and unlock multiple suits with comic-book visuals.",
+    "features": [
+      "Open-world sandbox exploration",
+      "Multiple unlockable suits and abilities",
+      "Story missions and side challenges",
+      "Comic-inspired art style"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter.openworld",
+    "appStoreUrl": "https://apps.apple.com/us/app/spider-fighter-superhero-game/id6449837892",
+    "featured": false
+  },
+  {
+    "id": "oddmar",
+    "title": "Oddmar",
+    "developer": "Mobge Ltd",
+    "genre": "Platformer/Adventure",
+    "rating": 4.5,
+    "size": "280 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/NRQ3EOLAfYYtBdShS74jVGGyf9XNy9h__Nj4CLdmSyz0KhfmOvn1uriYw34nEF--1rOr=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/VUK0WEO7ayXT6IWhEk0UYCX1skxC9RNdjWSOZ_cGJSDFXPeDlSozbHcAEdkGVfMhyQ=w1052-h592-rw",
+    "description": "Apple Design Award-winning Norse mythology platformer following a Viking outcast through 24 hand-crafted physics-based levels.",
+    "features": [
+      "24 beautifully hand-crafted levels",
+      "Physics-based platforming puzzles",
+      "MFi/Bluetooth controller support",
+      "Free first chapter, $4.99 full unlock"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mobge.Oddmar",
+    "appStoreUrl": "https://apps.apple.com/us/app/oddmar/id1247397901",
+    "featured": false
+  },
+  {
+    "id": "heavy-machines-construction",
+    "title": "Heavy Machines & Construction",
+    "developer": "Webperon Games",
+    "genre": "Simulation/Construction",
+    "rating": 4.4,
+    "size": "700 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/0-DehxuhZ5l80wHFUr7Jp-xsmsYgQbU6S9Iamc2QynTZWIRR0Ce8JqxUoWNzGw-CRw=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/HO6bLJSsUug1x1omCp5M2pWvJ-B3Laq_gq4P5ANyts_s7H3rj-EVFsV0jGy2PoKC7z5T=w1052-h592-rw",
+    "description": "Open-world construction sim with realistic physics, 30+ heavy vehicles, and 100+ logistics, mining, and building tasks across a 10km map.",
+    "features": [
+      "10km open world",
+      "30+ vehicles and heavy machines",
+      "Realistic mud, rope, and excavation physics",
+      "100+ construction and mining tasks"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.Webperon.HeavyMachinesConstructionSimulator",
+    "featured": false
+  },
+  {
+    "id": "pascals-wager",
+    "title": "Pascal's Wager",
+    "developer": "Tipsworks Studio",
+    "genre": "Action RPG/Soulslike",
+    "rating": 4.7,
+    "size": "4.2 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline",
+      "High Graphics"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/TVMooTFSk74m_Avc_qCPXZ_8B4i1W5uc-ybEcEi01n2tcRHwQHyWbO5U8qOqjW_UPYQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/kJm-VVybh4LKmOpjBgAXA73Bool8Rpagro_Wj0jpIO8KEPSsaeolN4aRBh9IJJxGgLIK=w1052-h592-rw",
+    "description": "A hardcore Soulsborne-like dark fantasy action RPG delivering console-quality combat across four playable characters in a mysterious, mist-shrouded world.",
+    "features": [
+      "Four playable characters with distinct combat styles",
+      "Console-quality dark fantasy graphics",
+      "Orchestral soundtrack with London Philharmonic",
+      "Controller support, premium with no microtransactions"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.tipsworks.android.pascalswager.google",
+    "appStoreUrl": "https://apps.apple.com/us/app/pascals-wager/id1476649036",
+    "featured": false
+  },
+  {
+    "id": "recurrence-coop",
+    "title": "Recurrence Co-op",
+    "developer": "Srioz",
+    "genre": "Tactical Shooter/Co-op",
+    "rating": 4.2,
+    "size": "1.8 GB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Online",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/K4HJoLOxxehOGCw9KUxLrbJj3GAzRBMdSiKIpo7cweOysnuOdPQM6Q5IAmVZo00oHA=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/MDw5wlZuTYSaT5jAVVz79yyQ622P6j1H9kLhX7-Cp_bH8Q7cxf5uLUve-iGnbSOw16s=w1052-h592-rw",
+    "description": "A realistic PvE tactical shooter that simulates close-quarters law enforcement operations with deep mechanics, weapon customization, and cooperative missions.",
+    "features": [
+      "Realistic close-quarters tactical gameplay",
+      "12 maps with varied mission scenarios",
+      "Solo practice and co-op multiplayer modes",
+      "First-responder mode without armor or rifles"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.Srioz.RecurrenceCOOP",
+    "featured": false
+  },
+  {
+    "id": "spongebob-cosmic-shake",
+    "title": "SpongeBob: The Cosmic Shake",
+    "developer": "HandyGames",
+    "genre": "Platformer/Action",
+    "rating": 4.3,
+    "size": "3.5 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/aNeWfqGijJ_DMzchuAaEbIDMLH-hFRAvDwO5d-GUZRExAQhLhgmnU63fZbejoj90DOs=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/IFXHYUzCUdwwLLOkhAF219o4kH9uCZVDPHNOWEwa11pTfk2qB5edlY6S8vJkUCJsGWk=w1052-h592-rw",
+    "description": "A premium 3D platformer where SpongeBob and Patrick travel seven Wishworlds to fix cosmic chaos caused by wish-granting Mermaid's Tears.",
+    "features": [
+      "7 distinct themed Wishworlds to explore",
+      "30+ unlockable costumes including SnailBob and SpongeGar",
+      "Original voice cast from the series",
+      "Classic platforming skills like Fishhook Swing and Karate Kick"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.hg.cosmicshake",
+    "appStoreUrl": "https://apps.apple.com/us/app/spongebob-the-cosmic-shake/id6445992619",
+    "featured": false
+  },
+  {
+    "id": "cpm-traffic-racer",
+    "title": "CPM Traffic Racer",
+    "developer": "olzhass",
+    "genre": "Racing/Simulation",
+    "rating": 3.6,
+    "size": "850 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/YeVrC7fNJybChhfMPbUxwU-8phwjo8WeVS9LfNlOj6NLwNauNyRy6O6JGeJdHbalAi4=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/xvj8tKGl42ez3ph880eFe54H-u-VWlfEsUTcGXDjXjDAyahKg89uEYbhdApNajafZSI=w1052-h592-rw",
+    "description": "A high-speed traffic racing game with stunning 3D graphics, highway and off-road tracks, single-player campaign, and online multiplayer modes.",
+    "features": [
+      "Realistic Tokyo Expressway and highway maps",
+      "Single-player boss battle campaign",
+      "Multiplayer racing with global leaderboards",
+      "Deep car upgrade and customization"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.olzhas.cpm.traffic.racer.game",
+    "appStoreUrl": "https://apps.apple.com/us/app/cpm-traffic-racer/id6550913403",
+    "featured": false
+  },
+  {
+    "id": "nextgen-truck-simulator",
+    "title": "Nextgen: Truck Simulator",
+    "developer": "olzhass",
+    "genre": "Simulation/Driving",
+    "rating": 3.9,
+    "size": "950 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/Sz_FopZAh2G9JFz7DZ9NqB6nqkRlw-VUCmJi2jlyG9BxNYVWxo_2MmTjQxNpbbmzwxkt=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/e2DTio6tNB7Q_02HwGp68hsdCo2ZiJTB8lqqqc3mQve67dtLHGUMnHZTDAOvYxt2bpE=w1052-h592-rw",
+    "description": "A full-fledged trucking simulator with 90+ vehicles, off-road terrain, cargo missions, and customization across mud, snow, and open-world environments.",
+    "features": [
+      "90+ trucks and vehicles to drive",
+      "Mud, snow, and off-road terrain physics",
+      "Cargo runs and taxi service missions",
+      "Deep vehicle customization and upgrades"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nextgen.truck",
+    "appStoreUrl": "https://apps.apple.com/us/app/nextgen-truck-simulator/id1612460128",
+    "featured": false
+  },
+  {
+    "id": "wolf-among-us",
+    "title": "The Wolf Among Us",
+    "developer": "Telltale",
+    "genre": "Adventure/Interactive Story",
+    "rating": 4.4,
+    "size": "651 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/NfewrWLRFYmCsBTR3cZs4PcO18chz8H4H1dhZ0OsnKYl4ld2rtOZHIZ-FUTRpTfQylU=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/8ZfJYMZqrRAnhPeMGzrJqp6f7hzgZbq4gHv6mwMUz2EkCcQiBBJpv5vTaY0g3RVlcw=w1052-h592-rw",
+    "description": "A five-part hard-boiled noir thriller from Telltale where you play Bigby Wolf investigating a brutal murder in a world of exiled fairytale characters.",
+    "features": [
+      "Choice-based narrative with branching consequences",
+      "Based on Eisner-winning Fables comic series",
+      "Episodic story (Episode 1 free, 2-5 unlock via IAP)",
+      "Mature noir thriller atmosphere"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.telltalegames.fables100",
+    "appStoreUrl": "https://apps.apple.com/us/app/the-wolf-among-us/id736865157",
+    "featured": false
+  },
+  {
+    "id": "sailors-odyssey",
+    "title": "Sailor's Odyssey",
+    "developer": "Lunarfly Studios",
+    "genre": "Adventure/Survival",
+    "rating": 4.0,
+    "size": "1.2 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/I2dUcf0x5YEDwUvUjrQ5polQNHWlLjvlfQEvMC8UGg1xc0nq82SGeJ0zQCY--VbJOA=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/mV2RqqhrvhB5B2JHujF788UL3cBEtXTo5rL2oEz3y_CtMLLsXqRt--MCw54Mm-xr4IVK=w1052-h592-rw",
+    "description": "A pirate survival adventure built in Unreal Engine 5 where you're marooned on an island and must craft, build, and battle to escape.",
+    "features": [
+      "Unreal Engine 5 graphics",
+      "Co-op multiplayer crew missions",
+      "Crafting weapons, fortresses, and pirate hideouts",
+      "Magic spells and combat skills"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.LunarflyStudios.SailorsOdyssey",
+    "appStoreUrl": "https://apps.apple.com/us/app/sailors-odyssey/id1660026048",
+    "featured": false
+  },
+  {
+    "id": "gangstar-vegas",
+    "title": "Gangstar Vegas",
+    "developer": "Gameloft",
+    "genre": "Open-World Action/RPG",
+    "rating": 4.3,
+    "size": "2.5 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/MaRzBOXemXxINPaSmDELwrn1BeGMlNqwwGTgpU931jagt5J13TU32pQyA5BCFwW55PkC=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/XGj3OC9-nF7u3IbqNEn_543sZ3KZu7VlZ0Z6a4bhnN2QO43qy3Iu1pD9BVoNFuELQQ=w1052-h592-rw",
+    "description": "An open-world Las Vegas crime sandbox where you rise as a gang leader through 80+ missions of shootouts, races, MMA fights, and casino games.",
+    "features": [
+      "Massive Vegas open world (9x previous Gangstar)",
+      "80+ story missions plus side challenges",
+      "Insane weapons and crazy vehicles",
+      "MMA fights, races, and casino mini-games"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftGGHM",
+    "appStoreUrl": "https://apps.apple.com/us/app/gangstar-vegas-mafia-action/id571393580",
+    "featured": false
+  },
+  {
+    "id": "combat-master-mobile",
+    "title": "Combat Master Mobile FPS",
+    "developer": "Alfa Bravo Inc.",
+    "genre": "Action/Shooter",
+    "rating": 4.6,
+    "size": "2.2 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/E8zf-LRFY2J7NV4EdifkgaQS5woA7VMolvwzZObx6pshA92CSrvXweRxSH37TxZOebrs=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/p6xmTKBqD5PfnXqxYBjCYugKgOmn-fmnPPuFANxGZ20dKk6UdfhGJyFyllkXFhmWTA=w1052-h592-rw",
+    "description": "Fast-paced competitive FPS with parkour movement, console-quality graphics, and a fair no-pay-to-win design featuring offline bot modes for solo practice.",
+    "features": [
+      "Offline bot mode for warmups and practice",
+      "Smooth parkour and slide mechanics",
+      "Fully customizable touch controls",
+      "No pay-to-win monetization"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.AlfaBravo.CombatMaster",
+    "appStoreUrl": "https://apps.apple.com/us/app/combat-master-mobile/id1598639131",
+    "featured": false
+  },
+  {
+    "id": "ark-ultimate-mobile",
+    "title": "ARK: Ultimate Mobile Edition",
+    "developer": "Studio Wildcard",
+    "genre": "Survival/Action Adventure",
+    "rating": 3.7,
+    "size": "3.8 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "High Graphics"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/lnDJEp7CpsYkpoAqfLvAxSEFtHMV4s2DjoxkXMboLJzz8-XuEWjm6OaHIYmWMUxeQw=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/a3Dd4-vGITyRhEk8_voP-TURAwSZ6eAYho6WCueeWbNvhi_plpBfqpyHHzZsXbbxbJ4=w1052-h592-rw",
+    "description": "Open-world dinosaur survival game where you tame creatures, build bases, and explore six maps including Scorched Earth, Aberration, Extinction, and Genesis.",
+    "features": [
+      "Solo offline single-player mode",
+      "6 massive expansion maps included",
+      "Tame and ride 100+ prehistoric creatures",
+      "Build, craft, and fortify bases"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.studiowildcard.arkuse",
+    "appStoreUrl": "https://apps.apple.com/us/app/ark-ultimate-mobile-edition/id6639622324",
+    "featured": false
+  },
+  {
+    "id": "forgotten-memories-remastered",
+    "title": "Forgotten Memories: Remastered",
+    "developer": "Psychose Interactive",
+    "genre": "Survival Horror/Adventure",
+    "rating": 4.3,
+    "size": "3.9 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/V7vE-9DQb2NdXEZPyJi4E5BDHSo5qr12kauVWXVJJnp4UCrE1ek9oJPtPjMedhAoDFo=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/ogtJu-M5dMuq1HAnrx4GAr6e0ft4625kp2pXr9Emd5Wt5ICl3FSLfmq-RkgMestAPg=w1052-h592-rw",
+    "description": "Premium third-person survival horror following Detective Rose Hawkins through a haunted asylum, blending classic 90s scares with modern HDR visuals.",
+    "features": [
+      "Premium one-time purchase, no microtransactions",
+      "HDR lighting and remastered audio",
+      "Checkpoint save system",
+      "Gamepad and touch control support"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.PsychoseInteractive.ForgottenMemories.Remaster",
+    "appStoreUrl": "https://apps.apple.com/us/app/forgotten-memories-remastered/id6736927274",
+    "featured": false
+  },
+  {
+    "id": "mudrunner-mobile",
+    "title": "MudRunner Mobile",
+    "developer": "Focus Entertainment",
+    "genre": "Off-Road/Simulation",
+    "rating": 4.6,
+    "size": "962 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/jBS0YiEAaa7nUohcVkw4YFvdnDGViBH3zB1Abc7bjppbLip4Ak4mzcw3dvWN8pDOZOuV=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/fmgDQba-XdvUWattqR_4F6nzUghfcmafiuIda87aHfYODoMdTG38_svr5krzToKXW28=w1052-h592-rw",
+    "description": "Premium off-road truck simulator with realistic mud physics, 16 all-terrain vehicles, and 15 sandbox/challenge maps across extreme Siberian landscapes.",
+    "features": [
+      "15 immersive open-world maps",
+      "16 unique all-terrain vehicles",
+      "Realistic mud and terrain physics",
+      "Fully offline single-player"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.focushome.MudRunnerAndroid",
+    "appStoreUrl": "https://apps.apple.com/us/app/mudrunner-mobile/id1465720386",
+    "featured": false
+  },
+  {
+    "id": "drift-for-life",
+    "title": "Drift for Life",
+    "developer": "Ambrator Games",
+    "genre": "Racing/Drifting",
+    "rating": 4.3,
+    "size": "1.6 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/xB-rVDr-Bxu6UMLQkMOUdqIfPJTTxw6N0eqMB178q6USLgYrhPcxTfzZfZjWh1A4zOg=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/3VLsYfFTq50NWCaYv3Z9stYNsSoN4paPeyezItZZCRU4tGgbPgwQRh6MrS-8SfFoDDyH=w1052-h592-rw",
+    "description": "Arabian-style drifting and street racing game with 100+ customizable real-world cars, open desert maps, and deep visual personalization options.",
+    "features": [
+      "100+ real-world car models",
+      "Deep visual and performance customization",
+      "Open Arabian desert environments",
+      "Single-player offline drifting plus online multiplayer"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ambratorgames.Hajwalahlife",
+    "appStoreUrl": "https://apps.apple.com/us/app/drift-for-life/id1595794003",
+    "featured": false
+  },
+  {
+    "id": "grimvalor",
+    "title": "Grimvalor",
+    "developer": "Direlight Oy",
+    "genre": "Action/Platformer",
+    "rating": 4.7,
+    "size": "775 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/riwqU-F5SXl8XW0icEWtQo5rA79-zbt9S9HlFWz0tJI81x2kmDXkG8u4LRw0YKgxf6g=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/2_0diZ8Kn9iSGqYAQwDYADaXOOs3ss9D6thCfj7fr3nwz6JUY0VjPskmQxheZ8yV3RV4=w1052-h592-rw",
+    "description": "Award-winning 2.5D dark fantasy hack-and-slash platformer featuring fluid souls-like combat across five acts in a mysterious cursed kingdom.",
+    "features": [
+      "Free Act 1, premium unlock for Acts 2-5",
+      "Souls-like skill-based combat",
+      "Full controller support",
+      "Completely offline single-player"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.direlight.grimvalor",
+    "appStoreUrl": "https://apps.apple.com/us/app/grimvalor/id1369179088",
+    "featured": false
+  },
+  {
+    "id": "carnage-wars",
+    "title": "Carnage Wars",
+    "developer": "Zic Zac",
+    "genre": "Action/Shooter",
+    "rating": 4.5,
+    "size": "600 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Online",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/U_YRQf_BJkEymPJZn_teK-pOZFguD6JJzW5Pgr0HYi2rm0bAj7mo_0y0TCQYQJpgNqwUHeRq5qcPzs-yY4zD0g=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/3yXSujPiQ-LHIzWFTSFOEJNfCceMo1qPE0EVsuW5gaAytQR1WB4fjZ8EXa-1Gn7ibzQL=w1052-h592-rw",
+    "description": "Lightweight indie multiplayer shooter offering 5v5 PvP, 40-player Battle Royale, and offline AI/LAN modes with switchable first/third-person views.",
+    "features": [
+      "Robust offline mode with LAN support",
+      "5v5 multiplayer and 40-player Battle Royale",
+      "11 weapons and 4 vehicles (including tank, helicopter)",
+      "Switchable first-person and third-person views"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ziczac.shooter",
+    "featured": false
+  },
+  {
+    "id": "trials-of-mana",
+    "title": "Trials of Mana",
+    "developer": "SQUARE ENIX",
+    "genre": "Action RPG/JRPG",
+    "rating": 4.3,
+    "size": "6.1 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/43LbOAY3dt5oQczUyZx9VMFLBhWEnMZdTgVIMtIrY4eCfetV8XXT5uIwevnqEry3FgY=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/7bwUigWKdpatIwVZtEXfsmR54MhXPSi-Z_Ssh-5JxTJQSyX_ejVY7BsHVP28GUGBAA=w1052-h592-rw",
+    "description": "A premium 3D action-RPG remake of the classic Mana series featuring a dynamic combo-based battle system, six heroes, and full English/Japanese voiceover.",
+    "features": [
+      "Choose 3 of 6 heroes with branching storylines",
+      "4 difficulty modes (Beginner to Hard)",
+      "60-track remastered soundtrack by Hiroki Kikuta",
+      "New Game Plus and Class 4 progression"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.tom",
+    "appStoreUrl": "https://apps.apple.com/us/app/trials-of-mana/id1552176109",
+    "featured": false
+  },
+  {
+    "id": "superliminal",
+    "title": "Superliminal",
+    "developer": "Noodlecake Studios",
+    "genre": "Puzzle/First-Person Adventure",
+    "rating": 3.9,
+    "size": "1.2 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/by4gmgoQviO8T4pouA_r9rSfiL1NcLvKxIHu2LvbZKM9yvjD02n3fX7piH0mUGHH0E8=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/2aT4Rpzzm-gaejhU1uP6DEPm7G7QwjRKoubGDOYLeDfZYgLW-HfrD9tYRpB6Rg7J-DI=w1052-h592-rw",
+    "description": "A first-person perspective puzzle game where you bend reality and resize objects with your point of view to escape a surreal dreamworld.",
+    "features": [
+      "Mind-bending forced-perspective mechanics",
+      "Free trial with one-time IAP unlock",
+      "Voice-acted narrative campaign",
+      "No ads, fully offline single-player"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.noodlecake.superliminal",
+    "appStoreUrl": "https://apps.apple.com/us/app/superliminal/id6443604310",
+    "featured": false
+  },
+  {
+    "id": "wall-of-insanity",
+    "title": "Wall of Insanity",
+    "developer": "VenomizedArt",
+    "genre": "Action/Survival Horror Shooter",
+    "rating": 4.2,
+    "size": "1.4 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/ksW7EinwMFfW2t4FlxZVp-2i-XILEIgJo-vbyZhoBo6w8LiPF8CwhZKV8-bVxFGXvyQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/kzvNHoIB8bR4Mo-J4t6bPydMowDBAIuwFZG6UmkoRA0QTh5bngOELZlYGmJzHDgopjOT=w1052-h592-rw",
+    "description": "A dark survival-horror shooter from the Slaughter series creators, sending a special unit into a cult's nightmarish world filled with traps and twisted creatures.",
+    "features": [
+      "Atmospheric horror setting with tactical combat",
+      "Full gamepad support and graphics options",
+      "Exploration with weapon and supply scavenging",
+      "Premium paid app, no ads"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.VenomizedArt.WallOfInsanity",
+    "appStoreUrl": "https://apps.apple.com/us/app/wall-of-insanity/id1580067723",
+    "featured": false
+  },
+  {
+    "id": "dead-cells",
+    "title": "Dead Cells",
+    "developer": "Playdigious",
+    "genre": "Action/Roguevania Platformer",
+    "rating": 4.8,
+    "size": "1.2 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/Mn9NateYFRZQbWnlZvszDPoKZbeuZM2O-Kyn7EKRCZI3D8joecHqytfOx73IyuAwHw=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/xO5Wvxpi4uqCm5vHRa3fqf_XBf5Y0q0s16_1dwdqfWRHfiiNpwmhUUjXmxpi8NER6y4=w1052-h592-rw",
+    "description": "A premium roguevania action-platformer with frantic 2D combat across a procedurally connected castle, where every death unlocks new paths and abilities.",
+    "features": [
+      "Two control modes (Original & Auto-Hit)",
+      "MFi/Bluetooth controller support",
+      "No ads or F2P mechanics",
+      "Multiple paid DLC expansions available"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.playdigious.deadcells.mobile",
+    "appStoreUrl": "https://apps.apple.com/us/app/dead-cells/id1389752090",
+    "featured": false
+  },
+  {
+    "id": "walking-dead-season-one",
+    "title": "The Walking Dead: Season One",
+    "developer": "Skybound Game Studios",
+    "genre": "Adventure/Interactive Story",
+    "rating": 4.4,
+    "size": "1.8 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/Z4DBaIKoo88TwrBNzaUvsgJWs5f0CiIo8kOVIt-EAB9vajKeia3d6WTvdCp4ExTuLlQ=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/312pD6YZhTkIGviASvambLDSHUF4RPqjhTrNa5-h3gN7PDrNPJphTawzh4lYq3BI8Y_F=w1052-h592-rw",
+    "description": "Award-winning narrative adventure where Lee Everett protects orphan Clementine through a zombie apocalypse, with choices that reshape the story across five episodes.",
+    "features": [
+      "90+ Game of the Year awards",
+      "Five episodes plus '400 Days' DLC",
+      "Choice-driven branching narrative",
+      "First episode free, Season Pass for episodes 2-5"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.telltalegames.walkingdead100",
+    "appStoreUrl": "https://apps.apple.com/us/app/walking-dead-the-game/id524731580",
+    "featured": false
+  },
+  {
+    "id": "dead-effect-2",
+    "title": "Dead Effect 2",
+    "developer": "BadFly Interactive",
+    "genre": "Action/Sci-Fi FPS",
+    "rating": 3.3,
+    "size": "2.5 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/8e8xcC9G7e82BEe8LInk9N3dwY98apm2NHt8JRvmb0gtVkT1Tgr2IGe4g22CYZjX7Dw=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/AFHgeY6SQypWixkOZiG2wBqImUujMVLOln-qODnKtO5tM8fafixjkIvaGb709hgHvdkS=w1052-h592-rw",
+    "description": "A console-quality sci-fi first-person shooter set on a zombie-infested space station with 20+ hours of campaign and deep RPG progression systems.",
+    "features": [
+      "3 playable heroes with unique abilities",
+      "40+ upgradable weapons, 100+ implants",
+      "Full controller support",
+      "Pro voice acting and atmospheric soundtrack"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.badflyinteractive.deadeffect2",
+    "appStoreUrl": "https://apps.apple.com/us/app/dead-effect-2-space-zombies/id1439355548",
+    "featured": false
+  },
+  {
+    "id": "epic-conquest-2",
+    "title": "Epic Conquest 2",
+    "developer": "Gaco Games",
+    "genre": "Action RPG",
+    "rating": 4.7,
+    "size": "150 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/RLM6abOXqFBVSRW0njqU_c8_VHD1w7a8yheZ7pHtxkXkvHsP8X4mBauZlLx1fuNmJrU=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/zWnJsrZqfXLshJhZlFpGe13qDU0xru-muPjKErz-WV3VQilwQLv6bVMw1_oMpHM-gbE=w1052-h592-rw",
+    "description": "A classic single-player action RPG with skill-based combat, deep character builds, open-world exploration, and a story-driven anime-styled adventure.",
+    "features": [
+      "8 skills + 8 masteries per character with mix-and-match builds",
+      "Classic STR/INT/AGI/DEX/VIT attribute distribution",
+      "Blacksmith crafting and equipment enhancement system",
+      "Fully offline play with cloud save support"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.GacoGames.EC2",
+    "appStoreUrl": "https://apps.apple.com/us/app/epic-conquest-2/id1607255589",
+    "featured": false
+  },
+  {
+    "id": "alien-isolation",
+    "title": "Alien: Isolation",
+    "developer": "Feral Interactive",
+    "genre": "Action/Survival Horror",
+    "rating": 3.9,
+    "size": "11 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline",
+      "High Graphics"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/WSWIHB-QdvM9MgaVHf-9BWVIu7kapJOJTU8RqaRdD2157ffEEoKZYhQPwQgJgEQpUtM=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/GF6bCTw7Wz3vF5_jKR740YQNIr4CF5EXkvXnPRkEEgPbANZtSNAt025xDgMKB1BnjIY=w1052-h592-rw",
+    "description": "Console-quality survival horror port where Amanda Ripley investigates her mother's disappearance aboard the Sevastopol space station while hunted by a deadly xenomorph.",
+    "features": [
+      "All seven DLC packs included with single unlock",
+      "Redesigned touchscreen controls with full customization",
+      "Gamepad, mouse and keyboard support",
+      "Fully offline single-player experience"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.feralinteractive.alienisolation_android",
+    "appStoreUrl": "https://apps.apple.com/us/app/alien-isolation/id1573029040",
+    "featured": false
+  },
+  {
+    "id": "europe-front-remastered",
+    "title": "Europe Front: Remastered",
+    "developer": "M.O.A.B.",
+    "genre": "Action/WW2 FPS",
+    "rating": 3.6,
+    "size": "600 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/v91XydVhm2vIn7bVS2ukN5h5pkkkcb121piJ2SQ3r-XPZh26KzlrIzPryqzyGUoe7pPV=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/dtczvO97cZ4RL6nCPO6kmYV855CRuwcivX6GqNypS5vS7MCS7196lyczOle4gets1ASW=w1052-h592-rw",
+    "description": "A single-player WW2 first-person shooter with dual Soviet and German campaigns spanning historic Eastern Front and European battlegrounds with authentic weapons.",
+    "features": [
+      "Two full campaigns (USSR and Germany)",
+      "Authentic 1940s weapons and military vehicles",
+      "Tank and vehicle combat sequences",
+      "Fully offline single-player gameplay"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.moab.efr",
+    "appStoreUrl": "https://apps.apple.com/us/app/europe-front-remastered/id6502045244",
+    "featured": false
+  },
+  {
+    "id": "gta-san-andreas",
+    "title": "GTA San Andreas",
+    "developer": "Rockstar Games",
+    "genre": "Action/Open-World Crime",
+    "rating": 4.7,
+    "size": "2.4 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/XRlCpj22PFJuFK43QcE3u5RxmoNUed7YO_zG-6F1PCqjrBIIURbTBDvTgLVVIk5pNeY=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/XJIXWvMtYKOfdE8k_353XZwKEHE63JigwjZnsSyhUH6VzOeUHhxouqGHpy7f1nQGyQ=w1052-h592-rw",
+    "description": "Carl Johnson returns to Los Santos and must traverse the entire state of San Andreas to save his family in this remastered open-world classic.",
+    "features": [
+      "Remastered high-resolution graphics for mobile",
+      "Three customizable control schemes with gamepad support",
+      "Cloud save sync via Rockstar Social Club",
+      "70+ hours of fully offline single-player gameplay"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rockstargames.gtasa",
+    "appStoreUrl": "https://apps.apple.com/us/app/grand-theft-auto-san-andreas/id763692274",
+    "featured": false
+  },
+  {
+    "id": "madout-2",
+    "title": "MadOut 2 (BigCityOnline)",
+    "developer": "MADOUT GAMES",
+    "genre": "Action/Open-World Racing",
+    "rating": 4.1,
+    "size": "1.4 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/GKto-6a7YRJ9v_ijr21vZQaWbHImoOWBixcxNP_hs25ZTabDzf1apiv5arTK2kScOcBC=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/oJT6mg3AQYgtT85h5Yw7ZosNtmi6z_fw3NWHb2OXIvyBucFXYsZdkOTfIFhFPoFqIw=w1052-h592-rw",
+    "description": "Open-world sandbox racing and crime game blending GTA-style action with up to 200-player multiplayer and offline single-player story missions.",
+    "features": [
+      "70+ customizable vehicles with realistic physics",
+      "30+ single-player story missions",
+      "Open city sandbox exploration",
+      "Offline mode for story missions"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.MadOut.BIG",
+    "appStoreUrl": "https://apps.apple.com/us/app/madout-2-grand-auto-racing/id1214765807",
+    "featured": false
+  },
+  {
+    "id": "special-forces-group-3",
+    "title": "Special Forces Group 3",
+    "developer": "ForgeGames",
+    "genre": "Action/Tactical FPS",
+    "rating": 4.4,
+    "size": "700 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Online",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/st4fkxVZ2wo6aOsMnpMAQmbKVzcl2E-Esh0cwcswMo5LcuAxQxAb-OxQz9_YTt4Zym8=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/jx3sk9dZGnWTx4HnlO0iPIzjQ5pCcbDNi6uV4tykfl1MFCKXkYC4X5AOUJLjv472SQE=w1052-h592-rw",
+    "description": "Fast competitive skill-based FPS with 40+ maps, 9 game modes, and full offline play including bot matches and local multiplayer.",
+    "features": [
+      "9 game modes including Classic, Zombie, Bomb, and Sniper",
+      "100+ character and weapon skins to customize",
+      "8v8 PvP plus offline bot matches",
+      "Online multiplayer with friends optional"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ForgeGames.sfg3",
+    "appStoreUrl": "https://apps.apple.com/us/app/special-forces-group-3/id6448548207",
+    "featured": false
+  },
+  {
+    "id": "truckers-of-europe-3",
+    "title": "Truckers of Europe 3",
+    "developer": "Wanda Software",
+    "genre": "Simulation/Truck Driving",
+    "rating": 4.5,
+    "size": "800 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/FwKtLtLulWDsEawc5dOelxZyvzTQK6gEZUmqLkpEIlVJjiyPtikvwpWEkSrsgREt9yCg=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/ypgEpiqrz7uzhhQvZ6w_Y9fng2FY0bRzwIXSJI3tjTEnTrKyuBX9zuWeMTJaKOWY4gBr=w1052-h592-rw",
+    "description": "Realistic European truck driving simulation with 7 trucks, 25 trailers, dynamic weather, AI traffic, and an open European map for cargo deliveries.",
+    "features": [
+      "7 trucks with realistic physics and chassis options",
+      "25 trailers and many cargo types",
+      "Dynamic weather, day/night cycle, fuel and damage mechanics",
+      "Fully offline open-world driving"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3",
+    "appStoreUrl": "https://apps.apple.com/us/app/truckers-of-europe-3/id1630315603",
+    "featured": false
+  },
+  {
+    "id": "grid-autosport",
+    "title": "GRID Autosport",
+    "developer": "Feral Interactive",
+    "genre": "Racing/Simulation",
+    "rating": 4.6,
+    "size": "3.9 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline",
+      "Cars",
+      "High Graphics"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/stwUFdYIiKFCOU1uOCPQK5mRxr2fnZraDbM0ra32_-QxhudPDBGaehpzz_o9xLQl7A_v=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/HpAF2Oi9bMJdEBCcSp6vsy0e5eOeW0U1ne1U_sq1DYoC4KkcYJmcj2JyP38cljWwRQ=w1052-h592-rw",
+    "description": "Console-quality racing sim with 100 cars and 100 circuits across multiple disciplines including touring, open-wheel, drift, and endurance GT.",
+    "features": [
+      "Complete AAA racing game with all DLC included",
+      "100+ cars and 100+ circuits",
+      "Tilt, touch and MFi gamepad controls",
+      "Fully offline career and single-race modes"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.feralinteractive.gridas",
+    "appStoreUrl": "https://apps.apple.com/us/app/grid-autosport/id1179421849",
+    "featured": false
+  },
+  {
+    "id": "wilderless",
+    "title": "Wilderless",
+    "developer": "Protopop Games",
+    "genre": "Open-World Exploration/Sandbox",
+    "rating": 4.0,
+    "size": "500 MB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/gIFUodUtgLm2aH0vwGkvmdkIspZfzQ-BLtIUToaHZVG0k2qpx4gDMf05heBzZpuj1IczWtsEEfBemxuvC6w_=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/QE2YnBlzjiVurnGthagJi76zGZoy2t3JgcMsdrllYfqC8mGFbmL1jYgORGldlIQX6w=w1052-h592-rw",
+    "description": "Peaceful non-violent open-world exploration game with procedurally generated wilderness, shapeshifting, and zero quests, ads, or microtransactions.",
+    "features": [
+      "Procedurally generated seamless open world (multiple biomes)",
+      "Shapeshift into horses, bears, hawks, dragons and more",
+      "Photo mode and character customization",
+      "Fully offline, no ads, no in-app purchases"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.Protopop.Wilderless",
+    "appStoreUrl": "https://apps.apple.com/us/app/wilderless/id1485263737",
+    "featured": false
+  },
+  {
+    "id": "max-payne-mobile",
+    "title": "Max Payne Mobile",
+    "developer": "Rockstar Games",
+    "genre": "Action/Third-Person Shooter",
+    "rating": 3.7,
+    "size": "1.3 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/CM5rJdP9S3gQk_5Td3Er_HfQIAUdnO0lwxJDZgYzKfqZrAWa0xvZcXwOMdsB8cmxJYM=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/8cGd8vtrN5o8lScPf1UjC7_GT4nwMVwUrnbbDsLgMBxEZirGSTrlo6BkSyFocSFYT74=w1052-h592-rw",
+    "description": "Rockstar's noir third-person shooter follows a fugitive cop framed for murder as he hunts the mob and clears his name with bullet-time gunplay.",
+    "features": [
+      "Signature Bullet Time slow-motion combat",
+      "Full controller support (MOGA / Bluetooth)",
+      "High-resolution textures and visual effects",
+      "Cloud save sync via Rockstar Social Club"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rockstar.maxpayne",
+    "appStoreUrl": "https://apps.apple.com/us/app/max-payne-mobile/id512142109",
+    "featured": false
+  },
+  {
+    "id": "bright-memory-infinite",
+    "title": "Bright Memory: Infinite",
+    "developer": "FYQD-Studio",
+    "genre": "Action/FPS",
+    "rating": 4.0,
+    "size": "2.2 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline",
+      "High Graphics"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/DpPypsNcAN7pXuJCwPwBWOLTA7Omu5feh-6quT3bvHcY59PHL82WZ2dHO6VzEiyfe6M=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/SsbUkxC-pR40gubqtL658aNbo84EpbjhVkNlmiQA53ZTH32z4oMLANePv2KwS2pCWzUZ=w1052-h592-rw",
+    "description": "A high-end first-person shooter set in 2036 blending gunplay, swordplay, and supernatural powers across breathtaking sci-fi environments.",
+    "features": [
+      "120 FPS support on flagship devices",
+      "Gyroscope aiming and Xbox controller support",
+      "Console-grade visuals with customizable graphics",
+      "Mix of FPS combat and melee sword combos"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.FYQD.BMI",
+    "appStoreUrl": "https://apps.apple.com/us/app/bright-memory-mobile/id1503590066",
+    "featured": false
+  },
+  {
+    "id": "little-nightmares",
+    "title": "Little Nightmares",
+    "developer": "Playdigious",
+    "genre": "Puzzle/Horror Adventure",
+    "rating": 3.4,
+    "size": "1.5 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/vEJAwZwhOv7Wzf1Md7PsMzOyo087y0Z4rhRgidtfv03c682RicoBz3BOsrigdiXA-7I=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/HeyCMUVHE3-YbyNmypziTF3yDI9edQKZYAzVdL7slCwrqEBwzAWOJBVXkaQKA63dCQ=w1052-h592-rw",
+    "description": "Help Six escape The Maw, a vast and mysterious vessel inhabited by corrupted souls, in this acclaimed atmospheric puzzle-platformer.",
+    "features": [
+      "Premium offline experience (no ads, no IAP)",
+      "Eerie hand-crafted art direction and creepy sound design",
+      "Stealth, puzzle, and platforming mechanics",
+      "Touch and controller support"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.playdigious.littlenightmare",
+    "appStoreUrl": "https://apps.apple.com/us/app/little-nightmares/id6451492937",
+    "featured": false
+  },
+  {
+    "id": "farming-simulator-23-netflix",
+    "title": "Farming Simulator 23 NETFLIX",
+    "developer": "GIANTS Software",
+    "genre": "Simulation/Farming",
+    "rating": 3.9,
+    "size": "1.8 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/2mQEAK27ITlBFqaf2VzNO1MzI7z-Hgt30aTSOa9kZHwZXxV-EQfnjIdbkGLxJyQKTqrA=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/jPJCPuW4doDdqdONU7u5gflErarWXr9ayVRBd6WnXjbcyDtgnWDEhTNh3gjLauzr1g=w1052-h592-rw",
+    "description": "Run a rustic virtual farm — plant crops, tend livestock, and manage production until your agricultural empire flourishes in this Netflix-exclusive simulator.",
+    "features": [
+      "Netflix subscription required (no ads, no IAP)",
+      "Over 100 authentic licensed vehicles and tools",
+      "Crop and livestock management with seasonal cycles",
+      "Full offline single-player gameplay"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.netflix.NGP.FarmingSimulator23",
+    "appStoreUrl": "https://apps.apple.com/us/app/farming-simulator-23-netflix/id6444248338",
+    "featured": false
+  },
+  {
+    "id": "steel-and-flesh-2",
+    "title": "Steel and Flesh 2",
+    "developer": "Virtual Studio Team",
+    "genre": "Action/Medieval RPG",
+    "rating": 4.5,
+    "size": "600 MB",
+    "platforms": [
+      "Android"
+    ],
+    "tags": [
+      "Android",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/hm9dlVZRlns2h1iPoWswClNv7ty3om6fEkSp0NrhGyKT56dGmh5y94V6NqLitnwKUqI=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/tvFkLTDRdcF0Sqvs_wjvyTetjrT1RmHCGY0xI_TlsAL8Xy5frczma17FM1r8DX7lgyk=w1052-h592-rw",
+    "description": "Visit the Middle Ages of 1212 in a 3D action-strategy where you command armies, siege castles, and conquer 20 historical states across a global map.",
+    "features": [
+      "Large-scale 3D battles with up to 300 combatants",
+      "Sieges with rams, towers, and catapults",
+      "Empire building and skill-based character progression",
+      "Optional online multiplayer"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.VS.SteelAndFlesh2",
+    "featured": false
+  },
+  {
+    "id": "adventurers-mobile",
+    "title": "Adventurers: Mobile",
+    "developer": "Raven Illusion Studio",
+    "genre": "Action/Adventure",
+    "rating": 3.5,
+    "size": "1.5 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/zvOaQCXclEmxDu79CfHr3bCYqr37KBMjYjXsVKWSTwPts2vR3K7PC6DINfHVRknyYqM=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/5K76VeCX8eF5ueZMCYvEcwDD-eUCVXthkPwlpWXz6H1eSrK6-uWl91-NVazubatUu5o=w1052-h592-rw",
+    "description": "An action-adventure across West Africa where a young adventurer hunts the legendary treasure of Mansa Musa through markets, jungles, deserts, and ancient ruins.",
+    "features": [
+      "Console-style third-person action and exploration",
+      "Puzzle-solving and treasure hunting",
+      "Diverse environments and driving sequences",
+      "Fluid traversal and combat movement"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.RavenIllusionStudio.ADVENTURERSMOBILE",
+    "appStoreUrl": "https://apps.apple.com/us/app/adventurers-mobile/id6446925345",
+    "featured": false
+  },
+  {
+    "id": "descenders",
+    "title": "Descenders",
+    "developer": "Noodlecake Studios",
+    "genre": "Sports/Extreme Biking",
+    "rating": 4.2,
+    "size": "1.1 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/vWZfPvFOOeX5ob_1fK78BwkKVrApG2y8JOZ3pWZJ8Eg5HzxVXZn1K1WfyvFyUzDcm2w=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/tsPyTVVkGlpxojQod2N54N_7CIJ4FId55eycVMpxdP99n89446Mk3_lKdvNmvutqv6qe=w1052-h592-rw",
+    "description": "Extreme downhill freeriding for the modern era with procedurally generated worlds where every mistake has real physics-driven consequences.",
+    "features": [
+      "Procedurally generated trails — never the same ride twice",
+      "Choose between three teams to earn rep",
+      "Physics-based controls with deep trick system",
+      "Career and freeride modes"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.noodlecake.descenders",
+    "appStoreUrl": "https://apps.apple.com/us/app/descenders/id1604675493",
+    "featured": false
+  },
+  {
+    "id": "northgard",
+    "title": "Northgard",
+    "developer": "Playdigious",
+    "genre": "Strategy/RTS",
+    "rating": 4.8,
+    "size": "2.0 GB",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Offline"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/A_7LZ3GLOrscdIf0rTSC3MjGZmGvKQ5u-hpUTAtE-3YyhYGATMBLdBWd2TP1F-a-Kw=w512-h512-rw",
+    "coverImage": "https://play-lh.googleusercontent.com/sBZuhapBJZi2G9H4xK8oIpmbP55k1UDgvYXwnvAGw3wABIlUzUEZ70ddPq6_trVt45E=w1052-h592-rw",
+    "description": "A Norse mythology RTS where you control a Viking clan fighting for control of a mysterious newfound continent through conquest, fame, lore, or trade.",
+    "features": [
+      "Six unique Viking clans with distinct gameplay",
+      "Multiple victory paths (military, fame, lore, trade)",
+      "Cross-platform multiplayer",
+      "Premium offline campaign"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.playdigious.northgard",
+    "appStoreUrl": "https://apps.apple.com/us/app/northgard/id1623817586",
+    "featured": false
+  },
+  {
+    "id": "resident-evil-village-mobile",
+    "title": "Resident Evil Village Mobile",
+    "developer": "CAPCOM",
+    "genre": "Action/Survival Horror",
+    "rating": 3.9,
+    "size": "16 GB",
+    "platforms": [
+      "iOS"
+    ],
+    "tags": [
+      "iOS",
+      "Offline",
+      "High Graphics"
+    ],
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/93/cf/cd93cf3d-bfd2-04c2-b190-8e635cbde094/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+    "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/43/f8/97/43f89730-a1cc-ae23-475e-8815092a1bf1/f70c16dc-b7ff-4d02-93e3-28e1dec19a85_ss001.png/1052x592bb.png",
+    "description": "Capcom's acclaimed first-person survival horror, fully playable on iPhone 15 Pro and M-series iPads with console-grade visuals.",
+    "features": [
+      "Native console port with high-fidelity graphics",
+      "Customizable on-screen touch controls",
+      "Bluetooth controller support (PS/Xbox)",
+      "Free trial with full unlock + Winters' Expansion DLC"
+    ],
+    "appStoreUrl": "https://apps.apple.com/us/app/resident-evil-village/id6450980545",
+    "featured": false
+  },
+  {
+    "id": "resident-evil-4-mobile",
+    "title": "Resident Evil 4",
+    "developer": "CAPCOM",
+    "genre": "Action/Survival Horror",
+    "rating": 3.9,
+    "size": "30 GB",
+    "platforms": [
+      "iOS"
+    ],
+    "tags": [
+      "iOS",
+      "Offline",
+      "High Graphics"
+    ],
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/c8/c9/24c8c984-811f-2806-f307-1535d0fe84c8/AppIcon-1x_U007epad-0-11-0-85-220-0.png/512x512bb.jpg",
+    "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a4/ca/9e/a4ca9ec2-8d23-8ced-14d4-dd8fa03e2ecc/8964ae53-8369-4b03-922c-7229288b2144_01_iPhone_2208x1242_EN.png/1052x592bb.png",
+    "description": "Capcom's modern remake of the legendary survival-horror classic, ported natively to iPhone 15 Pro, iPad, and Mac with full visuals.",
+    "features": [
+      "Universal Purchase across iPhone/iPad/Mac",
+      "Cross-progression cloud save",
+      "Free trial; full unlock + Separate Ways DLC",
+      "Touch and controller support"
+    ],
+    "appStoreUrl": "https://apps.apple.com/us/app/resident-evil-4/id6462360082",
+    "featured": false
+  },
+  {
+    "id": "death-stranding-mobile",
+    "title": "Death Stranding Director's Cut",
+    "developer": "Kojima Productions",
+    "genre": "Action/Adventure",
+    "rating": 3.9,
+    "size": "50 GB",
+    "platforms": [
+      "iOS"
+    ],
+    "tags": [
+      "iOS",
+      "Offline",
+      "High Graphics"
+    ],
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/21/46/5221468f-2c43-80c3-a117-84de564442d9/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+    "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f1/70/cf/f170cf57-788c-9385-4804-712c533a1517/410957ff-3b63-4a28-b9b2-2439a9242187_DSDC_Mac_Crater.png/1052x592bb.png",
+    "description": "Hideo Kojima's genre-defying action-adventure expanded with new content, playable natively on iPhone 15 Pro and Apple Silicon devices.",
+    "features": [
+      "Native A17 Pro / Apple Silicon support",
+      "High frame rate and Photo Mode",
+      "Crossover content from Half-Life and Cyberpunk 2077",
+      "Controller support, universal purchase"
+    ],
+    "appStoreUrl": "https://apps.apple.com/us/app/death-stranding-directors-cut/id6449748961",
+    "featured": false
+  },
+  {
+    "id": "resident-evil-7-biohazard",
+    "title": "Resident Evil 7 Biohazard",
+    "developer": "CAPCOM",
+    "genre": "Survival Horror/FPS",
+    "rating": 4.2,
+    "size": "31 GB",
+    "platforms": [
+      "iOS"
+    ],
+    "tags": [
+      "iOS",
+      "Offline",
+      "High Graphics"
+    ],
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/7e/ef/be7eef57-7e97-baeb-5861-8afb59c31588/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/512x512bb.jpg",
+    "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/a6/33/4aa633a1-7f51-936a-d957-7f714974cc91/0707ec82-de8f-4f74-9fd5-d9613d808264_iPhone_2208x1242_01_SS.png/1052x592bb.png",
+    "description": "Console-quality first-person survival horror set in an abandoned Louisiana farmhouse, ported natively to A17 Pro Apple silicon by Capcom.",
+    "features": [
+      "Free-to-try with full game unlock",
+      "Native Apple silicon performance",
+      "Cross-progression between iPhone, iPad, and Mac",
+      "Optimized touch controls and Auto Fire option"
+    ],
+    "appStoreUrl": "https://apps.apple.com/us/app/resident-evil-7-biohazard/id1640629241",
+    "featured": false
+  },
+  {
+    "id": "assassins-creed-mirage-mobile",
+    "title": "Assassin's Creed Mirage Mobile",
+    "developer": "Ubisoft",
+    "genre": "Action/Stealth Adventure",
+    "rating": 4.3,
+    "size": "23.7 GB",
+    "platforms": [
+      "iOS"
+    ],
+    "tags": [
+      "iOS",
+      "Offline",
+      "High Graphics"
+    ],
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/02/11/be021193-54f8-1fa5-50d3-045fdaf25220/AppIcon-1x_U007emarketing-0-8-85-220-0.png/512x512bb.jpg",
+    "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/ef/fe/61effe97-1d63-3d13-b44f-d8c7db0ca488/be4cb24a-ff37-4ff1-aa5a-6e64eb80e4a7_ACM_KeyArt_banner_2208x1242.png/1052x592bb.png",
+    "description": "Console-quality narrative adventure following Basim, a street thief in 9th-century Baghdad rising through the ranks of the Hidden Ones via stealth and parkour.",
+    "features": [
+      "Full console game ported to iPhone 15 Pro+ and M-chip iPads",
+      "Cross-progression with PC and console versions",
+      "Touch controls plus MFi/PlayStation/Xbox controller support",
+      "Single-player offline-capable (Ubisoft account login required)"
+    ],
+    "appStoreUrl": "https://apps.apple.com/us/app/assassins-creed-mirage/id6472704261",
+    "featured": false
+  },
+  {
+    "id": "derby-madness",
+    "title": "Derby Madness",
+    "developer": "Dimension Technics",
+    "genre": "Racing/Demolition Simulation",
+    "rating": 4.8,
+    "size": "1.5 GB",
+    "platforms": [
+      "iOS"
+    ],
+    "tags": [
+      "iOS",
+      "Offline",
+      "Cars"
+    ],
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/e3/13/96e3132d-8598-0ab0-8a4f-7189c880823e/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+    "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/77/00/747700de-644d-b2ba-a90e-aa32c96d83c0/bb03386c-0c23-49a6-9d81-f139d72850a9_screenshot_5.5_0.png/1052x592bb.png",
+    "description": "A real-time demolition derby simulator featuring up to 32 cars per race with realistic deformations, pile-ups, spin-outs, and 8 destruction-focused game modes.",
+    "features": [
+      "Real-time vehicle deformation physics",
+      "Up to 32 cars per race",
+      "8 modes: races, destruction series, tournaments",
+      "Touch, tilt, and gamepad controls"
+    ],
+    "appStoreUrl": "https://apps.apple.com/us/app/derby-madness/id1280965727",
+    "featured": false
+  },
+  {
+    "id": "headon-body-cam-shooter",
+    "title": "HeadOn - Body Cam Shooter",
+    "developer": "INSTA Games",
+    "genre": "Action/FPS Shooter",
+    "rating": 4.3,
+    "size": "1.5 GB",
+    "platforms": [
+      "iOS"
+    ],
+    "tags": [
+      "iOS",
+      "Online",
+      "Offline"
+    ],
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/d4/a1/e3d4a1cf-a9a8-420d-f46d-8c6698d04dfe/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+    "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/c1/5e/c8c15e32-e97d-aca7-8a37-64737bc609a7/397b7b87-17c1-45f3-93c9-301590c05699_5.5.png/1052x592bb.png",
+    "description": "A hyper-realistic bodycam-style FPS featuring 6v6 multiplayer battles, customizable weapons, and a solo offline practice mode against AI bots.",
+    "features": [
+      "12-player real-time matches (Deathmatch, Domination, FFA)",
+      "Solo offline AI practice mode",
+      "Dynamic bodycam crack/replace effects",
+      "Weapon attachments, skins, tactical gear"
+    ],
+    "appStoreUrl": "https://apps.apple.com/us/app/headon-body-cam-shooter-game/id6504755426",
+    "featured": false
+  },
+  {
+    "id": "sky-gamblers-air-supremacy-2",
+    "title": "Sky Gamblers - Air Supremacy 2",
+    "developer": "Atypical Games",
+    "genre": "Simulation/Arcade Flight Combat",
+    "rating": 3.6,
+    "size": "3.8 GB",
+    "platforms": [
+      "iOS"
+    ],
+    "tags": [
+      "iOS",
+      "Online",
+      "Offline"
+    ],
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/cc/9f/0ecc9f89-458d-7fe5-1f20-4d600e44de99/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+    "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/30/13/68/30136890-3b1a-85b4-38b1-633ccc436f0d/bcfde1ea-2070-49eb-b723-cbbadb3b9bc8_sf02_2208x1242.png/1052x592bb.png",
+    "description": "A modern jet dogfight simulator balancing arcade and sim gameplay across a 14-mission global campaign and 7v7 online multiplayer battles.",
+    "features": [
+      "18 aircraft with 4 loadout variants each",
+      "14-mission story campaign",
+      "Up to 7v7 online multiplayer",
+      "Game controller support, customizable paint jobs"
+    ],
+    "appStoreUrl": "https://apps.apple.com/us/app/sky-gamblers-air-supremacy-2/id1527041075",
+    "featured": false
   }
 ]

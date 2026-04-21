@@ -208,16 +208,36 @@
       </div>
     </div>
 
-    <button class="open-btn" onclick="window.open(window.location.origin, '_system'); window.location.href = window.location.origin;">
+    <button class="open-btn" id="openBtn">
       Try Opening in Browser
     </button>
 
-    <button class="copy-btn" id="copyBtn" onclick="copyLink()">
+    <button class="copy-btn" id="copyBtn">
       📋 Copy Link to Clipboard
     </button>
   </div>
 
   <script>
+    // Fire a landing event so Instagram bio-link traffic is identifiable in GA4
+    if (typeof gtag === 'function') {
+      gtag('event', 'landing_page_view', { traffic_source: 'instagram' });
+    }
+
+    document.getElementById('openBtn').addEventListener('click', function() {
+      if (typeof gtag === 'function') {
+        gtag('event', 'click_open_browser', { traffic_source: 'instagram', method: 'window_open' });
+      }
+      window.open(window.location.origin, '_system');
+      window.location.href = window.location.origin;
+    });
+
+    document.getElementById('copyBtn').addEventListener('click', function() {
+      if (typeof gtag === 'function') {
+        gtag('event', 'click_copy_link', { traffic_source: 'instagram' });
+      }
+      copyLink();
+    });
+
     function copyLink() {
       var url = window.location.origin;
       if (navigator.clipboard && navigator.clipboard.writeText) {

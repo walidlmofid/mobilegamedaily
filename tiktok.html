@@ -314,11 +314,20 @@
     // The main site URL
     var targetUrl = 'https://mobilegamedaily.com/';
 
+    // Fire a landing event so TikTok bio-link traffic is identifiable in GA4
+    if (typeof gtag === 'function') {
+      gtag('event', 'landing_page_view', { traffic_source: 'tiktok' });
+    }
+
     // "Try Opening in Browser" button
     // This uses intent:// scheme which TikTok's browser can't handle,
     // triggering the "Action can't be completed" dialog with the three-dots menu
     document.getElementById('tryOpenBtn').addEventListener('click', function(e) {
       e.preventDefault();
+
+      if (typeof gtag === 'function') {
+        gtag('event', 'click_open_browser', { traffic_source: 'tiktok', method: 'intent' });
+      }
 
       // Method 1: Try intent:// scheme (triggers TikTok's error dialog with Open in browser option)
       var intentUrl = 'intent://' + targetUrl.replace('https://', '') + '#Intent;scheme=https;end';
@@ -335,6 +344,9 @@
     // Copy link button
     document.getElementById('copyBtn').addEventListener('click', function() {
       var btn = this;
+      if (typeof gtag === 'function') {
+        gtag('event', 'click_copy_link', { traffic_source: 'tiktok' });
+      }
       if (navigator.clipboard && navigator.clipboard.writeText) {
         navigator.clipboard.writeText(targetUrl).then(function() {
           btn.textContent = '✅ Link Copied!';
